@@ -1,0 +1,8 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+GCT_STUB.target-geo-id,Target Geo Id
+GCT_STUB.target-geo-id2,Target Geo Id2
+GCT_STUB.display-label,Geographic Area,GCT_STUB.display-label
+HC01,Dollar
+HC02,Margin of Error

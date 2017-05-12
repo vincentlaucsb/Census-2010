@@ -1,0 +1,918 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HD01,HD02,SUBHD0301,SUBHD0302,SUBHD0303,SUBHD0401,SUBHD0402
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic area,Geographic area,Population,Housing units,Area in square miles - Total area,Area in square miles - Water area,Area in square miles - Land area,Density per square mile of land area - Population,Density per square mile of land area - Housing units
+0100000US,,United States,0100000US,,United States,United States,308745538(r38234),131704730(r15031),3796742.23,264836.79,3531905.43,87.4,37.3
+0100000US,,United States,0400000US01,01,United States - Alabama,Alabama,4779736(r38235),2171853(r15032),52420.07,1774.74,50645.33,94.4,42.9
+0100000US,,United States,1600000US0103076,0103076,United States - Alabama - Auburn city,Auburn city,53380(r38811),24646(r15601),59.10,1.03,58.07,919.3,424.4
+0100000US,,United States,1600000US0107000,0107000,United States - Alabama - Birmingham city,Birmingham city,212237(r38812),108981(r15602),148.61,2.54,146.07,1453.0,746.1
+0100000US,,United States,1600000US0120104,0120104,United States - Alabama - Decatur city,Decatur city,55683,24538,60.47,6.80,53.67,1037.4,457.2
+0100000US,,United States,1600000US0121184,0121184,United States - Alabama - Dothan city,Dothan city,65496,29274,89.72,0.32,89.40,732.6,327.5
+0100000US,,United States,1600000US0135896,0135896,United States - Alabama - Hoover city,Hoover city,81619,35474,48.21,1.05,47.16,1730.6,752.2
+0100000US,,United States,1600000US0137000,0137000,United States - Alabama - Huntsville city,Huntsville city,180105,84949,210.39,1.34,209.05,861.5,406.3
+0100000US,,United States,1600000US0150000,0150000,United States - Alabama - Mobile city,Mobile city,195111(r38814),89127(r15604),179.78,40.67,139.11,1402.6,640.7
+0100000US,,United States,1600000US0151000,0151000,United States - Alabama - Montgomery city,Montgomery city,205764,92115,161.92,2.36,159.57,1289.5,577.3
+0100000US,,United States,1600000US0177256,0177256,United States - Alabama - Tuscaloosa city,Tuscaloosa city,90468,40842,70.35,10.12,60.23,1501.9,678.1
+0100000US,,United States,0400000US02,02,United States - Alaska,Alaska,710231(r38823),306967(r15611),665384.04,94743.10,570640.95,1.2,0.5
+0100000US,,United States,1600000US0203000,0203000,United States - Alaska - Anchorage municipality,Anchorage municipality,291826,113032,1961.00,256.32,1704.68,171.2,66.3
+0100000US,,United States,0400000US04,04,United States - Arizona,Arizona,6392017,2844526,113990.30,396.22,113594.08,56.3,25.0
+0100000US,,United States,1600000US0404720,0404720,United States - Arizona - Avondale city,Avondale city,76238,27001,45.65,0.05,45.60,1672.0,592.2
+0100000US,,United States,1600000US0407940,0407940,United States - Arizona - Buckeye town,Buckeye town,50876,18207,375.39,0.13,375.26,135.6,48.5
+0100000US,,United States,1600000US0410670,0410670,United States - Arizona - Casas Adobes CDP,Casas Adobes CDP,66795,30364,26.87,0.12,26.75,2496.9,1135.1
+0100000US,,United States,1600000US0411230,0411230,United States - Arizona - Catalina Foothills CDP,Catalina Foothills CDP,50796,27211,42.11,0.10,42.01,1209.2,647.8
+0100000US,,United States,1600000US0412000,0412000,United States - Arizona - Chandler city,Chandler city,236123(r39187),94404(r15931),64.52,0.11,64.41,3665.8,1465.6
+0100000US,,United States,1600000US0423620,0423620,United States - Arizona - Flagstaff city,Flagstaff city,65870,26254,63.91,0.04,63.87,1031.3,411.0
+0100000US,,United States,1600000US0427400,0427400,United States - Arizona - Gilbert town,Gilbert town,208453(r39189),74907(r15932),68.15,0.18,67.96,3067.2,1102.2
+0100000US,,United States,1600000US0427820,0427820,United States - Arizona - Glendale city,Glendale city,226721,90505,60.13,0.16,59.98,3780.2,1509.0
+0100000US,,United States,1600000US0428380,0428380,United States - Arizona - Goodyear city,Goodyear city,65275,25027,191.52,0.04,191.48,340.9,130.7
+0100000US,,United States,1600000US0439370,0439370,United States - Arizona - Lake Havasu City city,Lake Havasu City city,52527,32327,44.48,0.05,44.43,1182.1,727.5
+0100000US,,United States,1600000US0446000,0446000,United States - Arizona - Mesa city,Mesa city,439041,201173,137.06,0.61,136.45,3217.5,1474.3
+0100000US,,United States,1600000US0454050,0454050,United States - Arizona - Peoria city,Peoria city,154065,64818,177.97,3.57,174.40,883.4,371.7
+0100000US,,United States,1600000US0455000,0455000,United States - Arizona - Phoenix city,Phoenix city,1445632(r39190),590149(r15933),517.95,1.24,516.70,2797.8,1142.1
+0100000US,,United States,1600000US0464210,0464210,United States - Arizona - San Tan Valley CDP,San Tan Valley CDP,81321,29417,35.78,0.00,35.78,2272.7,822.1
+0100000US,,United States,1600000US0465000,0465000,United States - Arizona - Scottsdale city,Scottsdale city,217385,124001,184.40,0.48,183.92,1182.0,674.2
+0100000US,,United States,1600000US0471510,0471510,United States - Arizona - Surprise city,Surprise city,117517,52586,105.87,0.12,105.75,1111.3,497.3
+0100000US,,United States,1600000US0473000,0473000,United States - Arizona - Tempe city,Tempe city,161719,73462,40.19,0.26,39.93,4050.1,1839.8
+0100000US,,United States,1600000US0477000,0477000,United States - Arizona - Tucson city,Tucson city,520116,229762,227.03,0.33,226.71,2294.2,1013.5
+0100000US,,United States,1600000US0485540,0485540,United States - Arizona - Yuma city,Yuma city,93064(r39192),38626,120.41,0.14,120.28,773.7,321.1
+0100000US,,United States,0400000US05,05,United States - Arkansas,Arkansas,2915918(r39193),1316299(r15934),53178.55,1143.07,52035.48,56.0,25.3
+0100000US,,United States,1600000US0515190,0515190,United States - Arkansas - Conway city,Conway city,58908,24402,45.59,0.25,45.34,1299.2,538.2
+0100000US,,United States,1600000US0523290,0523290,United States - Arkansas - Fayetteville city,Fayetteville city,73580,36188,55.25,1.40,53.85,1366.4,672.0
+0100000US,,United States,1600000US0524550,0524550,United States - Arkansas - Fort Smith city,Fort Smith city,86209,37899,65.84,3.87,61.97,1391.2,611.6
+0100000US,,United States,1600000US0535710,0535710,United States - Arkansas - Jonesboro city,Jonesboro city,67263,28321,80.44,0.58,79.87,842.2,354.6
+0100000US,,United States,1600000US0541000,0541000,United States - Arkansas - Little Rock city,Little Rock city,193524,91288,120.99,1.79,119.20,1623.5,765.8
+0100000US,,United States,1600000US0550450,0550450,United States - Arkansas - North Little Rock city,North Little Rock city,62304,29437,54.77,3.27,51.50,1209.9,571.6
+0100000US,,United States,1600000US0560410,0560410,United States - Arkansas - Rogers city,Rogers city,55964,22022,38.13,0.18,37.94,1474.9,580.4
+0100000US,,United States,1600000US0566080,0566080,United States - Arkansas - Springdale city,Springdale city,69797,25614,42.06,0.26,41.80,1669.8,612.8
+0100000US,,United States,0400000US06,06,United States - California,California,37253956,13680081,163694.74,7915.52,155779.22,239.1,87.8
+0100000US,,United States,1600000US0600562,0600562,United States - California - Alameda city,Alameda city,73812,32351,22.96,12.35,10.61,6956.3,3048.9
+0100000US,,United States,1600000US0600884,0600884,United States - California - Alhambra city,Alhambra city,83089,30915,7.63,0.00,7.63,10889.0,4051.5
+0100000US,,United States,1600000US0602000,0602000,United States - California - Anaheim city,Anaheim city,336265,104237,50.81,0.98,49.84,6747.5,2091.6
+0100000US,,United States,1600000US0602252,0602252,United States - California - Antioch city,Antioch city,102372,34849,29.08,0.73,28.35,3611.2,1229.3
+0100000US,,United States,1600000US0602364,0602364,United States - California - Apple Valley town,Apple Valley town,69135,26117,73.52,0.33,73.19,944.6,356.8
+0100000US,,United States,1600000US0602462,0602462,United States - California - Arcadia city,Arcadia city,56364,20686,11.13,0.21,10.93,5159.1,1893.4
+0100000US,,United States,1600000US0602553,0602553,United States - California - Arden-Arcade CDP,Arden-Arcade CDP,92186,44813,17.92,0.09,17.83,5170.5,2513.4
+0100000US,,United States,1600000US0603526,0603526,United States - California - Bakersfield city,Bakersfield city,347483,120725,143.61,1.44,142.16,2444.2,849.2
+0100000US,,United States,1600000US0603666,0603666,United States - California - Baldwin Park city,Baldwin Park city,75390,17736,6.79,0.15,6.63,11369.2,2674.7
+0100000US,,United States,1600000US0604982,0604982,United States - California - Bellflower city,Bellflower city,76616(r39358),24897(r16069),6.17,0.05,6.12,12525.0,4070.1
+0100000US,,United States,1600000US0606000,0606000,United States - California - Berkeley city,Berkeley city,112580,49454,17.70,7.23,10.47,10752.4,4723.3
+0100000US,,United States,1600000US0608142,0608142,United States - California - Brentwood city,Brentwood city,51481,17523,14.80,0.02,14.79,3481.8,1185.1
+0100000US,,United States,1600000US0608786,0608786,United States - California - Buena Park city,Buena Park city,80530(r39360),24623(r16071),10.55,0.03,10.52,7652.1,2339.7
+0100000US,,United States,1600000US0608954,0608954,United States - California - Burbank city,Burbank city,103340,44309,17.38,0.04,17.34,5959.3,2555.1
+0100000US,,United States,1600000US0610046,0610046,United States - California - Camarillo city,Camarillo city,65201,25702,19.54,0.02,19.53,3338.9,1316.2
+0100000US,,United States,1600000US0611194,0611194,United States - California - Carlsbad city,Carlsbad city,105328,44673,39.11,1.39,37.72,2792.2,1184.3
+0100000US,,United States,1600000US0611390,0611390,United States - California - Carmichael CDP,Carmichael CDP,61762,28165,13.79,0.26,13.53,4565.4,2082.0
+0100000US,,United States,1600000US0611530,0611530,United States - California - Carson city,Carson city,91714,26226,18.97,0.24,18.72,4898.2,1400.7
+0100000US,,United States,1600000US0611964,0611964,United States - California - Castro Valley CDP,Castro Valley CDP,61388,23392,16.92,0.28,16.63,3690.4,1406.2
+0100000US,,United States,1600000US0612048,0612048,United States - California - Cathedral City city,Cathedral City city,51200,20995,21.76,0.26,21.50,2381.5,976.5
+0100000US,,United States,1600000US0613014,0613014,United States - California - Chico city,Chico city,86187,37050,33.10,0.17,32.92,2617.8,1125.3
+0100000US,,United States,1600000US0613210,0613210,United States - California - Chino city,Chino city,77983,21797,29.65,0.01,29.64,2631.1,735.4
+0100000US,,United States,1600000US0613214,0613214,United States - California - Chino Hills city,Chino Hills city,74799,23617,44.75,0.07,44.68,1674.1,528.6
+0100000US,,United States,1600000US0613392,0613392,United States - California - Chula Vista city,Chula Vista city,243916,79416,52.09,2.46,49.63,4914.6,1600.1
+0100000US,,United States,1600000US0613588,0613588,United States - California - Citrus Heights city,Citrus Heights city,83301,35075,14.23,0.00,14.23,5854.6,2465.1
+0100000US,,United States,1600000US0614218,0614218,United States - California - Clovis city,Clovis city,95631,35306,23.28,0.00,23.28,4108.2,1516.7
+0100000US,,United States,1600000US0614890,0614890,United States - California - Colton city,Colton city,52154,16350,16.04,0.72,15.32,3403.4,1067.0
+0100000US,,United States,1600000US0615044,0615044,United States - California - Compton city,Compton city,96455,24523,10.12,0.10,10.01,9633.7,2449.3
+0100000US,,United States,1600000US0616000,0616000,United States - California - Concord city,Concord city,122067,47125,30.55,0.00,30.55,3996.2,1542.8
+0100000US,,United States,1600000US0616350,0616350,United States - California - Corona city,Corona city,152374,47174,38.93,0.10,38.83,3924.6,1215.0
+0100000US,,United States,1600000US0616532,0616532,United States - California - Costa Mesa city,Costa Mesa city,109960,42120,15.70,0.05,15.65,7024.6,2690.8
+0100000US,,United States,1600000US0617610,0617610,United States - California - Cupertino city,Cupertino city,58302,21027,11.26,0.00,11.26,5179.5,1868.0
+0100000US,,United States,1600000US0617918,0617918,United States - California - Daly City city,Daly City city,101123(r39366),32588(r16075),7.66,0.00,7.66,13195.0,4252.2
+0100000US,,United States,1600000US0618100,0618100,United States - California - Davis city,Davis city,65622,25869,9.92,0.03,9.89,6637.0,2616.4
+0100000US,,United States,1600000US0618394,0618394,United States - California - Delano city,Delano city,53041,10713,14.36,0.05,14.30,3708.4,749.0
+0100000US,,United States,1600000US0619192,0619192,United States - California - Diamond Bar city,Diamond Bar city,55544,18455,14.88,0.01,14.88,3732.9,1240.3
+0100000US,,United States,1600000US0619766,0619766,United States - California - Downey city,Downey city,111772,35601,12.57,0.16,12.41,9008.0,2869.2
+0100000US,,United States,1600000US0620802,0620802,United States - California - East Los Angeles CDP,East Los Angeles CDP,126496,32201,7.45,0.00,7.45,16983.2,4323.3
+0100000US,,United States,1600000US0621230,0621230,United States - California - Eastvale CDP,Eastvale CDP,53668,14494,11.45,0.04,11.41,4705.5,1270.8
+0100000US,,United States,1600000US0621712,0621712,United States - California - El Cajon city,El Cajon city,99478,35850,14.43,0.00,14.43,6892.5,2483.9
+0100000US,,United States,1600000US0622020,0622020,United States - California - Elk Grove city,Elk Grove city,153015,50634,42.24,0.05,42.19,3626.8,1200.1
+0100000US,,United States,1600000US0622230,0622230,United States - California - El Monte city,El Monte city,113475,29069,9.65,0.09,9.56,11866.9,3040.0
+0100000US,,United States,1600000US0622678,0622678,United States - California - Encinitas city,Encinitas city,59518,25740,19.99,1.18,18.81,3163.9,1368.3
+0100000US,,United States,1600000US0622804,0622804,United States - California - Escondido city,Escondido city,143911,48044,36.99,0.18,36.81,3909.3,1305.1
+0100000US,,United States,1600000US0623182,0623182,United States - California - Fairfield city,Fairfield city,105321,37184,37.64,0.25,37.39,2816.8,994.5
+0100000US,,United States,1600000US0624477,0624477,United States - California - Florence-Graham CDP,Florence-Graham CDP,63387,14765,3.58,0.00,3.58,17704.2,4123.9
+0100000US,,United States,1600000US0624638,0624638,United States - California - Folsom city,Folsom city,72203,26109,24.30,2.36,21.95,3290.1,1189.7
+0100000US,,United States,1600000US0624680,0624680,United States - California - Fontana city,Fontana city,196069,51857,42.43,0.00,42.43,4620.8,1222.1
+0100000US,,United States,1600000US0625380,0625380,United States - California - Fountain Valley city,Fountain Valley city,55313,19164,9.03,0.01,9.02,6133.5,2125.0
+0100000US,,United States,1600000US0626000,0626000,United States - California - Fremont city,Fremont city,214089,73989,87.61,10.15,77.46,2763.9,955.2
+0100000US,,United States,1600000US0627000,0627000,United States - California - Fresno city,Fresno city,494665,171288,112.31,0.35,111.96,4418.4,1529.9
+0100000US,,United States,1600000US0628000,0628000,United States - California - Fullerton city,Fullerton city,135161(r39368),47869(r16076),22.36,0.01,22.35,6046.7,2141.5
+0100000US,,United States,1600000US0628168,0628168,United States - California - Gardena city,Gardena city,58829,21472,5.87,0.04,5.83,10092.2,3683.6
+0100000US,,United States,1600000US0629000,0629000,United States - California - Garden Grove city,Garden Grove city,170883(r39369),47755(r16077),17.96,0.02,17.94,9524.6,2661.8
+0100000US,,United States,1600000US0630000,0630000,United States - California - Glendale city,Glendale city,191719,76269,30.58,0.13,30.45,6295.5,2504.4
+0100000US,,United States,1600000US0630014,0630014,United States - California - Glendora city,Glendora city,50073,17778,19.56,0.16,19.39,2582.0,916.7
+0100000US,,United States,1600000US0631596,0631596,United States - California - Hacienda Heights CDP,Hacienda Heights CDP,54038,16650,11.18,0.01,11.18,4835.5,1489.9
+0100000US,,United States,1600000US0631960,0631960,United States - California - Hanford city,Hanford city,53967,18493,16.59,0.00,16.59,3253.1,1114.8
+0100000US,,United States,1600000US0632548,0632548,United States - California - Hawthorne city,Hawthorne city,84293,29869,6.09,0.01,6.08,13861.2,4911.7
+0100000US,,United States,1600000US0633000,0633000,United States - California - Hayward city,Hayward city,144186,48296,63.75,18.43,45.32,3181.3,1065.6
+0100000US,,United States,1600000US0633182,0633182,United States - California - Hemet city,Hemet city,78657,35305,27.85,0.00,27.85,2824.6,1267.8
+0100000US,,United States,1600000US0633434,0633434,United States - California - Hesperia city,Hesperia city,90173,29004,73.21,0.11,73.10,1233.6,396.8
+0100000US,,United States,1600000US0633588,0633588,United States - California - Highland city,Highland city,53104,16578,18.89,0.13,18.76,2831.5,883.9
+0100000US,,United States,1600000US0636000,0636000,United States - California - Huntington Beach city,Huntington Beach city,189992,78003,31.88,5.13,26.75,7102.9,2916.2
+0100000US,,United States,1600000US0636056,0636056,United States - California - Huntington Park city,Huntington Park city,58114,15151,3.02,0.00,3.01,19290.7,5029.3
+0100000US,,United States,1600000US0636448,0636448,United States - California - Indio city,Indio city,76036,28971,29.19,0.01,29.18,2605.7,992.8
+0100000US,,United States,1600000US0636546,0636546,United States - California - Inglewood city,Inglewood city,109673,38429,9.09,0.02,9.07,12094.7,4237.9
+0100000US,,United States,1600000US0636770,0636770,United States - California - Irvine city,Irvine city,212375,83899,66.45,0.35,66.11,3212.6,1269.2
+0100000US,,United States,1600000US0639248,0639248,United States - California - Laguna Niguel city,Laguna Niguel city,62979,25312,14.88,0.05,14.83,4245.8,1706.4
+0100000US,,United States,1600000US0639290,0639290,United States - California - La Habra city,La Habra city,60239(r39372),19924(r16080),7.38,0.01,7.37,8173.6,2703.4
+0100000US,,United States,1600000US0639486,0639486,United States - California - Lake Elsinore city,Lake Elsinore city,51821,16253,41.69,5.48,36.21,1431.2,448.9
+0100000US,,United States,1600000US0639496,0639496,United States - California - Lake Forest city,Lake Forest city,77264(r39373),27088(r16081),17.90,0.09,17.82,4336.8,1520.4
+0100000US,,United States,1600000US0639892,0639892,United States - California - Lakewood city,Lakewood city,80048,27470,9.47,0.05,9.41,8502.4,2917.8
+0100000US,,United States,1600000US0640004,0640004,United States - California - La Mesa city,La Mesa city,57065,26167,9.12,0.04,9.08,6287.3,2883.0
+0100000US,,United States,1600000US0640130,0640130,United States - California - Lancaster city,Lancaster city,156633,51835,94.55,0.27,94.28,1661.4,549.8
+0100000US,,United States,1600000US0641992,0641992,United States - California - Livermore city,Livermore city,80968,30342,25.18,0.00,25.17,3216.5,1205.3
+0100000US,,United States,1600000US0642202,0642202,United States - California - Lodi city,Lodi city,62134,23792,13.82,0.21,13.61,4565.1,1748.0
+0100000US,,United States,1600000US0643000,0643000,United States - California - Long Beach city,Long Beach city,462257,176032,51.44,1.14,50.29,9191.2,3500.1
+0100000US,,United States,1600000US0644000,0644000,United States - California - Los Angeles city,Los Angeles city,3792621,1413995,502.69,34.02,468.67,8092.3,3017.0
+0100000US,,United States,1600000US0644574,0644574,United States - California - Lynwood city,Lynwood city,69772,15277,4.84,0.00,4.84,14415.7,3156.4
+0100000US,,United States,1600000US0645022,0645022,United States - California - Madera city,Madera city,61416,17049,15.79,0.00,15.79,3889.7,1079.8
+0100000US,,United States,1600000US0645484,0645484,United States - California - Manteca city,Manteca city,67096,23132,17.76,0.02,17.73,3783.6,1304.4
+0100000US,,United States,1600000US0646842,0646842,United States - California - Menifee city,Menifee city,77519,30269,46.61,0.14,46.47,1668.3,651.4
+0100000US,,United States,1600000US0646898,0646898,United States - California - Merced city,Merced city,78958,27446,23.32,0.00,23.32,3386.4,1177.1
+0100000US,,United States,1600000US0647766,0647766,United States - California - Milpitas city,Milpitas city,66790,19806,13.64,0.05,13.59,4914.4,1457.3
+0100000US,,United States,1600000US0648256,0648256,United States - California - Mission Viejo city,Mission Viejo city,93305(r39374),34228(r16082),18.12,0.38,17.74,5259.8,1929.5
+0100000US,,United States,1600000US0648354,0648354,United States - California - Modesto city,Modesto city,201165,75044,37.09,0.23,36.87,5456.5,2035.5
+0100000US,,United States,1600000US0648816,0648816,United States - California - Montebello city,Montebello city,62500,19768,8.37,0.04,8.33,7500.7,2372.4
+0100000US,,United States,1600000US0648914,0648914,United States - California - Monterey Park city,Monterey Park city,60269,20850,7.73,0.06,7.67,7855.8,2717.7
+0100000US,,United States,1600000US0649270,0649270,United States - California - Moreno Valley city,Moreno Valley city,193365,55559,51.47,0.20,51.27,3771.2,1083.6
+0100000US,,United States,1600000US0649670,0649670,United States - California - Mountain View city,Mountain View city,74066,33881,12.27,0.28,12.00,6174.6,2824.5
+0100000US,,United States,1600000US0650076,0650076,United States - California - Murrieta city,Murrieta city,103466,35294,33.61,0.04,33.58,3081.4,1051.1
+0100000US,,United States,1600000US0650258,0650258,United States - California - Napa city,Napa city,76915,30149,18.15,0.31,17.84,4311.6,1690.1
+0100000US,,United States,1600000US0650398,0650398,United States - California - National City city,National City city,58582,16762,9.12,1.84,7.28,8050.4,2303.5
+0100000US,,United States,1600000US0651182,0651182,United States - California - Newport Beach city,Newport Beach city,85186,44193,52.98,29.17,23.80,3578.5,1856.5
+0100000US,,United States,1600000US0652526,0652526,United States - California - Norwalk city,Norwalk city,105549,28083,9.75,0.04,9.71,10873.5,2893.1
+0100000US,,United States,1600000US0652582,0652582,United States - California - Novato city,Novato city,51904,21158,27.96,0.52,27.44,1891.6,771.1
+0100000US,,United States,1600000US0653000,0653000,United States - California - Oakland city,Oakland city,390724,169710,78.00,22.22,55.79,7004.0,3042.2
+0100000US,,United States,1600000US0653322,0653322,United States - California - Oceanside city,Oceanside city,167086,64435,42.17,0.94,41.23,4052.1,1562.6
+0100000US,,United States,1600000US0653896,0653896,United States - California - Ontario city,Ontario city,163924,47449,50.01,0.07,49.94,3282.4,950.1
+0100000US,,United States,1600000US0653980,0653980,United States - California - Orange city,Orange city,136416(r39375),45111(r16083),25.24,0.44,24.80,5501.3,1819.2
+0100000US,,United States,1600000US0654652,0654652,United States - California - Oxnard city,Oxnard city,197899,52772,39.21,12.31,26.89,7358.4,1962.2
+0100000US,,United States,1600000US0655156,0655156,United States - California - Palmdale city,Palmdale city,152750,46544,106.22,0.25,105.96,1441.6,439.3
+0100000US,,United States,1600000US0655282,0655282,United States - California - Palo Alto city,Palo Alto city,64403,28216,25.79,1.90,23.88,2696.5,1181.4
+0100000US,,United States,1600000US0655618,0655618,United States - California - Paramount city,Paramount city,54098,14571,4.84,0.11,4.73,11438.4,3080.9
+0100000US,,United States,1600000US0656000,0656000,United States - California - Pasadena city,Pasadena city,137122,59551,23.13,0.16,22.97,5969.6,2592.5
+0100000US,,United States,1600000US0656700,0656700,United States - California - Perris city,Perris city,68386,17906,31.50,0.11,31.39,2178.4,570.4
+0100000US,,United States,1600000US0656784,0656784,United States - California - Petaluma city,Petaluma city,57941,22736,14.49,0.11,14.38,4028.7,1580.9
+0100000US,,United States,1600000US0656924,0656924,United States - California - Pico Rivera city,Pico Rivera city,62942,17109,8.88,0.59,8.30,7587.5,2062.4
+0100000US,,United States,1600000US0657456,0657456,United States - California - Pittsburg city,Pittsburg city,63264,21126,19.15,1.94,17.22,3674.2,1227.0
+0100000US,,United States,1600000US0657526,0657526,United States - California - Placentia city,Placentia city,50533(r39376),16872(r16084),6.58,0.01,6.57,7693.9,2568.8
+0100000US,,United States,1600000US0657792,0657792,United States - California - Pleasanton city,Pleasanton city,70285,26053,24.27,0.15,24.11,2914.8,1080.5
+0100000US,,United States,1600000US0658072,0658072,United States - California - Pomona city,Pomona city,149058,40685,22.96,0.01,22.95,6494.5,1772.6
+0100000US,,United States,1600000US0658240,0658240,United States - California - Porterville city,Porterville city,54165,16734,17.68,0.07,17.61,3076.3,950.4
+0100000US,,United States,1600000US0659444,0659444,United States - California - Rancho Cordova city,Rancho Cordova city,64776,25479,33.87,0.37,33.51,1933.2,760.4
+0100000US,,United States,1600000US0659451,0659451,United States - California - Rancho Cucamonga city,Rancho Cucamonga city,165269,56618,39.87,0.02,39.85,4147.2,1420.8
+0100000US,,United States,1600000US0659920,0659920,United States - California - Redding city,Redding city,89861,38679,61.17,1.53,59.65,1506.5,648.5
+0100000US,,United States,1600000US0659962,0659962,United States - California - Redlands city,Redlands city,68747,26634,36.43,0.30,36.13,1903.0,737.3
+0100000US,,United States,1600000US0660018,0660018,United States - California - Redondo Beach city,Redondo Beach city,66748,30609,6.21,0.01,6.20,10768.7,4938.3
+0100000US,,United States,1600000US0660102,0660102,United States - California - Redwood City city,Redwood City city,76815,29167,34.62,15.20,19.42,3955.5,1501.9
+0100000US,,United States,1600000US0660466,0660466,United States - California - Rialto city,Rialto city,99171,27203,22.37,0.01,22.35,4437.0,1217.1
+0100000US,,United States,1600000US0660620,0660620,United States - California - Richmond city,Richmond city,103701,39328,52.48,22.41,30.07,3448.9,1308.0
+0100000US,,United States,1600000US0662000,0662000,United States - California - Riverside city,Riverside city,303871,98444,81.44,0.30,81.14,3745.0,1213.3
+0100000US,,United States,1600000US0662364,0662364,United States - California - Rocklin city,Rocklin city,56974,22010,19.59,0.05,19.54,2915.7,1126.4
+0100000US,,United States,1600000US0662896,0662896,United States - California - Rosemead city,Rosemead city,53764,14805,5.18,0.01,5.16,10414.9,2867.9
+0100000US,,United States,1600000US0662938,0662938,United States - California - Roseville city,Roseville city,118788,47757,36.22,0.00,36.22,3279.5,1318.5
+0100000US,,United States,1600000US0664000,0664000,United States - California - Sacramento city,Sacramento city,466488,190911,100.11,2.19,97.92,4764.2,1949.8
+0100000US,,United States,1600000US0664224,0664224,United States - California - Salinas city,Salinas city,150441,42651,23.22,0.04,23.18,6490.5,1840.1
+0100000US,,United States,1600000US0665000,0665000,United States - California - San Bernardino city,San Bernardino city,209924,65401,59.65,0.44,59.20,3546.0,1104.7
+0100000US,,United States,1600000US0665042,0665042,United States - California - San Buenaventura (Ventura) city,San Buenaventura (Ventura) city,106433,42827,32.09,10.44,21.65,4915.0,1977.7
+0100000US,,United States,1600000US0665084,0665084,United States - California - San Clemente city,San Clemente city,63522,25966,19.47,0.76,18.71,3394.9,1387.7
+0100000US,,United States,1600000US0666000,0666000,United States - California - San Diego city,San Diego city,1307402(r39378),516033,372.40,47.21,325.19,4020.4,1586.9
+0100000US,,United States,1600000US0667000,0667000,United States - California - San Francisco city,San Francisco city,805235,376942,231.89,185.02,46.87,17179.2,8041.8
+0100000US,,United States,1600000US0668000,0668000,United States - California - San Jose city,San Jose city,945942,314038,179.97,3.44,176.53,5358.6,1779.0
+0100000US,,United States,1600000US0668084,0668084,United States - California - San Leandro city,San Leandro city,84950,32419,15.66,2.32,13.34,6366.8,2429.7
+0100000US,,United States,1600000US0668196,0668196,United States - California - San Marcos city,San Marcos city,83781,28641,24.39,0.02,24.37,3437.9,1175.3
+0100000US,,United States,1600000US0668252,0668252,United States - California - San Mateo city,San Mateo city,97207,40014,15.88,3.75,12.13,8014.0,3298.8
+0100000US,,United States,1600000US0668364,0668364,United States - California - San Rafael city,San Rafael city,57713,24011,22.42,5.95,16.47,3504.1,1457.9
+0100000US,,United States,1600000US0668378,0668378,United States - California - San Ramon city,San Ramon city,72148,26222,18.08,0.02,18.06,3994.7,1451.9
+0100000US,,United States,1600000US0669000,0669000,United States - California - Santa Ana city,Santa Ana city,324528(r39379),76896(r16085),27.52,0.25,27.27,11900.8,2819.9
+0100000US,,United States,1600000US0669070,0669070,United States - California - Santa Barbara city,Santa Barbara city,88410,37820,41.97,22.50,19.47,4541.3,1942.7
+0100000US,,United States,1600000US0669084,0669084,United States - California - Santa Clara city,Santa Clara city,116468,45147,18.41,0.00,18.41,6327.3,2452.7
+0100000US,,United States,1600000US0669088,0669088,United States - California - Santa Clarita city,Santa Clarita city,176320,62055,52.78,0.06,52.72,3344.7,1177.1
+0100000US,,United States,1600000US0669112,0669112,United States - California - Santa Cruz city,Santa Cruz city,59946,23316,15.83,3.09,12.74,4705.2,1830.1
+0100000US,,United States,1600000US0669196,0669196,United States - California - Santa Maria city,Santa Maria city,99553,28294,23.39,0.64,22.76,4374.9,1243.4
+0100000US,,United States,1600000US0670000,0670000,United States - California - Santa Monica city,Santa Monica city,89736,50912,8.42,0.00,8.41,10664.1,6050.3
+0100000US,,United States,1600000US0670098,0670098,United States - California - Santa Rosa city,Santa Rosa city,167815,67396,41.50,0.21,41.29,4063.9,1632.1
+0100000US,,United States,1600000US0670224,0670224,United States - California - Santee city,Santee city,53413,20048,16.53,0.29,16.24,3289.9,1234.8
+0100000US,,United States,1600000US0672016,0672016,United States - California - Simi Valley city,Simi Valley city,124237,42506,42.25,0.77,41.48,2995.1,1024.7
+0100000US,,United States,1600000US0673080,0673080,United States - California - South Gate city,South Gate city,94396,24160,7.35,0.12,7.24,13045.0,3338.8
+0100000US,,United States,1600000US0673262,0673262,United States - California - South San Francisco city,South San Francisco city,63632,21814,30.16,21.02,9.14,6961.4,2386.5
+0100000US,,United States,1600000US0673430,0673430,United States - California - South Whittier CDP,South Whittier CDP,57156,15600,5.35,0.01,5.34,10708.9,2922.9
+0100000US,,United States,1600000US0675000,0675000,United States - California - Stockton city,Stockton city,291707,99637,64.75,3.08,61.67,4730.2,1615.7
+0100000US,,United States,1600000US0677000,0677000,United States - California - Sunnyvale city,Sunnyvale city,140081,55791,22.69,0.70,21.99,6370.9,2537.4
+0100000US,,United States,1600000US0678120,0678120,United States - California - Temecula city,Temecula city,100097,34004,30.17,0.02,30.15,3319.8,1127.8
+0100000US,,United States,1600000US0678582,0678582,United States - California - Thousand Oaks city,Thousand Oaks city,126683,47497,55.18,0.15,55.03,2302.0,863.1
+0100000US,,United States,1600000US0680000,0680000,United States - California - Torrance city,Torrance city,145438,58377,20.55,0.08,20.48,7102.2,2850.7
+0100000US,,United States,1600000US0680238,0680238,United States - California - Tracy city,Tracy city,82922,25963,22.14,0.14,22.00,3768.7,1180.0
+0100000US,,United States,1600000US0680644,0680644,United States - California - Tulare city,Tulare city,59278,18863,21.02,0.09,20.93,2832.0,901.2
+0100000US,,United States,1600000US0680812,0680812,United States - California - Turlock city,Turlock city,68549,24627,16.93,0.00,16.93,4049.4,1454.8
+0100000US,,United States,1600000US0680854,0680854,United States - California - Tustin city,Tustin city,75540,26476,11.08,0.00,11.08,6816.7,2389.2
+0100000US,,United States,1600000US0681204,0681204,United States - California - Union City city,Union City city,69516,21258,19.47,0.00,19.47,3570.6,1091.9
+0100000US,,United States,1600000US0681344,0681344,United States - California - Upland city,Upland city,73732,27355,15.65,0.03,15.62,4721.3,1751.6
+0100000US,,United States,1600000US0681554,0681554,United States - California - Vacaville city,Vacaville city,92428,32814,28.58,0.21,28.37,3257.7,1156.5
+0100000US,,United States,1600000US0681666,0681666,United States - California - Vallejo city,Vallejo city,115942,44433,49.54,18.87,30.67,3780.1,1448.7
+0100000US,,United States,1600000US0682590,0682590,United States - California - Victorville city,Victorville city,115903,36655,73.74,0.56,73.18,1583.9,500.9
+0100000US,,United States,1600000US0682954,0682954,United States - California - Visalia city,Visalia city,124442,44205,36.27,0.02,36.25,3433.3,1219.6
+0100000US,,United States,1600000US0682996,0682996,United States - California - Vista city,Vista city,93834,30986,18.68,0.00,18.68,5023.7,1658.9
+0100000US,,United States,1600000US0683346,0683346,United States - California - Walnut Creek city,Walnut Creek city,64173,32681,19.77,0.01,19.76,3248.2,1654.2
+0100000US,,United States,1600000US0683668,0683668,United States - California - Watsonville city,Watsonville city,51199,14089,6.78,0.10,6.69,7656.6,2106.9
+0100000US,,United States,1600000US0684200,0684200,United States - California - West Covina city,West Covina city,106098,32705,16.09,0.05,16.04,6614.3,2038.9
+0100000US,,United States,1600000US0684550,0684550,United States - California - Westminster city,Westminster city,89701,27650,10.05,0.00,10.05,8926.5,2751.5
+0100000US,,United States,1600000US0685292,0685292,United States - California - Whittier city,Whittier city,85331,29591,14.67,0.02,14.65,5824.9,2019.9
+0100000US,,United States,1600000US0686328,0686328,United States - California - Woodland city,Woodland city,55468,19806,15.30,0.00,15.30,3624.7,1294.3
+0100000US,,United States,1600000US0686832,0686832,United States - California - Yorba Linda city,Yorba Linda city,64234,22305,20.02,0.54,19.48,3297.0,1144.9
+0100000US,,United States,1600000US0686972,0686972,United States - California - Yuba City city,Yuba City city,64925,23174,14.66,0.08,14.58,4453.5,1589.6
+0100000US,,United States,1600000US0687042,0687042,United States - California - Yucaipa city,Yucaipa city,51367,19642,27.89,0.01,27.89,1841.9,704.3
+0100000US,,United States,0400000US08,08,United States - Colorado,Colorado,5029196,2212898,104093.67,451.78,103641.89,48.5,21.4
+0100000US,,United States,1600000US0803455,0803455,United States - Colorado - Arvada city,Arvada city,106433,44427,35.76,0.62,35.14,3028.6,1264.2
+0100000US,,United States,1600000US0804000,0804000,United States - Colorado - Aurora city,Aurora city,325078,131040,155.43,0.70,154.73,2100.9,846.9
+0100000US,,United States,1600000US0807850,0807850,United States - Colorado - Boulder city,Boulder city,97385,43479,25.68,1.02,24.66,3948.4,1762.8
+0100000US,,United States,1600000US0809280,0809280,United States - Colorado - Broomfield city,Broomfield city,55889,22646,33.60,0.57,33.03,1691.9,685.5
+0100000US,,United States,1600000US0812815,0812815,United States - Colorado - Centennial city,Centennial city,100377,38779,28.87,0.15,28.72,3494.8,1350.2
+0100000US,,United States,1600000US0816000,0816000,United States - Colorado - Colorado Springs city,Colorado Springs city,416427(r39567),179607,194.91,0.37,194.54,2140.6,923.2
+0100000US,,United States,1600000US0820000,0820000,United States - Colorado - Denver city,Denver city,600158(r39568),285797(r16258),154.63,1.63,153.00,3922.6,1868.0
+0100000US,,United States,1600000US0827425,0827425,United States - Colorado - Fort Collins city,Fort Collins city,143986,60503,55.53,1.26,54.28,2652.8,1114.7
+0100000US,,United States,1600000US0831660,0831660,United States - Colorado - Grand Junction city,Grand Junction city,58566,26170,38.59,0.38,38.22,1532.4,684.8
+0100000US,,United States,1600000US0832155,0832155,United States - Colorado - Greeley city,Greeley city,92889,36323,46.65,0.10,46.55,1995.5,780.3
+0100000US,,United States,1600000US0836410,0836410,United States - Colorado - Highlands Ranch CDP,Highlands Ranch CDP,96713,35167,24.29,0.03,24.26,3986.5,1449.6
+0100000US,,United States,1600000US0843000,0843000,United States - Colorado - Lakewood city,Lakewood city,142980,65758,44.06,1.18,42.88,3334.4,1533.5
+0100000US,,United States,1600000US0845970,0845970,United States - Colorado - Longmont city,Longmont city,86270,35008,27.65,1.47,26.19,3294.3,1336.8
+0100000US,,United States,1600000US0846465,0846465,United States - Colorado - Loveland city,Loveland city,66859,28557,35.06,1.47,33.59,1990.2,850.1
+0100000US,,United States,1600000US0862000,0862000,United States - Colorado - Pueblo city,Pueblo city,106595,47593,54.43,0.79,53.64,1987.2,887.2
+0100000US,,United States,1600000US0877290,0877290,United States - Colorado - Thornton city,Thornton city,118772,43230,35.95,1.11,34.84,3408.8,1240.7
+0100000US,,United States,1600000US0883835,0883835,United States - Colorado - Westminster city,Westminster city,106114,43968,33.85,2.30,31.55,3363.3,1393.6
+0100000US,,United States,0400000US09,09,United States - Connecticut,Connecticut,3574097,1487891,5543.41,701.06,4842.36,738.1,307.3
+0100000US,,United States,1600000US0908000,0908000,United States - Connecticut - Bridgeport city,Bridgeport city,144229,57012,19.34,3.37,15.97,9029.0,3569.1
+0100000US,,United States,0600000US0900108070,0900108070,"United States - Connecticut - Bridgeport town, Fairfield County","Bridgeport town, Fairfield County",144229,57012,19.34,3.37,15.97,9029.0,3569.1
+0100000US,,United States,1600000US0908420,0908420,United States - Connecticut - Bristol city,Bristol city,60477,27011,26.82,0.40,26.41,2289.8,1022.7
+0100000US,,United States,0600000US0900308490,0900308490,"United States - Connecticut - Bristol town, Hartford County","Bristol town, Hartford County",60477,27011,26.82,0.40,26.41,2289.8,1022.7
+0100000US,,United States,1600000US0918430,0918430,United States - Connecticut - Danbury city,Danbury city,80893,31154,44.14,2.25,41.89,1931.0,743.7
+0100000US,,United States,0600000US0900118500,0900118500,"United States - Connecticut - Danbury town, Fairfield County","Danbury town, Fairfield County",80893,31154,44.14,2.25,41.89,1931.0,743.7
+0100000US,,United States,0600000US0900322630,0900322630,"United States - Connecticut - East Hartford town, Hartford County","East Hartford town, Hartford County",51252,21328,18.73,0.74,18.00,2847.9,1185.1
+0100000US,,United States,1600000US0922700,0922700,United States - Connecticut - East Hartford CDP,East Hartford CDP,51252,21328,18.73,0.74,18.00,2847.9,1185.1
+0100000US,,United States,0600000US0900126620,0900126620,"United States - Connecticut - Fairfield town, Fairfield County","Fairfield town, Fairfield County",59404,21648,31.38,1.48,29.90,1986.6,723.9
+0100000US,,United States,0600000US0900133620,0900133620,"United States - Connecticut - Greenwich town, Fairfield County","Greenwich town, Fairfield County",61171,25631,67.29,19.67,47.62,1284.5,538.2
+0100000US,,United States,0600000US0900935650,0900935650,"United States - Connecticut - Hamden town, New Haven County","Hamden town, New Haven County",60960,25114,33.31,0.67,32.65,1867.3,769.3
+0100000US,,United States,1600000US0937000,0937000,United States - Connecticut - Hartford city,Hartford city,124775,51822,18.06,0.67,17.38,7178.9,2981.6
+0100000US,,United States,0600000US0900337070,0900337070,"United States - Connecticut - Hartford town, Hartford County","Hartford town, Hartford County",124775,51822,18.06,0.67,17.38,7178.9,2981.6
+0100000US,,United States,0600000US0900344700,0900344700,"United States - Connecticut - Manchester town, Hartford County","Manchester town, Hartford County",58241,25996,27.68,0.28,27.40,2125.4,948.7
+0100000US,,United States,1600000US0946450,0946450,United States - Connecticut - Meriden city,Meriden city,60868,25892,24.16,0.36,23.79,2558.2,1088.2
+0100000US,,United States,0600000US0900946520,0900946520,"United States - Connecticut - Meriden town, New Haven County","Meriden town, New Haven County",60868,25892,24.16,0.36,23.79,2558.2,1088.2
+0100000US,,United States,1700000US0947500,0947500,United States - Connecticut - Milford city,Milford city,52759,23074,26.12,3.95,22.18,2379.2,1040.5
+0100000US,,United States,1600000US0947515,0947515,United States - Connecticut - Milford city (balance),Milford city (balance),51271,22288,25.13,3.23,21.90,2341.0,1017.6
+0100000US,,United States,0600000US0900947535,0900947535,"United States - Connecticut - Milford town, New Haven County","Milford town, New Haven County",52759,23074,26.12,3.95,22.18,2379.2,1040.5
+0100000US,,United States,1600000US0950370,0950370,United States - Connecticut - New Britain city,New Britain city,73206,31226,13.47,0.07,13.39,5466.0,2331.5
+0100000US,,United States,0600000US0900350440,0900350440,"United States - Connecticut - New Britain town, Hartford County","New Britain town, Hartford County",73206,31226,13.47,0.07,13.39,5466.0,2331.5
+0100000US,,United States,1600000US0952000,0952000,United States - Connecticut - New Haven city,New Haven city,129779,54967,20.12,1.45,18.68,6948.0,2942.8
+0100000US,,United States,0600000US0900952070,0900952070,"United States - Connecticut - New Haven town, New Haven County","New Haven town, New Haven County",129779,54967,20.12,1.45,18.68,6948.0,2942.8
+0100000US,,United States,1600000US0955990,0955990,United States - Connecticut - Norwalk city,Norwalk city,85603,35415,36.35,13.49,22.86,3744.7,1549.2
+0100000US,,United States,0600000US0900156060,0900156060,"United States - Connecticut - Norwalk town, Fairfield County","Norwalk town, Fairfield County",85603,35415,36.35,13.49,22.86,3744.7,1549.2
+0100000US,,United States,1600000US0973000,0973000,United States - Connecticut - Stamford city,Stamford city,122643,50573,52.04,14.41,37.64,3258.4,1343.6
+0100000US,,United States,0600000US0900173070,0900173070,"United States - Connecticut - Stamford town, Fairfield County","Stamford town, Fairfield County",122643,50573,52.04,14.41,37.64,3258.4,1343.6
+0100000US,,United States,0600000US0900174190,0900174190,"United States - Connecticut - Stratford town, Fairfield County","Stratford town, Fairfield County",51384,21091,19.92,2.44,17.48,2939.4,1206.5
+0100000US,,United States,1600000US0974260,0974260,United States - Connecticut - Stratford CDP,Stratford CDP,51384,21091,19.92,2.44,17.48,2939.4,1206.5
+0100000US,,United States,1600000US0980000,0980000,United States - Connecticut - Waterbury city,Waterbury city,110366,47991,28.94,0.42,28.52,3869.9,1682.8
+0100000US,,United States,0600000US0900980070,0900980070,"United States - Connecticut - Waterbury town, New Haven County","Waterbury town, New Haven County",110366,47991,28.94,0.42,28.52,3869.9,1682.8
+0100000US,,United States,0600000US0900382590,0900382590,"United States - Connecticut - West Hartford town, Hartford County","West Hartford town, Hartford County",63268,26396,22.26,0.42,21.84,2897.3,1208.8
+0100000US,,United States,1600000US0982660,0982660,United States - Connecticut - West Hartford CDP,West Hartford CDP,63268,26396,22.26,0.42,21.84,2897.3,1208.8
+0100000US,,United States,1600000US0982800,0982800,United States - Connecticut - West Haven city,West Haven city,55564,22446,10.92,0.17,10.75,5170.3,2088.6
+0100000US,,United States,0600000US0900982870,0900982870,"United States - Connecticut - West Haven town, New Haven County","West Haven town, New Haven County",55564,22446,10.92,0.17,10.75,5170.3,2088.6
+0100000US,,United States,0400000US10,10,United States - Delaware,Delaware,897934,405885,2488.72,540.18,1948.54,460.8,208.3
+0100000US,,United States,1600000US1077580,1077580,United States - Delaware - Wilmington city,Wilmington city,70851,32820,16.95,6.04,10.90,6497.6,3009.9
+0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,601723(r39494),296719(r16187),68.34,7.29,61.05,9856.5,4860.4
+0100000US,,United States,1600000US1150000,1150000,United States - District of Columbia - Washington city,Washington city,601723(r40183),296719(r16881),68.34,7.29,61.05,9856.5,4860.4
+0100000US,,United States,0400000US12,12,United States - Florida,Florida,18801310(r40184),8989580(r16882),65757.70,12132.94,53624.76,350.6,167.6
+0100000US,,United States,1600000US1200410,1200410,United States - Florida - Alafaya CDP,Alafaya CDP,78113,30012,38.05,0.09,37.96,2057.8,790.6
+0100000US,,United States,1600000US1207300,1207300,United States - Florida - Boca Raton city,Boca Raton city,84392,44539,31.29,1.96,29.33,2877.2,1518.5
+0100000US,,United States,1600000US1207875,1207875,United States - Florida - Boynton Beach city,Boynton Beach city,68217,36289,16.51,0.33,16.17,4217.5,2243.6
+0100000US,,United States,1600000US1208150,1208150,United States - Florida - Brandon CDP,Brandon CDP,103483,43352,35.00,1.90,33.10,3126.3,1309.7
+0100000US,,United States,1600000US1210275,1210275,United States - Florida - Cape Coral city,Cape Coral city,154305,78948,120.62,14.95,105.67,1460.2,747.1
+0100000US,,United States,1600000US1212875,1212875,United States - Florida - Clearwater city,Clearwater city,107685,59156,39.24,13.68,25.56,4212.8,2314.3
+0100000US,,United States,1600000US1213275,1213275,United States - Florida - Coconut Creek city,Coconut Creek city,52909,25926,12.00,0.15,11.85,4464.7,2187.8
+0100000US,,United States,1600000US1214400,1214400,United States - Florida - Coral Springs city,Coral Springs city,121096,45433,23.99,0.20,23.79,5089.8,1909.6
+0100000US,,United States,1600000US1216475,1216475,United States - Florida - Davie town,Davie town,91992,37306,35.72,0.83,34.89,2636.8,1069.3
+0100000US,,United States,1600000US1216525,1216525,United States - Florida - Daytona Beach city,Daytona Beach city,61005,33920,63.78,5.37,58.41,1044.4,580.7
+0100000US,,United States,1600000US1216725,1216725,United States - Florida - Deerfield Beach city,Deerfield Beach city,75018,42671,16.24,1.16,15.09,4972.3,2828.3
+0100000US,,United States,1600000US1217100,1217100,United States - Florida - Delray Beach city,Delray Beach city,60522,34156,16.25,0.44,15.81,3828.4,2160.6
+0100000US,,United States,1600000US1217200,1217200,United States - Florida - Deltona city,Deltona city,85182,34089,41.07,3.54,37.53,2269.7,908.3
+0100000US,,United States,1600000US1224000,1224000,United States - Florida - Fort Lauderdale city,Fort Lauderdale city,165521,93159,38.57,3.81,34.77,4761.1,2679.7
+0100000US,,United States,1600000US1224125,1224125,United States - Florida - Fort Myers city,Fort Myers city,62298,35138,48.98,9.02,39.96,1559.1,879.4
+0100000US,,United States,1600000US1224562,1224562,United States - Florida - Fountainebleau CDP,Fountainebleau CDP,59764(r41077),23181(r17711),4.50,0.24,4.26,14030.5,5442.1
+0100000US,,United States,1600000US1225175,1225175,United States - Florida - Gainesville city,Gainesville city,124354(r41078),57576,62.39,1.09,61.30,2028.5,939.2
+0100000US,,United States,1600000US1230000,1230000,United States - Florida - Hialeah city,Hialeah city,224669(r41081),74067(r17713),22.84,1.39,21.45,10474.2,3453.0
+0100000US,,United States,1600000US1232000,1232000,United States - Florida - Hollywood city,Hollywood city,140768,71070,30.70,3.33,27.37,5143.8,2597.0
+0100000US,,United States,1600000US1232275,1232275,United States - Florida - Homestead city,Homestead city,60512(r41082),23419(r17714),15.62,0.48,15.14,3996.9,1546.9
+0100000US,,United States,1600000US1235000,1235000,United States - Florida - Jacksonville city,Jacksonville city,821784,366273,874.63,127.63,747.00,1100.1,490.3
+0100000US,,United States,1600000US1235875,1235875,United States - Florida - Jupiter town,Jupiter town,55156,29825,23.25,1.79,21.47,2569.5,1389.4
+0100000US,,United States,1600000US1236062,1236062,United States - Florida - Kendale Lakes CDP,Kendale Lakes CDP,56148,19185,8.63,0.54,8.10,6933.3,2369.0
+0100000US,,United States,1600000US1236100,1236100,United States - Florida - Kendall CDP,Kendall CDP,75371,31899,16.60,0.52,16.08,4687.2,1983.7
+0100000US,,United States,1600000US1236950,1236950,United States - Florida - Kissimmee city,Kissimmee city,59682,26275,21.95,0.75,21.19,2816.0,1239.7
+0100000US,,United States,1600000US1238250,1238250,United States - Florida - Lakeland city,Lakeland city,97422,48218,74.29,9.02,65.27,1492.6,738.7
+0100000US,,United States,1600000US1239425,1239425,United States - Florida - Largo city,Largo city,77648,46859,18.59,0.97,17.62,4407.4,2659.8
+0100000US,,United States,1600000US1239550,1239550,United States - Florida - Lauderhill city,Lauderhill city,66887,29519,8.56,0.03,8.53,7843.8,3461.7
+0100000US,,United States,1600000US1239925,1239925,United States - Florida - Lehigh Acres CDP,Lehigh Acres CDP,86784,38995,94.06,1.50,92.56,937.6,421.3
+0100000US,,United States,1600000US1243125,1243125,United States - Florida - Margate city,Margate city,53284,24863,9.09,0.24,8.85,6017.8,2808.0
+0100000US,,United States,1600000US1243975,1243975,United States - Florida - Melbourne city,Melbourne city,76068(r41085),38955(r17717),39.57,5.71,33.86,2246.4,1150.4
+0100000US,,United States,1600000US1245000,1245000,United States - Florida - Miami city,Miami city,399457(r41086),183994(r17718),56.06,20.19,35.87,11135.9,5129.3
+0100000US,,United States,1600000US1245025,1245025,United States - Florida - Miami Beach city,Miami Beach city,87779(r41087),67499(r17719),15.17,7.55,7.63,11511.1,8851.6
+0100000US,,United States,1600000US1245060,1245060,United States - Florida - Miami Gardens city,Miami Gardens city,107167(r41088),34284(r17720),19.02,0.79,18.23,5878.4,1880.6
+0100000US,,United States,1600000US1245975,1245975,United States - Florida - Miramar city,Miramar city,122041,40294,31.29,1.77,29.52,4134.1,1364.9
+0100000US,,United States,1600000US1249450,1249450,United States - Florida - North Miami city,North Miami city,58786(r41090),22110(r17722),9.99,1.58,8.41,6990.7,2629.3
+0100000US,,United States,1600000US1249675,1249675,United States - Florida - North Port city,North Port city,57357,27986,104.16,4.58,99.58,576.0,281.1
+0100000US,,United States,1600000US1250750,1250750,United States - Florida - Ocala city,Ocala city,56315,26764,44.83,0.00,44.83,1256.2,597.0
+0100000US,,United States,1600000US1253000,1253000,United States - Florida - Orlando city,Orlando city,238300,121254,110.68,8.29,102.40,2327.3,1184.2
+0100000US,,United States,1600000US1254000,1254000,United States - Florida - Palm Bay city,Palm Bay city,103190,45220,68.84,3.14,65.70,1570.6,688.3
+0100000US,,United States,1600000US1254200,1254200,United States - Florida - Palm Coast city,Palm Coast city,75180,35058,90.84,0.96,89.87,836.5,390.1
+0100000US,,United States,1600000US1254350,1254350,United States - Florida - Palm Harbor CDP,Palm Harbor CDP,57439,30339,26.61,9.23,17.38,3304.6,1745.5
+0100000US,,United States,1600000US1255775,1255775,United States - Florida - Pembroke Pines city,Pembroke Pines city,154750(r41095),61703,34.82,1.70,33.12,4671.9,1862.8
+0100000US,,United States,1600000US1255925,1255925,United States - Florida - Pensacola city,Pensacola city,51923,26848,40.71,18.16,22.54,2303.5,1191.1
+0100000US,,United States,1600000US1256825,1256825,United States - Florida - Pine Hills CDP,Pine Hills CDP,60076,22812,12.74,0.49,12.25,4904.4,1862.3
+0100000US,,United States,1600000US1257425,1257425,United States - Florida - Plantation city,Plantation city,84955,37587,21.93,0.19,21.74,3907.4,1728.8
+0100000US,,United States,1600000US1257900,1257900,United States - Florida - Poinciana CDP,Poinciana CDP,53193,21318,72.93,1.05,71.88,740.1,296.6
+0100000US,,United States,1600000US1258050,1258050,United States - Florida - Pompano Beach city,Pompano Beach city,99845,55885,25.41,1.41,24.00,4159.8,2328.3
+0100000US,,United States,1600000US1258350,1258350,United States - Florida - Port Charlotte CDP,Port Charlotte CDP,54392,29408,32.31,3.88,28.43,1913.3,1034.5
+0100000US,,United States,1600000US1258575,1258575,United States - Florida - Port Orange city,Port Orange city,56048,27972,28.69,2.03,26.66,2102.3,1049.2
+0100000US,,United States,1600000US1258715,1258715,United States - Florida - Port St. Lucie city,Port St. Lucie city,164603,70877,115.25,1.30,113.95,1444.5,622.0
+0100000US,,United States,1600000US1260950,1260950,United States - Florida - Riverview CDP,Riverview CDP,71050,27513,47.98,1.78,46.19,1538.1,595.6
+0100000US,,United States,1600000US1263000,1263000,United States - Florida - St. Petersburg city,St. Petersburg city,244769,129401,137.60,75.86,61.74,3964.4,2095.9
+0100000US,,United States,1600000US1263650,1263650,United States - Florida - Sanford city,Sanford city,53570,23061,26.50,3.54,22.96,2333.4,1004.5
+0100000US,,United States,1600000US1264175,1264175,United States - Florida - Sarasota city,Sarasota city,51917,29151,25.20,10.53,14.66,3541.0,1988.3
+0100000US,,United States,1600000US1268350,1268350,United States - Florida - Spring Hill CDP,Spring Hill CDP,98621,44435,62.26,2.45,59.81,1649.0,743.0
+0100000US,,United States,1600000US1269700,1269700,United States - Florida - Sunrise city,Sunrise city,84439,37609,18.31,0.22,18.10,4666.3,2078.4
+0100000US,,United States,1600000US1270600,1270600,United States - Florida - Tallahassee city,Tallahassee city,181376,84248,103.45,3.21,100.25,1809.3,840.4
+0100000US,,United States,1600000US1270675,1270675,United States - Florida - Tamarac city,Tamarac city,60427,32794,12.09,0.47,11.62,5201.4,2822.8
+0100000US,,United States,1600000US1270700,1270700,United States - Florida - Tamiami CDP,Tamiami CDP,55271(r41097),17256(r17727),7.45,0.38,7.07,7819.7,2441.4
+0100000US,,United States,1600000US1271000,1271000,United States - Florida - Tampa city,Tampa city,335709,157130,175.23,61.83,113.41,2960.2,1385.5
+0100000US,,United States,1600000US1271569,1271569,United States - Florida - The Hammocks CDP,The Hammocks CDP,51003,17565,8.10,0.22,7.88,6470.3,2228.3
+0100000US,,United States,1600000US1271625,1271625,United States - Florida - The Villages CDP,The Villages CDP,51442,35587,32.12,1.32,30.81,1669.8,1155.2
+0100000US,,United States,1600000US1272145,1272145,United States - Florida - Town 'n' Country CDP,Town 'n' Country CDP,78442,33677,24.14,2.02,22.11,3547.6,1523.1
+0100000US,,United States,1600000US1275812,1275812,United States - Florida - Wellington village,Wellington village,56508,22685,45.09,0.20,44.89,1258.9,505.4
+0100000US,,United States,1600000US1276582,1276582,United States - Florida - Weston city,Weston city,65333,24394,26.34,1.18,25.16,2596.6,969.5
+0100000US,,United States,1600000US1276600,1276600,United States - Florida - West Palm Beach city,West Palm Beach city,99919(r41100),54179(r17730),58.04,2.75,55.29,1807.1,979.9
+0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,9687653(r41102),4088801(r17732),59425.15,1911.67,57513.49,168.4,71.1
+0100000US,,United States,1600000US1301052,1301052,United States - Georgia - Albany city,Albany city,77434,33436,55.89,0.76,55.13,1404.7,606.5
+0100000US,,United States,1600000US1301696,1301696,United States - Georgia - Alpharetta city,Alpharetta city,57551,23029,27.28,0.37,26.91,2138.6,855.8
+0100000US,,United States,1700000US1303436,1303436,United States - Georgia - Athens-Clarke County unified government,Athens-Clarke County unified government,116714,51068,121.04,1.83,119.20,979.1,428.4
+0100000US,,United States,1600000US1303440,1303440,United States - Georgia - Athens-Clarke County unified government (balance),Athens-Clarke County unified government (balance),115452,50475,118.15,1.80,116.36,992.2,433.8
+0100000US,,United States,1600000US1304000,1304000,United States - Georgia - Atlanta city,Atlanta city,420003(r41503),224573(r18025),134.01,0.86,133.15,3154.3,1686.6
+0100000US,,United States,1700000US1304200,1304200,United States - Georgia - Augusta-Richmond County consolidated government,Augusta-Richmond County consolidated government,200549,86331,328.59,4.27,324.33,618.4,266.2
+0100000US,,United States,1600000US1304204,1304204,United States - Georgia - Augusta-Richmond County consolidated government (balance),Augusta-Richmond County consolidated government (balance),195844,84427,306.67,4.20,302.47,647.5,279.1
+0100000US,,United States,1600000US1319000,1319000,United States - Georgia - Columbus city,Columbus city,189885,82690,221.01,4.62,216.39,877.5,382.1
+0100000US,,United States,1600000US1342425,1342425,United States - Georgia - Johns Creek city,Johns Creek city,76728,27744,31.28,0.55,30.73,2497.0,902.9
+0100000US,,United States,1600000US1349000,1349000,United States - Georgia - Macon city,Macon city,91351,42794,56.36,0.64,55.72,1639.4,768.0
+0100000US,,United States,1600000US1349756,1349756,United States - Georgia - Marietta city,Marietta city,56579,26918,23.17,0.09,23.08,2451.4,1166.3
+0100000US,,United States,1600000US1367284,1367284,United States - Georgia - Roswell city,Roswell city,88346,36344,42.01,1.28,40.72,2169.5,892.5
+0100000US,,United States,1600000US1368516,1368516,United States - Georgia - Sandy Springs city,Sandy Springs city,93853(r41518),46955(r18032),38.52,0.88,37.64,2493.4,1247.4
+0100000US,,United States,1600000US1369000,1369000,United States - Georgia - Savannah city,Savannah city,136286(r41519),61883(r18033),108.73,5.58,103.15,1321.2,599.9
+0100000US,,United States,1600000US1371492,1371492,United States - Georgia - Smyrna city,Smyrna city,51271,25745,15.39,0.03,15.35,3339.5,1676.9
+0100000US,,United States,1600000US1378800,1378800,United States - Georgia - Valdosta city,Valdosta city,54518,22709,36.35,0.52,35.83,1521.7,633.9
+0100000US,,United States,1600000US1380508,1380508,United States - Georgia - Warner Robins city,Warner Robins city,66588,29084,35.36,0.29,35.07,1898.8,829.4
+0100000US,,United States,0400000US15,15,United States - Hawaii,Hawaii,1360301,519508,10931.72,4509.09,6422.63,211.8,80.9
+0100000US,,United States,1600000US1571550,1571550,United States - Hawaii - Urban Honolulu CDP,Urban Honolulu CDP,337256,143173,68.43,7.91,60.52,5572.6,2365.7
+0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,1567582(r41542),667796,83568.95,925.83,82643.12,19.0,8.1
+0100000US,,United States,1600000US1608830,1608830,United States - Idaho - Boise City city,Boise City city,205671,92700,80.05,0.69,79.36,2591.5,1168.0
+0100000US,,United States,1600000US1639700,1639700,United States - Idaho - Idaho Falls city,Idaho Falls city,56813(r41551),22977,22.80,0.45,22.35,2542.0,1028.1
+0100000US,,United States,1600000US1652120,1652120,United States - Idaho - Meridian city,Meridian city,75092,26674,26.84,0.05,26.79,2802.8,995.6
+0100000US,,United States,1600000US1656260,1656260,United States - Idaho - Nampa city,Nampa city,81557,30507,31.34,0.15,31.19,2614.7,978.0
+0100000US,,United States,1600000US1664090,1664090,United States - Idaho - Pocatello city,Pocatello city,54255,22404,32.38,0.16,32.22,1683.8,695.3
+0100000US,,United States,0400000US17,17,United States - Illinois,Illinois,12830632,5296715,57913.55,2394.62,55518.93,231.1,95.4
+0100000US,,United States,1600000US1702154,1702154,United States - Illinois - Arlington Heights village,Arlington Heights village,75101,32795,16.64,0.03,16.61,4521.9,1974.6
+0100000US,,United States,1600000US1703012,1703012,United States - Illinois - Aurora city,Aurora city,197899(r41895),67273,45.79,0.86,44.94,4404.0,1497.1
+0100000US,,United States,1600000US1705573,1705573,United States - Illinois - Berwyn city,Berwyn city,56657,20719,3.91,0.00,3.91,14508.8,5305.8
+0100000US,,United States,1600000US1706613,1706613,United States - Illinois - Bloomington city,Bloomington city,76610,34339,27.23,0.01,27.22,2814.7,1261.7
+0100000US,,United States,1600000US1707133,1707133,United States - Illinois - Bolingbrook village,Bolingbrook village,73366,23141,24.26,0.21,24.05,3050.7,962.2
+0100000US,,United States,1600000US1712385,1712385,United States - Illinois - Champaign city,Champaign city,81055,34434,22.46,0.03,22.43,3613.2,1535.0
+0100000US,,United States,1600000US1714000,1714000,United States - Illinois - Chicago city,Chicago city,2695598,1194337,234.11,6.48,227.63,11841.8,5246.7
+0100000US,,United States,1600000US1714351,1714351,United States - Illinois - Cicero town,Cicero town,83891,24329,5.86,0.00,5.86,14304.8,4148.5
+0100000US,,United States,1600000US1718823,1718823,United States - Illinois - Decatur city,Decatur city,76122,36134,46.91,4.69,42.22,1802.8,855.8
+0100000US,,United States,1600000US1719642,1719642,United States - Illinois - Des Plaines city,Des Plaines city,58364,24075,14.42,0.13,14.28,4086.2,1685.5
+0100000US,,United States,1600000US1723074,1723074,United States - Illinois - Elgin city,Elgin city,108188,37848,37.71,0.54,37.16,2911.1,1018.4
+0100000US,,United States,1600000US1724582,1724582,United States - Illinois - Evanston city,Evanston city,74486,33181,7.80,0.02,7.78,9575.0,4265.4
+0100000US,,United States,1600000US1735411,1735411,United States - Illinois - Hoffman Estates village,Hoffman Estates village,51895,18970,20.98,0.18,20.80,2495.5,912.2
+0100000US,,United States,1600000US1738570,1738570,United States - Illinois - Joliet city,Joliet city,147433,51285,62.77,0.66,62.11,2373.6,825.7
+0100000US,,United States,1600000US1751089,1751089,United States - Illinois - Mount Prospect village,Mount Prospect village,54167,21836,10.37,0.03,10.34,5239.4,2112.1
+0100000US,,United States,1600000US1751622,1751622,United States - Illinois - Naperville city,Naperville city,141853,52270,39.32,0.55,38.77,3658.9,1348.2
+0100000US,,United States,1600000US1753234,1753234,United States - Illinois - Normal town,Normal town,52497,18816,18.41,0.06,18.35,2861.2,1025.5
+0100000US,,United States,1600000US1754820,1754820,United States - Illinois - Oak Lawn village,Oak Lawn village,56690,23517,8.59,0.00,8.59,6596.1,2736.3
+0100000US,,United States,1600000US1754885,1754885,United States - Illinois - Oak Park village,Oak Park village,51878,24519,4.70,0.00,4.70,11037.1,5216.4
+0100000US,,United States,1600000US1756640,1756640,United States - Illinois - Orland Park village,Orland Park village,56767,22443,22.16,0.29,21.88,2594.7,1025.8
+0100000US,,United States,1600000US1757225,1757225,United States - Illinois - Palatine village,Palatine village,68557,28621,13.76,0.14,13.62,5034.8,2101.9
+0100000US,,United States,1600000US1759000,1759000,United States - Illinois - Peoria city,Peoria city,115007,52621,50.23,2.22,48.01,2395.6,1096.1
+0100000US,,United States,1600000US1765000,1765000,United States - Illinois - Rockford city,Rockford city,152871,66700,61.95,0.87,61.08,2502.7,1092.0
+0100000US,,United States,1600000US1768003,1768003,United States - Illinois - Schaumburg village,Schaumburg village,74227,33610,19.33,0.11,19.22,3862.3,1748.9
+0100000US,,United States,1600000US1770122,1770122,United States - Illinois - Skokie village,Skokie village,64784,25066,10.06,0.00,10.06,6437.9,2490.9
+0100000US,,United States,1600000US1772000,1772000,United States - Illinois - Springfield city,Springfield city,116250,55729,65.76,6.28,59.48,1954.5,936.9
+0100000US,,United States,1600000US1775484,1775484,United States - Illinois - Tinley Park village,Tinley Park village,56703,22491,16.04,0.02,16.02,3539.3,1403.8
+0100000US,,United States,1600000US1779293,1779293,United States - Illinois - Waukegan city,Waukegan city,89078,30746,23.88,0.21,23.67,3762.8,1298.8
+0100000US,,United States,1600000US1781048,1781048,United States - Illinois - Wheaton city,Wheaton city,52894,20112,11.44,0.19,11.25,4700.8,1787.4
+0100000US,,United States,0400000US18,18,United States - Indiana,Indiana,6483802,2795541,36419.55,593.44,35826.11,181.0,78.0
+0100000US,,United States,1600000US1801468,1801468,United States - Indiana - Anderson city,Anderson city,56129,27953,41.48,0.11,41.37,1356.7,675.7
+0100000US,,United States,1600000US1805860,1805860,United States - Indiana - Bloomington city,Bloomington city,80405,33239,23.36,0.20,23.16,3472.0,1435.3
+0100000US,,United States,1600000US1810342,1810342,United States - Indiana - Carmel city,Carmel city,79191,30738,48.55,1.08,47.46,1668.5,647.6
+0100000US,,United States,1600000US1820728,1820728,United States - Indiana - Elkhart city,Elkhart city,50949,22699,24.42,0.97,23.45,2172.4,967.9
+0100000US,,United States,1600000US1822000,1822000,United States - Indiana - Evansville city,Evansville city,117429,57799,44.63,0.47,44.15,2659.6,1309.0
+0100000US,,United States,1600000US1823278,1823278,United States - Indiana - Fishers town,Fishers town,76794,28511,35.83,2.25,33.59,2286.5,848.9
+0100000US,,United States,1600000US1825000,1825000,United States - Indiana - Fort Wayne city,Fort Wayne city,253691(r41986),113541,110.83,0.21,110.62,2293.4,1026.4
+0100000US,,United States,1600000US1827000,1827000,United States - Indiana - Gary city,Gary city,80294,39531,57.18,7.31,49.87,1610.2,792.8
+0100000US,,United States,1600000US1831000,1831000,United States - Indiana - Hammond city,Hammond city,80830,32945,24.88,2.11,22.78,3549.0,1446.5
+0100000US,,United States,1700000US1836000,1836000,United States - Indiana - Indianapolis city,Indianapolis city,829718,384414,373.05,6.59,366.46,2264.2,1049.0
+0100000US,,United States,1600000US1836003,1836003,United States - Indiana - Indianapolis city (balance),Indianapolis city (balance),820445,379856,368.02,6.59,361.43,2270.0,1051.0
+0100000US,,United States,1600000US1840788,1840788,United States - Indiana - Lafayette city,Lafayette city,67140,31260,27.74,0.00,27.74,2420.1,1126.8
+0100000US,,United States,1600000US1851876,1851876,United States - Indiana - Muncie city,Muncie city,70085,31958,27.39,0.19,27.20,2577.0,1175.1
+0100000US,,United States,1600000US1854180,1854180,United States - Indiana - Noblesville city,Noblesville city,51969,21121,32.79,1.42,31.37,1656.4,673.2
+0100000US,,United States,1600000US1871000,1871000,United States - Indiana - South Bend city,South Bend city,101168(r41990),46324,41.88,0.42,41.46,2440.3,1117.4
+0100000US,,United States,1600000US1875428,1875428,United States - Indiana - Terre Haute city,Terre Haute city,60785,25518,35.27,0.73,34.54,1760.0,738.9
+0100000US,,United States,0400000US19,19,United States - Iowa,Iowa,3046355,1336417,56272.81,415.68,55857.13,54.5,23.9
+0100000US,,United States,1600000US1901855,1901855,United States - Iowa - Ames city,Ames city,58965,23876,24.28,0.06,24.21,2435.2,986.0
+0100000US,,United States,1600000US1912000,1912000,United States - Iowa - Cedar Rapids city,Cedar Rapids city,126326,57217,72.07,1.27,70.80,1784.3,808.2
+0100000US,,United States,1600000US1916860,1916860,United States - Iowa - Council Bluffs city,Council Bluffs city,62230,26594,43.62,2.64,40.97,1518.8,649.1
+0100000US,,United States,1600000US1919000,1919000,United States - Iowa - Davenport city,Davenport city,99685(r42149),44087(r18513),65.07,2.13,62.95,1583.6,700.4
+0100000US,,United States,1600000US1921000,1921000,United States - Iowa - Des Moines city,Des Moines city,203433(r42150),88729(r18514),82.60,1.73,80.87,2515.6,1097.2
+0100000US,,United States,1600000US1922395,1922395,United States - Iowa - Dubuque city,Dubuque city,57637,25029,31.22,1.25,29.97,1923.3,835.2
+0100000US,,United States,1600000US1938595,1938595,United States - Iowa - Iowa City city,Iowa City city,67862,29270,25.28,0.27,25.01,2713.3,1170.3
+0100000US,,United States,1600000US1973335,1973335,United States - Iowa - Sioux City city,Sioux City city,82684,33425,58.49,1.14,57.35,1441.7,582.8
+0100000US,,United States,1600000US1982425,1982425,United States - Iowa - Waterloo city,Waterloo city,68406,30723,63.23,1.84,61.39,1114.3,500.5
+0100000US,,United States,1600000US1983910,1983910,United States - Iowa - West Des Moines city,West Des Moines city,56609,26219,39.48,0.89,38.59,1467.0,679.4
+0100000US,,United States,0400000US20,20,United States - Kansas,Kansas,2853118,1233215,82278.36,519.64,81758.72,34.9,15.1
+0100000US,,United States,1600000US2036000,2036000,United States - Kansas - Kansas City city,Kansas City city,145786,61969,128.38,3.57,124.81,1168.1,496.5
+0100000US,,United States,1600000US2038900,2038900,United States - Kansas - Lawrence city,Lawrence city,87643,37502,34.26,0.70,33.56,2611.2,1117.3
+0100000US,,United States,1600000US2044250,2044250,United States - Kansas - Manhattan city,Manhattan city,52281,21619,18.79,0.03,18.76,2786.6,1152.3
+0100000US,,United States,1600000US2052575,2052575,United States - Kansas - Olathe city,Olathe city,125872,46851,60.42,0.76,59.66,2109.8,785.3
+0100000US,,United States,1600000US2053775,2053775,United States - Kansas - Overland Park city,Overland Park city,173372,76280,75.37,0.53,74.84,2316.5,1019.2
+0100000US,,United States,1600000US2064500,2064500,United States - Kansas - Shawnee city,Shawnee city,62209,24954,42.86,1.01,41.85,1486.4,596.2
+0100000US,,United States,1600000US2071000,2071000,United States - Kansas - Topeka city,Topeka city,127473,59582,61.47,1.30,60.17,2118.6,990.3
+0100000US,,United States,1600000US2079000,2079000,United States - Kansas - Wichita city,Wichita city,382368,167310,163.59,4.30,159.29,2400.4,1050.3
+0100000US,,United States,0400000US21,21,United States - Kentucky,Kentucky,4339367,1927164,40407.80,921.46,39486.34,109.9,48.8
+0100000US,,United States,1600000US2108902,2108902,United States - Kentucky - Bowling Green city,Bowling Green city,58067,24712,38.10,0.32,37.78,1536.9,654.1
+0100000US,,United States,1600000US2146027,2146027,United States - Kentucky - Lexington-Fayette urban county,Lexington-Fayette urban county,295803,135160,285.55,1.90,283.65,1042.8,476.5
+0100000US,,United States,1700000US2148003,2148003,United States - Kentucky - Louisville/Jefferson County metro government,Louisville/Jefferson County metro government,741096,337616,397.68,17.27,380.42,1948.1,887.5
+0100000US,,United States,1600000US2148006,2148006,United States - Kentucky - Louisville/Jefferson County metro government (balance),Louisville/Jefferson County metro government (balance),597337,270928,342.21,16.96,325.25,1836.6,833.0
+0100000US,,United States,1600000US2158620,2158620,United States - Kentucky - Owensboro city,Owensboro city,57265,26072,20.42,1.32,19.09,2999.1,1365.5
+0100000US,,United States,0400000US22,22,United States - Louisiana,Louisiana,4533372,1964981,52378.13,9174.23,43203.90,104.9,45.5
+0100000US,,United States,1600000US2205000,2205000,United States - Louisiana - Baton Rouge city,Baton Rouge city,229493,100801,79.10,2.16,76.95,2982.5,1310.0
+0100000US,,United States,1600000US2208920,2208920,United States - Louisiana - Bossier City city,Bossier City city,61315,25579,43.15,0.82,42.34,1448.2,604.1
+0100000US,,United States,1600000US2239475,2239475,United States - Louisiana - Kenner city,Kenner city,66702,28076,15.01,0.14,14.87,4486.1,1888.3
+0100000US,,United States,1600000US2240735,2240735,United States - Louisiana - Lafayette city,Lafayette city,120623,53356,49.35,0.12,49.23,2450.1,1083.8
+0100000US,,United States,1600000US2241155,2241155,United States - Louisiana - Lake Charles city,Lake Charles city,71993,32469,44.80,2.74,42.06,1711.8,772.0
+0100000US,,United States,1600000US2250115,2250115,United States - Louisiana - Metairie CDP,Metairie CDP,138481,65691,23.26,0.04,23.22,5963.4,2828.8
+0100000US,,United States,1600000US2255000,2255000,United States - Louisiana - New Orleans city,New Orleans city,343829,189896,350.21,180.79,169.42,2029.4,1120.8
+0100000US,,United States,1600000US2270000,2270000,United States - Louisiana - Shreveport city,Shreveport city,199311,88253,120.83,15.46,105.38,1891.4,837.5
+0100000US,,United States,0400000US23,23,United States - Maine,Maine,1328361,721830,35379.74,4536.82,30842.92,43.1,23.4
+0100000US,,United States,1600000US2360545,2360545,United States - Maine - Portland city,Portland city,66194,33836,69.44,48.13,21.31,3106.6,1588.0
+0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,5773552(r42264),2378814(r18611),12405.93,2698.69,9707.24,594.8,245.1
+0100000US,,United States,1600000US2404000,2404000,United States - Maryland - Baltimore city,Baltimore city,620961(r44982),296685(r21550),92.05,11.11,80.94,7671.5,3665.3
+0100000US,,United States,1600000US2407125,2407125,United States - Maryland - Bethesda CDP,Bethesda CDP,60858,27470,13.36,0.08,13.29,4579.7,2067.2
+0100000US,,United States,1600000US2408775,2408775,United States - Maryland - Bowie city,Bowie city,54727,20687,18.51,0.08,18.43,2970.1,1122.7
+0100000US,,United States,1600000US2419125,2419125,United States - Maryland - Columbia CDP,Columbia CDP,99615,41239,32.18,0.26,31.93,3120.1,1291.7
+0100000US,,United States,1600000US2423975,2423975,United States - Maryland - Dundalk CDP,Dundalk CDP,63597,26144,17.39,4.32,13.07,4866.8,2000.7
+0100000US,,United States,1600000US2426000,2426000,United States - Maryland - Ellicott City CDP,Ellicott City CDP,65834,24672,30.08,0.12,29.96,2197.7,823.6
+0100000US,,United States,1600000US2430325,2430325,United States - Maryland - Frederick city,Frederick city,65239,27559,22.20,0.21,21.99,2966.7,1253.2
+0100000US,,United States,1600000US2431175,2431175,United States - Maryland - Gaithersburg city,Gaithersburg city,59933,23337,10.34,0.14,10.20,5875.2,2287.7
+0100000US,,United States,1600000US2432025,2432025,United States - Maryland - Germantown CDP,Germantown CDP,86395,31807,17.11,0.11,17.00,5083.2,1871.4
+0100000US,,United States,1600000US2432650,2432650,United States - Maryland - Glen Burnie CDP,Glen Burnie CDP,67639,28013,18.03,0.71,17.32,3904.8,1617.2
+0100000US,,United States,1600000US2467675,2467675,United States - Maryland - Rockville city,Rockville city,61209,25199,13.57,0.06,13.51,4531.7,1865.7
+0100000US,,United States,1600000US2472450,2472450,United States - Maryland - Silver Spring CDP,Silver Spring CDP,71452,30522,7.95,0.03,7.92,9023.0,3854.3
+0100000US,,United States,1600000US2478425,2478425,United States - Maryland - Towson CDP,Towson CDP,55197(r44992),22779(r21558),14.28,0.14,14.15,3901.9,1610.2
+0100000US,,United States,1600000US2481175,2481175,United States - Maryland - Waldorf CDP,Waldorf CDP,67752,25496,36.48,0.26,36.22,1870.6,703.9
+0100000US,,United States,0400000US25,25,United States - Massachusetts,Massachusetts,6547629,2808254,10554.39,2754.33,7800.06,839.4,360.0
+0100000US,,United States,1600000US2507000,2507000,United States - Massachusetts - Boston city,Boston city,617594(r45120),272481,89.64,41.36,48.28,12792.7,5644.1
+0100000US,,United States,1600000US2509000,2509000,United States - Massachusetts - Brockton city,Brockton city,93810,35552,21.52,0.20,21.33,4398.4,1666.9
+0100000US,,United States,0600000US2502109175,2502109175,"United States - Massachusetts - Brookline town, Norfolk County","Brookline town, Norfolk County",58732(r45077),26448,6.81,0.06,6.75,8701.0,3918.2
+0100000US,,United States,1600000US2509210,2509210,United States - Massachusetts - Brookline CDP,Brookline CDP,58732(r45121),26448,6.81,0.06,6.75,8701.0,3918.2
+0100000US,,United States,1600000US2511000,2511000,United States - Massachusetts - Cambridge city,Cambridge city,105162,47291,7.11,0.72,6.39,16469.1,7406.1
+0100000US,,United States,1600000US2513660,2513660,United States - Massachusetts - Chicopee city,Chicopee city,55298,25140,23.87,1.04,22.83,2422.1,1101.2
+0100000US,,United States,1600000US2523000,2523000,United States - Massachusetts - Fall River city,Fall River city,88857,42750,40.25,7.11,33.13,2681.9,1290.3
+0100000US,,United States,0600000US2501724925,2501724925,"United States - Massachusetts - Framingham town, Middlesex County","Framingham town, Middlesex County",68318,27529,26.50,1.46,25.04,2728.6,1099.5
+0100000US,,United States,1600000US2524960,2524960,United States - Massachusetts - Framingham CDP,Framingham CDP,68318,27529,26.50,1.46,25.04,2728.6,1099.5
+0100000US,,United States,1600000US2529405,2529405,United States - Massachusetts - Haverhill city,Haverhill city,60879,25657,35.63,2.66,32.97,1846.5,778.2
+0100000US,,United States,1600000US2534550,2534550,United States - Massachusetts - Lawrence city,Lawrence city,76377,27137,7.41,0.48,6.93,11028.0,3918.3
+0100000US,,United States,1600000US2537000,2537000,United States - Massachusetts - Lowell city,Lowell city,106519,41431,14.53,0.94,13.58,7842.1,3050.2
+0100000US,,United States,1600000US2537490,2537490,United States - Massachusetts - Lynn city,Lynn city,90329,35776,13.52,2.78,10.74,8409.5,3330.7
+0100000US,,United States,1600000US2537875,2537875,United States - Massachusetts - Malden city,Malden city,59450,25161,5.08,0.04,5.04,11788.2,4989.1
+0100000US,,United States,1600000US2539835,2539835,United States - Massachusetts - Medford city,Medford city,56173(r45122),24046,8.66,0.56,8.10,6934.0,2968.2
+0100000US,,United States,1600000US2545000,2545000,United States - Massachusetts - New Bedford city,New Bedford city,95072,42933,24.13,4.13,20.00,4754.4,2147.0
+0100000US,,United States,1600000US2545560,2545560,United States - Massachusetts - Newton city,Newton city,85146,32648,18.16,0.33,17.84,4773.5,1830.3
+0100000US,,United States,1600000US2552490,2552490,United States - Massachusetts - Peabody city,Peabody city,51251,22220,16.79,0.58,16.21,3161.4,1370.6
+0100000US,,United States,0600000US2502354310,2502354310,"United States - Massachusetts - Plymouth town, Plymouth County","Plymouth town, Plymouth County",56468,24800,133.96,37.50,96.46,585.4,257.1
+0100000US,,United States,1600000US2555745,2555745,United States - Massachusetts - Quincy city,Quincy city,92271,42838,26.91,10.33,16.57,5568.0,2585.0
+0100000US,,United States,1600000US2556585,2556585,United States - Massachusetts - Revere city,Revere city,51755,22100,10.11,4.42,5.69,9095.6,3883.9
+0100000US,,United States,1600000US2562535,2562535,United States - Massachusetts - Somerville city,Somerville city,75754(r45124),33720,4.22,0.10,4.12,18403.9,8192.1
+0100000US,,United States,1600000US2567000,2567000,United States - Massachusetts - Springfield city,Springfield city,153060,61706,33.07,1.21,31.87,4803.4,1936.5
+0100000US,,United States,1600000US2569170,2569170,United States - Massachusetts - Taunton city,Taunton city,55874,23896,48.41,1.71,46.70,1196.4,511.7
+0100000US,,United States,1600000US2572600,2572600,United States - Massachusetts - Waltham city,Waltham city,60632,24926,13.75,1.02,12.73,4763.4,1958.2
+0100000US,,United States,1600000US2578972,2578972,United States - Massachusetts - Weymouth Town city,Weymouth Town city,53743,23480,21.60,4.81,16.79,3200.4,1398.3
+0100000US,,United States,1600000US2582000,2582000,United States - Massachusetts - Worcester city,Worcester city,181045,74645,38.46,1.09,37.37,4844.5,1997.4
+0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,9883640(r45127),4532233(r21600),96713.51,40174.61,56538.90,174.8,80.2
+0100000US,,United States,1600000US2603000,2603000,United States - Michigan - Ann Arbor city,Ann Arbor city,113934,49789,28.70,0.87,27.83,4094.0,1789.1
+0100000US,,United States,1600000US2605920,2605920,United States - Michigan - Battle Creek city,Battle Creek city,52347,24277,43.72,1.12,42.61,1228.6,569.8
+0100000US,,United States,0600000US2616313120,2616313120,"United States - Michigan - Canton charter township, Wayne County","Canton charter township, Wayne County",90173,34829,36.14,0.03,36.11,2497.2,964.5
+0100000US,,United States,0600000US2609916520,2609916520,"United States - Michigan - Clinton charter township, Macomb County","Clinton charter township, Macomb County",96796,45288,28.37,0.27,28.10,3445.0,1611.8
+0100000US,,United States,1600000US2621000,2621000,United States - Michigan - Dearborn city,Dearborn city,98153(r46016),37871(r22549),24.47,0.25,24.22,4051.8,1563.3
+0100000US,,United States,1600000US2621020,2621020,United States - Michigan - Dearborn Heights city,Dearborn Heights city,57774,24068,11.75,0.01,11.74,4919.9,2049.6
+0100000US,,United States,1600000US2622000,2622000,United States - Michigan - Detroit city,Detroit city,713777(r46017),349170(r22550),142.87,4.12,138.75,5144.3,2516.5
+0100000US,,United States,1600000US2627440,2627440,United States - Michigan - Farmington Hills city,Farmington Hills city,79740,36178,33.31,0.03,33.28,2396.0,1087.1
+0100000US,,United States,1600000US2629000,2629000,United States - Michigan - Flint city,Flint city,102434,51321,34.05,0.64,33.42,3065.4,1535.8
+0100000US,,United States,1600000US2634000,2634000,United States - Michigan - Grand Rapids city,Grand Rapids city,188040,80619,45.26,0.87,44.40,4235.6,1815.9
+0100000US,,United States,1600000US2642160,2642160,United States - Michigan - Kalamazoo city,Kalamazoo city,74262,32433,25.12,0.43,24.68,3008.5,1313.9
+0100000US,,United States,1600000US2646000,2646000,United States - Michigan - Lansing city,Lansing city,114297,54181,36.68,0.63,36.05,3170.6,1503.0
+0100000US,,United States,1600000US2649000,2649000,United States - Michigan - Livonia city,Livonia city,96942,40401,35.85,0.16,35.70,2715.8,1131.8
+0100000US,,United States,0600000US2609950480,2609950480,"United States - Michigan - Macomb township, Macomb County","Macomb township, Macomb County",79580,27585,36.34,0.12,36.23,2196.8,761.5
+0100000US,,United States,1600000US2659440,2659440,United States - Michigan - Novi city,Novi city,55224,24226,31.29,1.02,30.26,1824.8,800.5
+0100000US,,United States,1600000US2665440,2665440,United States - Michigan - Pontiac city,Pontiac city,59515,27084,20.29,0.31,19.97,2980.0,1356.1
+0100000US,,United States,1600000US2669035,2669035,United States - Michigan - Rochester Hills city,Rochester Hills city,70995,29494,32.91,0.09,32.82,2163.1,898.7
+0100000US,,United States,1600000US2670040,2670040,United States - Michigan - Royal Oak city,Royal Oak city,57236,30207,11.79,0.00,11.78,4856.8,2563.3
+0100000US,,United States,1600000US2670520,2670520,United States - Michigan - Saginaw city,Saginaw city,51508,23574,18.10,0.76,17.34,2971.2,1359.8
+0100000US,,United States,1600000US2670760,2670760,United States - Michigan - St. Clair Shores city,St. Clair Shores city,59715,28467,14.28,2.66,11.62,5139.5,2450.1
+0100000US,,United States,0600000US2609972820,2609972820,"United States - Michigan - Shelby charter township, Macomb County","Shelby charter township, Macomb County",73804,30291,35.14,0.89,34.26,2154.4,884.2
+0100000US,,United States,1600000US2674900,2674900,United States - Michigan - Southfield city,Southfield city,71739,35986,26.28,0.01,26.27,2730.5,1369.7
+0100000US,,United States,1600000US2676460,2676460,United States - Michigan - Sterling Heights city,Sterling Heights city,129699,52190,36.80,0.29,36.50,3552.9,1429.7
+0100000US,,United States,1600000US2679000,2679000,United States - Michigan - Taylor city,Taylor city,63131,26422,23.63,0.04,23.60,2675.3,1119.7
+0100000US,,United States,1600000US2680700,2680700,United States - Michigan - Troy city,Troy city,80980,32907,33.64,0.17,33.47,2419.2,983.1
+0100000US,,United States,1600000US2684000,2684000,United States - Michigan - Warren city,Warren city,134056,57938,34.46,0.08,34.38,3899.2,1685.2
+0100000US,,United States,0600000US2612584240,2612584240,"United States - Michigan - Waterford charter township, Oakland County","Waterford charter township, Oakland County",71707,32097,35.19,4.54,30.66,2339.2,1047.0
+0100000US,,United States,0600000US2612585480,2612585480,"United States - Michigan - West Bloomfield charter township, Oakland County","West Bloomfield charter township, Oakland County",64690,25813,31.27,4.26,27.01,2395.3,955.8
+0100000US,,United States,1600000US2686000,2686000,United States - Michigan - Westland city,Westland city,84094,39201,20.44,0.02,20.42,4117.3,1919.3
+0100000US,,United States,1600000US2688940,2688940,United States - Michigan - Wyoming city,Wyoming city,72125,28983,24.87,0.23,24.64,2927.3,1176.3
+0100000US,,United States,0600000US2616189160,2616189160,"United States - Michigan - Ypsilanti charter township, Washtenaw County","Ypsilanti charter township, Washtenaw County",53362,23447,31.72,1.79,29.93,1782.8,783.4
+0100000US,,United States,0400000US27,27,United States - Minnesota,Minnesota,5303925,2347201,86935.83,7309.09,79626.74,66.6,29.5
+0100000US,,United States,1600000US2706382,2706382,United States - Minnesota - Blaine city,Blaine city,57186,21921,34.05,0.20,33.85,1689.5,647.6
+0100000US,,United States,1600000US2706616,2706616,United States - Minnesota - Bloomington city,Bloomington city,82893,37641,38.42,3.74,34.68,2390.1,1085.3
+0100000US,,United States,1600000US2707966,2707966,United States - Minnesota - Brooklyn Park city,Brooklyn Park city,75781,27841,26.57,0.50,26.07,2906.5,1067.8
+0100000US,,United States,1600000US2708794,2708794,United States - Minnesota - Burnsville city,Burnsville city,60306,25759,26.92,2.02,24.91,2421.4,1034.3
+0100000US,,United States,1600000US2713114,2713114,United States - Minnesota - Coon Rapids city,Coon Rapids city,61476,24462,23.34,0.73,22.61,2719.0,1081.9
+0100000US,,United States,1600000US2717000,2717000,United States - Minnesota - Duluth city,Duluth city,86265,38208,87.43,19.64,67.79,1272.5,563.6
+0100000US,,United States,1600000US2717288,2717288,United States - Minnesota - Eagan city,Eagan city,64206,26414,33.43,2.31,31.12,2063.3,848.8
+0100000US,,United States,1600000US2718116,2718116,United States - Minnesota - Eden Prairie city,Eden Prairie city,60797,25075,35.18,2.73,32.45,1873.7,772.8
+0100000US,,United States,1600000US2735180,2735180,United States - Minnesota - Lakeville city,Lakeville city,55954,19456,37.82,1.77,36.05,1551.9,539.6
+0100000US,,United States,1600000US2740166,2740166,United States - Minnesota - Maple Grove city,Maple Grove city,61567,23626,35.03,2.39,32.63,1886.6,724.0
+0100000US,,United States,1600000US2743000,2743000,United States - Minnesota - Minneapolis city,Minneapolis city,382578,178287,57.47,3.50,53.97,7088.3,3303.3
+0100000US,,United States,1600000US2751730,2751730,United States - Minnesota - Plymouth city,Plymouth city,70576,29982,35.33,2.64,32.68,2159.5,917.4
+0100000US,,United States,1600000US2754880,2754880,United States - Minnesota - Rochester city,Rochester city,106769,45683,54.75,0.16,54.59,1956.0,836.9
+0100000US,,United States,1600000US2756896,2756896,United States - Minnesota - St. Cloud city,St. Cloud city,65842,27338,41.08,1.04,40.04,1644.5,682.8
+0100000US,,United States,1600000US2758000,2758000,United States - Minnesota - St. Paul city,St. Paul city,285068,120795,56.18,4.20,51.98,5484.3,2323.9
+0100000US,,United States,1600000US2771428,2771428,United States - Minnesota - Woodbury city,Woodbury city,61961,23568,35.55,0.82,34.73,1784.1,678.6
+0100000US,,United States,0400000US28,28,United States - Mississippi,Mississippi,2967297,1274719,48431.78,1508.50,46923.27,63.2,27.2
+0100000US,,United States,1600000US2829700,2829700,United States - Mississippi - Gulfport city,Gulfport city,67793,31602,63.99,8.40,55.59,1219.5,568.5
+0100000US,,United States,1600000US2836000,2836000,United States - Mississippi - Jackson city,Jackson city,173514,74537,113.24,2.20,111.05,1562.5,671.2
+0100000US,,United States,0400000US29,29,United States - Missouri,Missouri,5988927,2712729,69706.99,965.47,68741.52,87.1,39.5
+0100000US,,United States,1600000US2906652,2906652,United States - Missouri - Blue Springs city,Blue Springs city,52575,20643,22.36,0.08,22.27,2360.4,926.8
+0100000US,,United States,1600000US2915670,2915670,United States - Missouri - Columbia city,Columbia city,108500,46758,63.40,0.32,63.08,1720.1,741.3
+0100000US,,United States,1600000US2924778,2924778,United States - Missouri - Florissant city,Florissant city,52158,22632,12.87,0.31,12.56,4152.5,1801.8
+0100000US,,United States,1600000US2935000,2935000,United States - Missouri - Independence city,Independence city,116830,53834,78.25,0.68,77.57,1506.2,694.0
+0100000US,,United States,1600000US2937592,2937592,United States - Missouri - Joplin city,Joplin city,50150,23322,35.68,0.12,35.56,1410.3,655.9
+0100000US,,United States,1600000US2938000,2938000,United States - Missouri - Kansas City city,Kansas City city,459787,221860,319.03,4.08,314.95,1459.9,704.4
+0100000US,,United States,1600000US2941348,2941348,United States - Missouri - Lee's Summit city,Lee's Summit city,91364,36679,65.39,2.04,63.35,1442.3,579.0
+0100000US,,United States,1600000US2954074,2954074,United States - Missouri - O'Fallon city,O'Fallon city,79329,29376,29.19,0.00,29.19,2717.8,1006.4
+0100000US,,United States,1600000US2964082,2964082,United States - Missouri - St. Charles city,St. Charles city,65794,28590,24.02,0.38,23.65,2782.3,1209.0
+0100000US,,United States,1600000US2964550,2964550,United States - Missouri - St. Joseph city,St. Joseph city,76780,33189,44.77,0.78,43.99,1745.3,754.4
+0100000US,,United States,1600000US2965000,2965000,United States - Missouri - St. Louis city,St. Louis city,319294,176002,66.03,4.12,61.91,5157.5,2842.9
+0100000US,,United States,1600000US2965126,2965126,United States - Missouri - St. Peters city,St. Peters city,52575,21717,22.37,0.00,22.37,2350.6,970.9
+0100000US,,United States,1600000US2970000,2970000,United States - Missouri - Springfield city,Springfield city,159498,77620,82.31,0.59,81.72,1951.8,949.8
+0100000US,,United States,0400000US30,30,United States - Montana,Montana,989415,482825,147039.71,1493.91,145545.80,6.8,3.3
+0100000US,,United States,1600000US3006550,3006550,United States - Montana - Billings city,Billings city,104170,46317,43.53,0.11,43.41,2399.5,1066.9
+0100000US,,United States,1600000US3032800,3032800,United States - Montana - Great Falls city,Great Falls city,58505,26854,22.26,0.47,21.79,2684.9,1232.4
+0100000US,,United States,1600000US3050200,3050200,United States - Montana - Missoula city,Missoula city,66788,30682,27.68,0.16,27.51,2427.6,1115.2
+0100000US,,United States,0400000US31,31,United States - Nebraska,Nebraska,1826341,796793,77347.81,523.64,76824.17,23.8,10.4
+0100000US,,United States,1600000US3103950,3103950,United States - Nebraska - Bellevue city,Bellevue city,50137,20591,16.02,0.17,15.85,3162.8,1299.0
+0100000US,,United States,1600000US3128000,3128000,United States - Nebraska - Lincoln city,Lincoln city,258379,110546,90.36,1.25,89.11,2899.4,1240.5
+0100000US,,United States,1600000US3137000,3137000,United States - Nebraska - Omaha city,Omaha city,408958,177518,130.58,3.49,127.09,3217.9,1396.8
+0100000US,,United States,0400000US32,32,United States - Nevada,Nevada,2700551,1173814,110571.82,790.65,109781.18,24.6,10.7
+0100000US,,United States,1600000US3209700,3209700,United States - Nevada - Carson City,Carson City,55274,23534,157.24,12.58,144.66,382.1,162.7
+0100000US,,United States,1600000US3223770,3223770,United States - Nevada - Enterprise CDP,Enterprise CDP,108481,49563,46.51,0.00,46.51,2332.3,1065.6
+0100000US,,United States,1600000US3231900,3231900,United States - Nevada - Henderson city,Henderson city,257729,113586,107.73,0.00,107.73,2392.3,1054.3
+0100000US,,United States,1600000US3240000,3240000,United States - Nevada - Las Vegas city,Las Vegas city,583756(r46220),243701,135.87,0.05,135.81,4298.2,1794.4
+0100000US,,United States,1600000US3251800,3251800,United States - Nevada - North Las Vegas city,North Las Vegas city,216961,76073,101.39,0.04,101.35,2140.8,750.6
+0100000US,,United States,1600000US3254600,3254600,United States - Nevada - Paradise CDP,Paradise CDP,223167,114296,46.72,0.00,46.72,4777.0,2446.6
+0100000US,,United States,1600000US3260600,3260600,United States - Nevada - Reno city,Reno city,225221,102582,105.88,2.87,103.01,2186.4,995.9
+0100000US,,United States,1600000US3268400,3268400,United States - Nevada - Sparks city,Sparks city,90264,36455,35.93,0.17,35.76,2524.3,1019.5
+0100000US,,United States,1600000US3268585,3268585,United States - Nevada - Spring Valley CDP,Spring Valley CDP,178395,83678,33.23,0.00,33.23,5369.1,2518.4
+0100000US,,United States,1600000US3271400,3271400,United States - Nevada - Sunrise Manor CDP,Sunrise Manor CDP,189372,70255,33.35,0.00,33.35,5677.9,2106.4
+0100000US,,United States,0400000US33,33,United States - New Hampshire,New Hampshire,1316470,614754,9349.16,396.51,8952.65,147.0,68.7
+0100000US,,United States,1600000US3345140,3345140,United States - New Hampshire - Manchester city,Manchester city,109565,49288,34.96,1.86,33.10,3310.1,1489.0
+0100000US,,United States,1600000US3350260,3350260,United States - New Hampshire - Nashua city,Nashua city,86494,37168,31.89,1.04,30.85,2803.7,1204.8
+0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,8791894(r46246),3553562(r22677),8722.58,1368.36,7354.22,1195.5,483.2
+0100000US,,United States,1600000US3403580,3403580,United States - New Jersey - Bayonne city,Bayonne city,63024(r46739),27799(r23113),11.08,5.28,5.80,10858.3,4789.4
+0100000US,,United States,0600000US3402907420,3402907420,"United States - New Jersey - Brick township, Ocean County","Brick township, Ocean County",75072,33677,32.32,6.60,25.72,2919.4,1309.6
+0100000US,,United States,1600000US3410000,3410000,United States - New Jersey - Camden city,Camden city,77344,28358,10.34,1.42,8.92,8669.6,3178.7
+0100000US,,United States,0600000US3400712280,3400712280,"United States - New Jersey - Cherry Hill township, Camden County","Cherry Hill township, Camden County",71045(r46272),28452,24.24,0.15,24.10,2948.3,1180.7
+0100000US,,United States,1600000US3413690,3413690,United States - New Jersey - Clifton city,Clifton city,84136,31946,11.40,0.14,11.26,7472.0,2837.1
+0100000US,,United States,1600000US3419390,3419390,United States - New Jersey - East Orange city,East Orange city,64270,28803,3.92,0.00,3.92,16377.1,7339.5
+0100000US,,United States,0600000US3402320230,3402320230,"United States - New Jersey - Edison township, Middlesex County","Edison township, Middlesex County",99967,36302,30.64,0.70,29.94,3339.0,1212.5
+0100000US,,United States,1600000US3421000,3421000,United States - New Jersey - Elizabeth city,Elizabeth city,124969,45516,13.46,1.15,12.32,10144.1,3694.7
+0100000US,,United States,0600000US3403524900,3403524900,"United States - New Jersey - Franklin township, Somerset County","Franklin township, Somerset County",62300,24426,46.85,0.70,46.15,1350.0,529.3
+0100000US,,United States,0600000US3400726760,3400726760,"United States - New Jersey - Gloucester township, Camden County","Gloucester township, Camden County",64634,24711,23.26,0.28,22.98,2812.2,1075.2
+0100000US,,United States,0600000US3402129310,3402129310,"United States - New Jersey - Hamilton township, Mercer County","Hamilton township, Mercer County",88464,36170,40.39,0.90,39.49,2240.2,915.9
+0100000US,,United States,1600000US3432250,3432250,United States - New Jersey - Hoboken city,Hoboken city,50005,26855,2.01,0.74,1.28,39212.0,21058.7
+0100000US,,United States,0600000US3402533300,3402533300,"United States - New Jersey - Howell township, Monmouth County","Howell township, Monmouth County",51075,17979,61.21,0.65,60.56,843.4,296.9
+0100000US,,United States,0600000US3401334450,3401334450,"United States - New Jersey - Irvington township, Essex County","Irvington township, Essex County",53926,23196,2.93,0.00,2.93,18417.0,7922.0
+0100000US,,United States,0600000US3402934680,3402934680,"United States - New Jersey - Jackson township, Ocean County","Jackson township, Ocean County",54856,20342,100.62,1.38,99.24,552.7,205.0
+0100000US,,United States,1600000US3436000,3436000,United States - New Jersey - Jersey City city,Jersey City city,247597(r46742),108720(r23116),21.08,6.29,14.79,16736.6,7349.1
+0100000US,,United States,0600000US3402938550,3402938550,"United States - New Jersey - Lakewood township, Ocean County","Lakewood township, Ocean County",92843,26337,24.98,0.41,24.58,3777.7,1071.6
+0100000US,,United States,1600000US3438580,3438580,United States - New Jersey - Lakewood CDP,Lakewood CDP,53805,11226,7.32,0.24,7.08,7601.8,1586.1
+0100000US,,United States,0600000US3402545990,3402545990,"United States - New Jersey - Middletown township, Monmouth County","Middletown township, Monmouth County",66522,24959,58.73,17.75,40.99,1622.9,608.9
+0100000US,,United States,1600000US3451000,3451000,United States - New Jersey - Newark city,Newark city,277140,109520,26.11,1.92,24.19,11458.3,4528.1
+0100000US,,United States,1600000US3451210,3451210,United States - New Jersey - New Brunswick city,New Brunswick city,55181(r46744),15053,5.79,0.56,5.23,10556.4,2879.7
+0100000US,,United States,0600000US3401752470,3401752470,"United States - New Jersey - North Bergen township, Hudson County","North Bergen township, Hudson County",60773,23912,5.57,0.44,5.13,11838.0,4657.8
+0100000US,,United States,0600000US3402354705,3402354705,"United States - New Jersey - Old Bridge township, Middlesex County","Old Bridge township, Middlesex County",65375,24638,40.78,2.72,38.06,1717.7,647.3
+0100000US,,United States,0600000US3402756460,3402756460,"United States - New Jersey - Parsippany-Troy Hills township, Morris County","Parsippany-Troy Hills township, Morris County",53238,21274,25.39,1.83,23.56,2259.3,902.8
+0100000US,,United States,1600000US3456550,3456550,United States - New Jersey - Passaic city,Passaic city,69781,20432,3.24,0.10,3.15,22179.6,6494.2
+0100000US,,United States,1600000US3457000,3457000,United States - New Jersey - Paterson city,Paterson city,146199,47946,8.70,0.28,8.43,17346.3,5688.7
+0100000US,,United States,1600000US3458200,3458200,United States - New Jersey - Perth Amboy city,Perth Amboy city,50814,16556,5.96,1.26,4.70,10806.8,3521.0
+0100000US,,United States,0600000US3402359010,3402359010,"United States - New Jersey - Piscataway township, Middlesex County","Piscataway township, Middlesex County",56044,17777,19.03,0.19,18.83,2975.5,943.8
+0100000US,,United States,1600000US3473110,3473110,United States - New Jersey - Toms River CDP,Toms River CDP,88791,36605,40.74,1.79,38.95,2279.8,939.9
+0100000US,,United States,0600000US3402973125,3402973125,"United States - New Jersey - Toms River township, Ocean County","Toms River township, Ocean County",91239,43334,52.88,12.40,40.49,2253.5,1070.3
+0100000US,,United States,1600000US3474000,3474000,United States - New Jersey - Trenton city,Trenton city,84913,33035,8.16,0.51,7.65,11101.9,4319.2
+0100000US,,United States,0600000US3403974480,3403974480,"United States - New Jersey - Union township, Union County","Union township, Union County",56642,20250,9.09,0.02,9.07,6244.3,2232.4
+0100000US,,United States,1600000US3474630,3474630,United States - New Jersey - Union City city,Union City city,66455(r46747),24931(r23119),1.28,0.00,1.28,51810.1,19436.9
+0100000US,,United States,1600000US3476070,3476070,United States - New Jersey - Vineland city,Vineland city,60724,22661,69.03,0.61,68.42,887.5,331.2
+0100000US,,United States,0600000US3403177840,3403177840,"United States - New Jersey - Wayne township, Passaic County","Wayne township, Passaic County",54717,19768,25.17,1.45,23.73,2306.0,833.1
+0100000US,,United States,0600000US3402382000,3402382000,"United States - New Jersey - Woodbridge township, Middlesex County","Woodbridge township, Middlesex County",99585,36124,24.51,1.29,23.21,4290.0,1556.2
+0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,2059179(r46748),901388(r23120),121590.30,292.15,121298.15,17.0,7.4
+0100000US,,United States,1600000US3502000,3502000,United States - New Mexico - Albuquerque city,Albuquerque city,545852(r46987),239166,189.55,1.82,187.73,2907.6,1274.0
+0100000US,,United States,1600000US3539380,3539380,United States - New Mexico - Las Cruces city,Las Cruces city,97618,42370,76.63,0.14,76.49,1276.2,553.9
+0100000US,,United States,1600000US3563460,3563460,United States - New Mexico - Rio Rancho city,Rio Rancho city,87521,33964,103.67,0.32,103.35,846.8,328.6
+0100000US,,United States,1600000US3570500,3570500,United States - New Mexico - Santa Fe city,Santa Fe city,67947,37200,46.04,0.07,45.98,1477.8,809.1
+0100000US,,United States,0400000US36,36,United States - New York,New York,19378102,8108103,54554.98,7428.58,47126.40,411.2,172.1
+0100000US,,United States,1600000US3601000,3601000,United States - New York - Albany city,Albany city,97856,46362,21.94,0.55,21.39,4575.2,2167.6
+0100000US,,United States,0600000US3602902000,3602902000,"United States - New York - Amherst town, Erie County","Amherst town, Erie County",122366,51179,53.59,0.39,53.20,2300.0,962.0
+0100000US,,United States,0600000US3610304000,3610304000,"United States - New York - Babylon town, Suffolk County","Babylon town, Suffolk County",213603,74233,114.18,61.86,52.32,4082.7,1418.9
+0100000US,,United States,1600000US3608026,3608026,United States - New York - Brentwood CDP,Brentwood CDP,60664,14202,10.98,0.00,10.98,5524.6,1293.4
+0100000US,,United States,0600000US3600508510,3600508510,"United States - New York - Bronx borough, Bronx County","Bronx borough, Bronx County",1385108,511896,57.48,15.38,42.10,32903.3,12160.1
+0100000US,,United States,0600000US3610310000,3610310000,"United States - New York - Brookhaven town, Suffolk County","Brookhaven town, Suffolk County",486040,175026,531.54,272.10,259.44,1873.4,674.6
+0100000US,,United States,0600000US3604710022,3604710022,"United States - New York - Brooklyn borough, Kings County","Brooklyn borough, Kings County",2504700,1000293,96.92,26.10,70.82,35369.2,14125.3
+0100000US,,United States,1600000US3611000,3611000,United States - New York - Buffalo city,Buffalo city,261310,133444,52.49,12.11,40.38,6470.6,3304.4
+0100000US,,United States,1600000US3615000,3615000,United States - New York - Cheektowaga CDP,Cheektowaga CDP,75178,35839,25.40,0.06,25.34,2966.4,1414.2
+0100000US,,United States,0600000US3602915011,3602915011,"United States - New York - Cheektowaga town, Erie County","Cheektowaga town, Erie County",88226,41892,29.49,0.06,29.42,2998.6,1423.8
+0100000US,,United States,0600000US3608715968,3608715968,"United States - New York - Clarkstown town, Rockland County","Clarkstown town, Rockland County",84187,30314,47.07,8.59,38.48,2188.1,787.9
+0100000US,,United States,0600000US3606716067,3606716067,"United States - New York - Clay town, Onondaga County","Clay town, Onondaga County",58206,24195,48.86,0.90,47.96,1213.7,504.5
+0100000US,,United States,0600000US3600117343,3600117343,"United States - New York - Colonie town, Albany County","Colonie town, Albany County",81591,34620,57.84,1.90,55.94,1458.5,618.8
+0100000US,,United States,0600000US3605530290,3605530290,"United States - New York - Greece town, Monroe County","Greece town, Monroe County",96095,41190,51.39,3.87,47.52,2022.3,866.8
+0100000US,,United States,0600000US3611930367,3611930367,"United States - New York - Greenburgh town, Westchester County","Greenburgh town, Westchester County",88400,35452,36.11,5.81,30.31,2916.6,1169.7
+0100000US,,United States,0600000US3602931654,3602931654,"United States - New York - Hamburg town, Erie County","Hamburg town, Erie County",56936,24692,41.35,0.03,41.32,1377.9,597.6
+0100000US,,United States,1600000US3633139,3633139,United States - New York - Hempstead village,Hempstead village,53891,16034,3.69,0.00,3.68,14636.2,4354.7
+0100000US,,United States,0600000US3605934000,3605934000,"United States - New York - Hempstead town, Nassau County","Hempstead town, Nassau County",759757,256734,191.59,73.00,118.59,6406.7,2164.9
+0100000US,,United States,0600000US3610337000,3610337000,"United States - New York - Huntington town, Suffolk County","Huntington town, Suffolk County",203264,71948,137.11,42.99,94.12,2159.5,764.4
+0100000US,,United States,0600000US3605537726,3605537726,"United States - New York - Irondequoit town, Monroe County","Irondequoit town, Monroe County",51692,23612,16.83,1.83,15.00,3445.9,1574.0
+0100000US,,United States,1600000US3637737,3637737,United States - New York - Irondequoit CDP,Irondequoit CDP,51692,23612,16.83,1.83,15.00,3445.9,1574.0
+0100000US,,United States,0600000US3610338000,3610338000,"United States - New York - Islip town, Suffolk County","Islip town, Suffolk County",335543,110665,163.00,58.89,104.11,3222.8,1062.9
+0100000US,,United States,1600000US3642081,3642081,United States - New York - Levittown CDP,Levittown CDP,51881,17287,6.84,0.02,6.81,7617.2,2538.1
+0100000US,,United States,0600000US3606144919,3606144919,"United States - New York - Manhattan borough, New York County","Manhattan borough, New York County",1585873,847090,33.59,10.76,22.83,69468.4,37106.4
+0100000US,,United States,1600000US3649121,3649121,United States - New York - Mount Vernon city,Mount Vernon city,67292,28990,4.40,0.02,4.39,15343.6,6610.2
+0100000US,,United States,1600000US3650617,3650617,United States - New York - New Rochelle city,New Rochelle city,77062,29586,13.24,2.89,10.35,7445.4,2858.5
+0100000US,,United States,1600000US3651000,3651000,United States - New York - New York city,New York city,8175133,3371062,468.48,165.84,302.64,27012.4,11138.7
+0100000US,,United States,1600000US3651055,3651055,United States - New York - Niagara Falls city,Niagara Falls city,50193,26220,16.83,2.74,14.09,3563.3,1861.4
+0100000US,,United States,0600000US3605953000,3605953000,"United States - New York - North Hempstead town, Nassau County","North Hempstead town, Nassau County",226322,81961,69.11,15.60,53.51,4229.3,1531.6
+0100000US,,United States,0600000US3605956000,3605956000,"United States - New York - Oyster Bay town, Nassau County","Oyster Bay town, Nassau County",293214,102849,169.40,65.65,103.75,2826.2,991.3
+0100000US,,United States,0600000US3608160323,3608160323,"United States - New York - Queens borough, Queens County","Queens borough, Queens County",2230722,835127,178.21,69.68,108.53,20553.6,7694.7
+0100000US,,United States,0600000US3608760510,3608760510,"United States - New York - Ramapo town, Rockland County","Ramapo town, Rockland County",126595,36754,61.89,0.70,61.20,2068.6,600.6
+0100000US,,United States,1600000US3663000,3663000,United States - New York - Rochester city,Rochester city,210565,97158,37.15,1.37,35.78,5884.9,2715.4
+0100000US,,United States,1600000US3665508,3665508,United States - New York - Schenectady city,Schenectady city,66135,30095,10.96,0.19,10.78,6135.3,2791.9
+0100000US,,United States,0600000US3610368000,3610368000,"United States - New York - Smithtown town, Suffolk County","Smithtown town, Suffolk County",117801,41381,111.45,57.75,53.70,2193.8,770.6
+0100000US,,United States,0600000US3610368473,3610368473,"United States - New York - Southampton town, Suffolk County","Southampton town, Suffolk County",56790,41759,293.70,154.51,139.19,408.0,300.0
+0100000US,,United States,0600000US3608570915,3608570915,"United States - New York - Staten Island borough, Richmond County","Staten Island borough, Richmond County",468730,176656,102.29,43.92,58.37,8030.3,3026.5
+0100000US,,United States,1600000US3673000,3673000,United States - New York - Syracuse city,Syracuse city,145170(r47059),64356,25.61,0.56,25.04,5796.7,2569.8
+0100000US,,United States,1600000US3674183,3674183,United States - New York - Tonawanda CDP,Tonawanda CDP,58144,27303,18.64,1.34,17.30,3361.0,1578.2
+0100000US,,United States,0600000US3602975000,3602975000,"United States - New York - Tonawanda town, Erie County","Tonawanda town, Erie County",73567,34690,20.28,1.54,18.73,3926.7,1851.6
+0100000US,,United States,1600000US3675484,3675484,United States - New York - Troy city,Troy city,50129,23474,11.06,0.70,10.36,4840.0,2266.5
+0100000US,,United States,0600000US3600776056,3600776056,"United States - New York - Union town, Broome County","Union town, Broome County",56346,27054,35.99,0.54,35.45,1589.4,763.1
+0100000US,,United States,1600000US3676540,3676540,United States - New York - Utica city,Utica city,62235,28166,17.01,0.26,16.76,3713.6,1680.7
+0100000US,,United States,1600000US3681677,3681677,United States - New York - White Plains city,White Plains city,56853,24382,9.88,0.12,9.77,5820.5,2496.2
+0100000US,,United States,1600000US3684000,3684000,United States - New York - Yonkers city,Yonkers city,195976,80389,20.30,2.28,18.01,10880.3,4463.1
+0100000US,,United States,0400000US37,37,United States - North Carolina,North Carolina,9535483,4327528,53819.16,5201.25,48617.91,196.1,89.0
+0100000US,,United States,1600000US3702140,3702140,United States - North Carolina - Asheville city,Asheville city,83393,41626,45.23,0.30,44.93,1855.9,926.4
+0100000US,,United States,1600000US3710740,3710740,United States - North Carolina - Cary town,Cary town,135234,55303,55.44,1.09,54.35,2488.4,1017.6
+0100000US,,United States,1600000US3711800,3711800,United States - North Carolina - Chapel Hill town,Chapel Hill town,57233,22254,21.27,0.15,21.12,2710.0,1053.7
+0100000US,,United States,1600000US3712000,3712000,United States - North Carolina - Charlotte city,Charlotte city,731424,319918,299.67,1.99,297.68,2457.1,1074.7
+0100000US,,United States,1600000US3714100,3714100,United States - North Carolina - Concord city,Concord city,79066,32130,60.30,0.04,60.27,1311.9,533.1
+0100000US,,United States,1600000US3719000,3719000,United States - North Carolina - Durham city,Durham city,228330,103221,108.28,0.91,107.37,2126.6,961.4
+0100000US,,United States,1600000US3722920,3722920,United States - North Carolina - Fayetteville city,Fayetteville city,200564,87005,147.71,1.86,145.84,1375.2,596.6
+0100000US,,United States,1600000US3725580,3725580,United States - North Carolina - Gastonia city,Gastonia city,71741,31238,50.73,0.23,50.50,1420.5,618.5
+0100000US,,United States,1600000US3728000,3728000,United States - North Carolina - Greensboro city,Greensboro city,269666,124074,131.80,5.29,126.52,2131.5,980.7
+0100000US,,United States,1600000US3728080,3728080,United States - North Carolina - Greenville city,Greenville city,84554,40564,35.36,0.75,34.61,2443.3,1172.1
+0100000US,,United States,1600000US3731400,3731400,United States - North Carolina - High Point city,High Point city,104371,46677,55.45,1.64,53.80,1939.9,867.6
+0100000US,,United States,1600000US3734200,3734200,United States - North Carolina - Jacksonville city,Jacksonville city,70145,21135,50.71,4.20,46.51,1508.2,454.4
+0100000US,,United States,1600000US3755000,3755000,United States - North Carolina - Raleigh city,Raleigh city,403892,176124,144.00,1.10,142.90,2826.3,1232.5
+0100000US,,United States,1600000US3757500,3757500,United States - North Carolina - Rocky Mount city,Rocky Mount city,57477(r47381),26953(r23670),44.00,0.22,43.79,1312.6,615.5
+0100000US,,United States,1600000US3774440,3774440,United States - North Carolina - Wilmington city,Wilmington city,106476,53400,53.00,1.51,51.49,2067.8,1037.0
+0100000US,,United States,1600000US3775000,3775000,United States - North Carolina - Winston-Salem city,Winston-Salem city,229617,103974,133.70,1.25,132.45,1733.6,785.0
+0100000US,,United States,0400000US38,38,United States - North Dakota,North Dakota,672591,317498,70698.32,1697.52,69000.80,9.7,4.6
+0100000US,,United States,1600000US3807200,3807200,United States - North Dakota - Bismarck city,Bismarck city,61272,28648,31.23,0.38,30.84,1986.5,928.8
+0100000US,,United States,1600000US3825700,3825700,United States - North Dakota - Fargo city,Fargo city,105549,49956,48.82,0.00,48.82,2162.0,1023.2
+0100000US,,United States,1600000US3832060,3832060,United States - North Dakota - Grand Forks city,Grand Forks city,52838(r47416),23449(r23692),20.09,0.18,19.90,2654.6,1178.1
+0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,11536504,5127508(r23694),44825.58,3964.89,40860.69,282.3,125.5
+0100000US,,United States,1600000US3901000,3901000,United States - Ohio - Akron city,Akron city,199110,96288,62.37,0.34,62.03,3209.8,1552.2
+0100000US,,United States,1600000US3912000,3912000,United States - Ohio - Canton city,Canton city,73007,34571,25.48,0.02,25.46,2867.3,1357.7
+0100000US,,United States,1600000US3915000,3915000,United States - Ohio - Cincinnati city,Cincinnati city,296943,161095,79.55,1.60,77.94,3809.8,2066.8
+0100000US,,United States,1600000US3916000,3916000,United States - Ohio - Cleveland city,Cleveland city,396815(r47800),207536,82.47,4.77,77.70,5107.2,2671.1
+0100000US,,United States,1600000US3918000,3918000,United States - Ohio - Columbus city,Columbus city,787033,370965,223.11,5.94,217.17,3624.1,1708.2
+0100000US,,United States,1600000US3921000,3921000,United States - Ohio - Dayton city,Dayton city,141527(r47802),74065,56.50,0.85,55.65,2543.1,1330.9
+0100000US,,United States,1600000US3925256,3925256,United States - Ohio - Elyria city,Elyria city,54533,25085,20.85,0.27,20.57,2650.9,1219.4
+0100000US,,United States,1600000US3933012,3933012,United States - Ohio - Hamilton city,Hamilton city,62477,27878,22.07,0.48,21.60,2893.0,1290.9
+0100000US,,United States,1600000US3940040,3940040,United States - Ohio - Kettering city,Kettering city,56163,27602,18.72,0.04,18.68,3007.0,1477.8
+0100000US,,United States,1600000US3941664,3941664,United States - Ohio - Lakewood city,Lakewood city,52131,28498,6.69,1.16,5.53,9419.3,5149.2
+0100000US,,United States,1600000US3944856,3944856,United States - Ohio - Lorain city,Lorain city,64097,29144,24.15,0.47,23.67,2707.6,1231.1
+0100000US,,United States,1600000US3961000,3961000,United States - Ohio - Parma city,Parma city,81601,36608,20.07,0.05,20.02,4075.1,1828.2
+0100000US,,United States,1600000US3974118,3974118,United States - Ohio - Springfield city,Springfield city,60608,28437,25.50,0.21,25.29,2396.1,1124.3
+0100000US,,United States,1600000US3977000,3977000,United States - Ohio - Toledo city,Toledo city,287208,138039,84.12,3.43,80.69,3559.3,1710.7
+0100000US,,United States,1600000US3988000,3988000,United States - Ohio - Youngstown city,Youngstown city,66982,33123,34.59,0.64,33.96,1972.7,975.5
+0100000US,,United States,0400000US40,40,United States - Oklahoma,Oklahoma,3751351,1664378,69898.87,1303.95,68594.92,54.7,24.3
+0100000US,,United States,1600000US4009050,4009050,United States - Oklahoma - Broken Arrow city,Broken Arrow city,98850,38013,62.19,0.61,61.57,1605.5,617.4
+0100000US,,United States,1600000US4023200,4023200,United States - Oklahoma - Edmond city,Edmond city,81405,33178,87.86,3.16,84.70,961.2,391.7
+0100000US,,United States,1600000US4041850,4041850,United States - Oklahoma - Lawton city,Lawton city,96867,39409,81.03,0.00,81.03,1195.4,486.3
+0100000US,,United States,1600000US4048350,4048350,United States - Oklahoma - Midwest City city,Midwest City city,54371,24723,24.42,0.01,24.40,2228.1,1013.1
+0100000US,,United States,1600000US4049200,4049200,United States - Oklahoma - Moore city,Moore city,55081,21444,22.16,0.34,21.82,2524.3,982.8
+0100000US,,United States,1600000US4052500,4052500,United States - Oklahoma - Norman city,Norman city,110925,47965,189.42,10.65,178.76,620.5,268.3
+0100000US,,United States,1600000US4055000,4055000,United States - Oklahoma - Oklahoma City city,Oklahoma City city,579999,256930,620.82,14.41,606.41,956.4,423.7
+0100000US,,United States,1600000US4075000,4075000,United States - Oklahoma - Tulsa city,Tulsa city,391906,185127,200.99,4.23,196.75,1991.9,940.9
+0100000US,,United States,0400000US41,41,United States - Oregon,Oregon,3831074,1675562,98378.54,2390.53,95988.01,39.9,17.5
+0100000US,,United States,1600000US4101000,4101000,United States - Oregon - Albany city,Albany city,50158,20979,17.75,0.21,17.54,2860.1,1196.3
+0100000US,,United States,1600000US4105350,4105350,United States - Oregon - Beaverton city,Beaverton city,89803,39500,18.73,0.00,18.73,4795.1,2109.1
+0100000US,,United States,1600000US4105800,4105800,United States - Oregon - Bend city,Bend city,76639,36110,33.26,0.26,33.01,2322.0,1094.0
+0100000US,,United States,1600000US4115800,4115800,United States - Oregon - Corvallis city,Corvallis city,54462,23423,14.30,0.17,14.13,3854.4,1657.7
+0100000US,,United States,1600000US4123850,4123850,United States - Oregon - Eugene city,Eugene city,156185,69951,43.75,0.02,43.72,3572.2,1599.9
+0100000US,,United States,1600000US4131250,4131250,United States - Oregon - Gresham city,Gresham city,105594,41015,23.43,0.23,23.20,4551.3,1767.8
+0100000US,,United States,1600000US4134100,4134100,United States - Oregon - Hillsboro city,Hillsboro city,91611,35487,23.91,0.01,23.90,3833.3,1484.9
+0100000US,,United States,1600000US4147000,4147000,United States - Oregon - Medford city,Medford city,74907,32430,25.74,0.01,25.73,2910.9,1260.3
+0100000US,,United States,1600000US4159000,4159000,United States - Oregon - Portland city,Portland city,583776,265439,145.09,11.66,133.43,4375.3,1989.4
+0100000US,,United States,1600000US4164900,4164900,United States - Oregon - Salem city,Salem city,154637,61276,48.44,0.55,47.90,3228.6,1279.4
+0100000US,,United States,1600000US4169600,4169600,United States - Oregon - Springfield city,Springfield city,59403,24809,15.75,0.01,15.74,3774.3,1576.3
+0100000US,,United States,0400000US42,42,United States - Pennsylvania,Pennsylvania,12702379,5567315,46054.34,1311.64,44742.70,283.9,124.4
+0100000US,,United States,0600000US4209100156,4209100156,"United States - Pennsylvania - Abington township, Montgomery County","Abington township, Montgomery County",55310,22369,15.51,0.00,15.51,3566.2,1442.3
+0100000US,,United States,1600000US4202000,4202000,United States - Pennsylvania - Allentown city,Allentown city,118032,46921,18.02,0.48,17.55,6727.1,2674.2
+0100000US,,United States,0600000US4201705616,4201705616,"United States - Pennsylvania - Bensalem township, Bucks County","Bensalem township, Bucks County",60427,25246,20.93,1.09,19.84,3046.1,1272.6
+0100000US,,United States,1600000US4206088,4206088,United States - Pennsylvania - Bethlehem city,Bethlehem city,74982,31221,19.45,0.35,19.10,3925.4,1634.4
+0100000US,,United States,0600000US4201708768,4201708768,"United States - Pennsylvania - Bristol township, Bucks County","Bristol township, Bucks County",54582,20887,17.20,1.26,15.94,3423.8,1310.2
+0100000US,,United States,1600000US4224000,4224000,United States - Pennsylvania - Erie city,Erie city,101786,44790,19.28,0.20,19.08,5334.5,2347.4
+0100000US,,United States,1600000US4241216,4241216,United States - Pennsylvania - Lancaster city,Lancaster city,59322,23377,7.35,0.13,7.23,8210.0,3235.3
+0100000US,,United States,1600000US4242928,4242928,United States - Pennsylvania - Levittown CDP,Levittown CDP,52983,19144,10.26,0.10,10.16,5215.4,1884.4
+0100000US,,United States,0600000US4209144976,4209144976,"United States - Pennsylvania - Lower Merion township, Montgomery County","Lower Merion township, Montgomery County",57825(r47969),24095,23.83,0.16,23.67,2442.9,1017.9
+0100000US,,United States,0600000US4204949548,4204949548,"United States - Pennsylvania - Millcreek township, Erie County","Millcreek township, Erie County",53515,24271,32.79,0.72,32.07,1668.5,756.7
+0100000US,,United States,1600000US4260000,4260000,United States - Pennsylvania - Philadelphia city,Philadelphia city,1526006,670171,142.71,8.61,134.10,11379.5,4997.5
+0100000US,,United States,1600000US4261000,4261000,United States - Pennsylvania - Pittsburgh city,Pittsburgh city,305704,156165,58.34,2.97,55.37,5521.4,2820.5
+0100000US,,United States,1600000US4263624,4263624,United States - Pennsylvania - Reading city,Reading city,88082,34208,10.14,0.26,9.88,8911.9,3461.1
+0100000US,,United States,1600000US4269000,4269000,United States - Pennsylvania - Scranton city,Scranton city,76089,33853,25.54,0.23,25.31,3006.4,1337.6
+0100000US,,United States,0600000US4204579000,4204579000,"United States - Pennsylvania - Upper Darby township, Delaware County","Upper Darby township, Delaware County",82795,34133,7.83,0.00,7.83,10580.3,4361.8
+0100000US,,United States,0400000US44,44,United States - Rhode Island,Rhode Island,1052567,463388,1544.89,511.07,1033.81,1018.1,448.2
+0100000US,,United States,1600000US4419180,4419180,United States - Rhode Island - Cranston city,Cranston city,80387,33117,29.94,1.60,28.34,2836.6,1168.6
+0100000US,,United States,1600000US4454640,4454640,United States - Rhode Island - Pawtucket city,Pawtucket city,71148,32055,8.97,0.29,8.68,8195.0,3692.2
+0100000US,,United States,1600000US4459000,4459000,United States - Rhode Island - Providence city,Providence city,178042,71530,20.57,2.17,18.40,9676.1,3887.5
+0100000US,,United States,1600000US4474300,4474300,United States - Rhode Island - Warwick city,Warwick city,82672,37730,49.80,14.76,35.04,2359.0,1076.6
+0100000US,,United States,0400000US45,45,United States - South Carolina,South Carolina,4625364,2137683,32020.49,1959.79,30060.70,153.9,71.1
+0100000US,,United States,1600000US4513330,4513330,United States - South Carolina - Charleston city,Charleston city,120083,59522,127.49,18.51,108.98,1101.9,546.2
+0100000US,,United States,1600000US4516000,4516000,United States - South Carolina - Columbia city,Columbia city,129272,52471,134.93,2.72,132.21,977.8,396.9
+0100000US,,United States,1600000US4530850,4530850,United States - South Carolina - Greenville city,Greenville city,58409,29418,28.82,0.15,28.67,2037.4,1026.1
+0100000US,,United States,1600000US4548535,4548535,United States - South Carolina - Mount Pleasant town,Mount Pleasant town,67843,30674,52.61,7.52,45.08,1504.9,680.4
+0100000US,,United States,1600000US4550875,4550875,United States - South Carolina - North Charleston city,North Charleston city,97471,42219,76.65,3.46,73.19,1331.8,576.9
+0100000US,,United States,1600000US4561405,4561405,United States - South Carolina - Rock Hill city,Rock Hill city,66154,29159,35.88,0.16,35.72,1851.9,816.3
+0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,814180(r48166),363438(r24270),77115.68,1304.68,75811.00,10.7,4.8
+0100000US,,United States,1600000US4652980,4652980,United States - South Dakota - Rapid City city,Rapid City city,67956,30254,55.49,0.08,55.41,1226.5,546.0
+0100000US,,United States,1600000US4659020,4659020,United States - South Dakota - Sioux Falls city,Sioux Falls city,153888,66283,73.47,0.51,72.96,2109.1,908.4
+0100000US,,United States,0400000US47,47,United States - Tennessee,Tennessee,6346105,2812133,42144.25,909.36,41234.90,153.9,68.2
+0100000US,,United States,1600000US4703440,4703440,United States - Tennessee - Bartlett city,Bartlett city,54613,20143,26.67,0.02,26.65,2049.2,755.8
+0100000US,,United States,1600000US4714000,4714000,United States - Tennessee - Chattanooga city,Chattanooga city,167674,79607,144.55,7.40,137.15,1222.5,580.4
+0100000US,,United States,1600000US4715160,4715160,United States - Tennessee - Clarksville city,Clarksville city,132929,54815,98.28,0.68,97.60,1361.9,561.6
+0100000US,,United States,1600000US4727740,4727740,United States - Tennessee - Franklin city,Franklin city,62487,25586,41.45,0.22,41.23,1515.5,620.6
+0100000US,,United States,1600000US4733280,4733280,United States - Tennessee - Hendersonville city,Hendersonville city,51372,21543,36.93,5.56,31.37,1637.6,686.7
+0100000US,,United States,1600000US4737640,4737640,United States - Tennessee - Jackson city,Jackson city,65211,28052,53.73,0.00,53.73,1213.7,522.1
+0100000US,,United States,1600000US4738320,4738320,United States - Tennessee - Johnson City city,Johnson City city,63152,30583,43.27,0.33,42.94,1470.6,712.2
+0100000US,,United States,1600000US4740000,4740000,United States - Tennessee - Knoxville city,Knoxville city,178874,88009,104.17,5.65,98.52,1815.6,893.3
+0100000US,,United States,1600000US4748000,4748000,United States - Tennessee - Memphis city,Memphis city,646889,291883,324.00,8.95,315.05,2053.3,926.5
+0100000US,,United States,1600000US4751560,4751560,United States - Tennessee - Murfreesboro city,Murfreesboro city,108755,45500,55.49,0.14,55.35,1965.0,822.1
+0100000US,,United States,1700000US4752004,4752004,United States - Tennessee - Nashville-Davidson metropolitan government,Nashville-Davidson metropolitan government,626681,283978,525.94,21.91,504.03,1243.3,563.4
+0100000US,,United States,1600000US4752006,4752006,United States - Tennessee - Nashville-Davidson metropolitan government (balance),Nashville-Davidson metropolitan government (balance),601222,272622,496.85,21.72,475.13,1265.4,573.8
+0100000US,,United States,0400000US48,48,United States - Texas,Texas,25145561(r48514),9977436(r24592),268596.46,7364.75,261231.71,96.3,38.2
+0100000US,,United States,1600000US4801000,4801000,United States - Texas - Abilene city,Abilene city,117063(r49458),47783,112.21,5.41,106.79,1096.2,447.4
+0100000US,,United States,1600000US4801924,4801924,United States - Texas - Allen city,Allen city,84246,28877,26.39,0.10,26.29,3204.3,1098.3
+0100000US,,United States,1600000US4803000,4803000,United States - Texas - Amarillo city,Amarillo city,190695,80298,101.16,1.69,99.48,1917.0,807.2
+0100000US,,United States,1600000US4804000,4804000,United States - Texas - Arlington city,Arlington city,365438,144805,99.62,3.74,95.88,3811.3,1510.2
+0100000US,,United States,1600000US4804462,4804462,United States - Texas - Atascocita CDP,Atascocita CDP,65844(r49461),21971(r25462),25.42,0.19,25.23,2609.4,870.7
+0100000US,,United States,1600000US4805000,4805000,United States - Texas - Austin city,Austin city,790390(r49462),354241(r25463),305.06,7.17,297.90,2653.2,1189.1
+0100000US,,United States,1600000US4806128,4806128,United States - Texas - Baytown city,Baytown city,71802,28998,36.51,1.07,35.44,2025.7,818.1
+0100000US,,United States,1600000US4807000,4807000,United States - Texas - Beaumont city,Beaumont city,118296(r49464),50689,85.83,3.03,82.80,1428.7,612.2
+0100000US,,United States,1600000US4810768,4810768,United States - Texas - Brownsville city,Brownsville city,175023,53936,146.28,13.95,132.33,1322.6,407.6
+0100000US,,United States,1600000US4810912,4810912,United States - Texas - Bryan city,Bryan city,76201,30582,44.50,0.09,44.41,1715.8,688.6
+0100000US,,United States,1600000US4813024,4813024,United States - Texas - Carrollton city,Carrollton city,119097,45508,37.11,0.81,36.30,3281.3,1253.8
+0100000US,,United States,1600000US4815976,4815976,United States - Texas - College Station city,College Station city,93857,37226,49.62,0.17,49.44,1898.3,752.9
+0100000US,,United States,1600000US4816432,4816432,United States - Texas - Conroe city,Conroe city,56207,22215,53.17,0.45,52.71,1066.3,421.4
+0100000US,,United States,1600000US4817000,4817000,United States - Texas - Corpus Christi city,Corpus Christi city,305215,125469,489.59,328.98,160.61,1900.3,781.2
+0100000US,,United States,1600000US4819000,4819000,United States - Texas - Dallas city,Dallas city,1197816,516639,385.84,45.33,340.52,3517.6,1517.2
+0100000US,,United States,1600000US4819972,4819972,United States - Texas - Denton city,Denton city,113383,46211,89.32,1.36,87.95,1289.2,525.4
+0100000US,,United States,1600000US4822660,4822660,United States - Texas - Edinburg city,Edinburg city,77100(r49473),25167(r25471),37.69,0.06,37.63,2048.8,668.8
+0100000US,,United States,1600000US4824000,4824000,United States - Texas - El Paso city,El Paso city,649121,227605,256.26,1.02,255.24,2543.2,891.7
+0100000US,,United States,1600000US4824768,4824768,United States - Texas - Euless city,Euless city,51277,23447,16.29,0.08,16.21,3162.8,1446.2
+0100000US,,United States,1600000US4826232,4826232,United States - Texas - Flower Mound town,Flower Mound town,64669,21570,43.90,2.52,41.39,1562.5,521.2
+0100000US,,United States,1600000US4827000,4827000,United States - Texas - Fort Worth city,Fort Worth city,741206,291086,347.86,8.04,339.82,2181.2,856.6
+0100000US,,United States,1600000US4827684,4827684,United States - Texas - Frisco city,Frisco city,116989,42306,62.38,0.58,61.80,1892.9,684.5
+0100000US,,United States,1600000US4829000,4829000,United States - Texas - Garland city,Garland city,226876,80834,57.22,0.13,57.08,3974.4,1416.0
+0100000US,,United States,1600000US4830464,4830464,United States - Texas - Grand Prairie city,Grand Prairie city,175396,62424,81.09,8.99,72.10,2432.5,865.7
+0100000US,,United States,1600000US4832372,4832372,United States - Texas - Harlingen city,Harlingen city,64849,25585,40.30,0.49,39.81,1629.1,642.7
+0100000US,,United States,1600000US4835000,4835000,United States - Texas - Houston city,Houston city,2099451(r49478),892646(r25475),627.50,27.91,599.59,3501.5,1488.8
+0100000US,,United States,1600000US4837000,4837000,United States - Texas - Irving city,Irving city,216290,91128,68.02,1.00,67.02,3227.4,1359.8
+0100000US,,United States,1600000US4839148,4839148,United States - Texas - Killeen city,Killeen city,127921,53913,54.25,0.67,53.58,2387.5,1006.2
+0100000US,,United States,1600000US4841464,4841464,United States - Texas - Laredo city,Laredo city,236091,68610,90.36,1.45,88.91,2655.4,771.7
+0100000US,,United States,1600000US4841980,4841980,United States - Texas - League City city,League City city,83560,32119,53.00,1.71,51.29,1629.2,626.2
+0100000US,,United States,1600000US4842508,4842508,United States - Texas - Lewisville city,Lewisville city,95290,39967,42.47,6.07,36.40,2618.0,1098.1
+0100000US,,United States,1600000US4843888,4843888,United States - Texas - Longview city,Longview city,80455,32751,55.80,0.11,55.69,1444.6,588.1
+0100000US,,United States,1600000US4845000,4845000,United States - Texas - Lubbock city,Lubbock city,229573,95926,123.55,1.14,122.41,1875.4,783.6
+0100000US,,United States,1600000US4845384,4845384,United States - Texas - McAllen city,McAllen city,129877(r49482),45862(r25479),48.65,0.30,48.34,2686.5,948.7
+0100000US,,United States,1600000US4845744,4845744,United States - Texas - McKinney city,McKinney city,131117,47915,62.88,0.67,62.21,2107.7,770.2
+0100000US,,United States,1600000US4846452,4846452,United States - Texas - Mansfield city,Mansfield city,56368,19106,36.43,0.04,36.38,1549.3,525.1
+0100000US,,United States,1600000US4847892,4847892,United States - Texas - Mesquite city,Mesquite city,139824,51952,46.17,0.15,46.02,3038.3,1128.9
+0100000US,,United States,1600000US4848072,4848072,United States - Texas - Midland city,Midland city,111147,44708,72.24,0.17,72.07,1542.2,620.3
+0100000US,,United States,1600000US4848768,4848768,United States - Texas - Mission city,Mission city,77058(r49484),27291(r25480),34.06,0.07,33.99,2266.9,802.9
+0100000US,,United States,1600000US4848804,4848804,United States - Texas - Missouri City city,Missouri City city,67358,23374,29.80,1.38,28.42,2370.4,822.5
+0100000US,,United States,1600000US4850820,4850820,United States - Texas - New Braunfels city,New Braunfels city,57740,23381,44.28,0.40,43.87,1316.1,532.9
+0100000US,,United States,1600000US4852356,4852356,United States - Texas - North Richland Hills city,North Richland Hills city,63343,26395,18.22,0.04,18.17,3485.3,1452.3
+0100000US,,United States,1600000US4853388,4853388,United States - Texas - Odessa city,Odessa city,99940,39806,42.21,0.26,41.95,2382.1,948.8
+0100000US,,United States,1600000US4856000,4856000,United States - Texas - Pasadena city,Pasadena city,149043,53899,44.27,1.51,42.76,3485.4,1260.4
+0100000US,,United States,1600000US4856348,4856348,United States - Texas - Pearland city,Pearland city,91252,33169,47.46,0.45,47.02,1940.9,705.5
+0100000US,,United States,1600000US4857200,4857200,United States - Texas - Pharr city,Pharr city,70400,22796,23.44,0.03,23.42,3006.3,973.5
+0100000US,,United States,1600000US4858016,4858016,United States - Texas - Plano city,Plano city,259841,103672,71.94,0.36,71.58,3630.0,1448.3
+0100000US,,United States,1600000US4858820,4858820,United States - Texas - Port Arthur city,Port Arthur city,53818,23577,144.04,67.14,76.90,699.8,306.6
+0100000US,,United States,1600000US4861796,4861796,United States - Texas - Richardson city,Richardson city,99223,40630,28.66,0.09,28.56,3473.7,1422.4
+0100000US,,United States,1600000US4863500,4863500,United States - Texas - Round Rock city,Round Rock city,99887,37223,34.41,0.30,34.11,2928.1,1091.2
+0100000US,,United States,1600000US4863572,4863572,United States - Texas - Rowlett city,Rowlett city,56199,18969,19.96,0.07,19.89,2825.5,953.7
+0100000US,,United States,1600000US4864472,4864472,United States - Texas - San Angelo city,San Angelo city,93200,39548,59.14,2.28,56.86,1639.0,695.5
+0100000US,,United States,1600000US4865000,4865000,United States - Texas - San Antonio city,San Antonio city,1327407,524246,466.71,5.78,460.93,2879.8,1137.4
+0100000US,,United States,1600000US4869596,4869596,United States - Texas - Spring CDP,Spring CDP,54298,19191,23.55,0.36,23.19,2341.3,827.5
+0100000US,,United States,1600000US4870808,4870808,United States - Texas - Sugar Land city,Sugar Land city,78817,27727,34.02,1.64,32.38,2434.2,856.3
+0100000US,,United States,1600000US4872176,4872176,United States - Texas - Temple city,Temple city,66102,28422,69.42,0.42,69.01,957.9,411.9
+0100000US,,United States,1600000US4872656,4872656,United States - Texas - The Woodlands CDP,The Woodlands CDP,93847,37339,43.85,0.58,43.27,2168.8,862.9
+0100000US,,United States,1600000US4874144,4874144,United States - Texas - Tyler city,Tyler city,96900(r49495),41742(r25491),54.39,0.53,53.86,1799.2,775.0
+0100000US,,United States,1600000US4875428,4875428,United States - Texas - Victoria city,Victoria city,62592,25660,35.63,0.15,35.48,1764.2,723.2
+0100000US,,United States,1600000US4876000,4876000,United States - Texas - Waco city,Waco city,124805,51452,101.26,12.30,88.96,1402.9,578.3
+0100000US,,United States,1600000US4879000,4879000,United States - Texas - Wichita Falls city,Wichita Falls city,104553,43632,72.16,0.02,72.14,1449.3,604.8
+0100000US,,United States,0400000US49,49,United States - Utah,Utah,2763885,979709,84896.88,2727.26,82169.62,33.6,11.9
+0100000US,,United States,1600000US4943660,4943660,United States - Utah - Layton city,Layton city,67311,22356,22.17,0.17,22.00,3059.5,1016.1
+0100000US,,United States,1600000US4950150,4950150,United States - Utah - Millcreek CDP,Millcreek CDP,62139,26203,13.65,0.00,13.65,4551.6,1919.3
+0100000US,,United States,1600000US4955980,4955980,United States - Utah - Ogden city,Ogden city,82825,32482,27.10,0.00,27.09,3057.1,1198.9
+0100000US,,United States,1600000US4957300,4957300,United States - Utah - Orem city,Orem city,88328,26970,18.29,0.00,18.29,4828.4,1474.3
+0100000US,,United States,1600000US4962470,4962470,United States - Utah - Provo city,Provo city,112488,33212,44.17,2.50,41.67,2699.3,797.0
+0100000US,,United States,1600000US4965330,4965330,United States - Utah - St. George city,St. George city,72897,32089,70.91,0.51,70.40,1035.5,455.8
+0100000US,,United States,1600000US4967000,4967000,United States - Utah - Salt Lake City city,Salt Lake City city,186440,80724,111.73,0.62,111.11,1678.0,726.5
+0100000US,,United States,1600000US4967440,4967440,United States - Utah - Sandy city,Sandy city,87461,29501,22.88,0.01,22.87,3824.7,1290.1
+0100000US,,United States,1600000US4970850,4970850,United States - Utah - South Jordan city,South Jordan city,50418,14943,22.13,0.08,22.05,2286.2,677.6
+0100000US,,United States,1600000US4975360,4975360,United States - Utah - Taylorsville city,Taylorsville city,58652,20671,10.85,0.00,10.85,5406.8,1905.6
+0100000US,,United States,1600000US4982950,4982950,United States - Utah - West Jordan city,West Jordan city,103712,31366,32.46,0.00,32.46,3195.4,966.4
+0100000US,,United States,1600000US4983470,4983470,United States - Utah - West Valley City city,West Valley City city,129480,38978,35.61,0.05,35.56,3641.5,1096.2
+0100000US,,United States,0400000US50,50,United States - Vermont,Vermont,625741,322539,9616.36,399.71,9216.66,67.9,35.0
+0100000US,,United States,0400000US51,51,United States - Virginia,Virginia,8001024,3364939,42774.93,3284.84,39490.09,202.6,85.2
+0100000US,,United States,1600000US5101000,5101000,United States - Virginia - Alexandria city,Alexandria city,139966(r49754),72376(r25674),15.47,0.44,15.03,9314.3,4816.4
+0100000US,,United States,1600000US5103000,5103000,United States - Virginia - Arlington CDP,Arlington CDP,207627,105404,26.07,0.09,25.97,7993.5,4058.0
+0100000US,,United States,1600000US5114440,5114440,United States - Virginia - Centreville CDP,Centreville CDP,71135,25516,12.04,0.12,11.92,5965.3,2139.7
+0100000US,,United States,1600000US5116000,5116000,United States - Virginia - Chesapeake city,Chesapeake city,222209,83196,350.86,10.06,340.80,652.0,244.1
+0100000US,,United States,1600000US5121088,5121088,United States - Virginia - Dale City CDP,Dale City CDP,65969,20922,14.25,0.02,14.23,4635.1,1470.0
+0100000US,,United States,1600000US5135000,5135000,United States - Virginia - Hampton city,Hampton city,137436(r49758),59566(r25676),136.30,84.89,51.41,2673.2,1158.6
+0100000US,,United States,1600000US5147672,5147672,United States - Virginia - Lynchburg city,Lynchburg city,75568,31992,49.65,0.52,49.13,1538.2,651.2
+0100000US,,United States,1600000US5156000,5156000,United States - Virginia - Newport News city,Newport News city,180719(r49760),76198(r25678),119.48,50.76,68.71,2630.0,1108.9
+0100000US,,United States,1600000US5157000,5157000,United States - Virginia - Norfolk city,Norfolk city,242803,95018,96.35,42.23,54.12,4486.3,1755.7
+0100000US,,United States,1600000US5164000,5164000,United States - Virginia - Portsmouth city,Portsmouth city,95535,40806,46.73,13.08,33.65,2838.9,1212.6
+0100000US,,United States,1600000US5166672,5166672,United States - Virginia - Reston CDP,Reston CDP,58404,26787,15.66,0.33,15.33,3809.9,1747.4
+0100000US,,United States,1600000US5167000,5167000,United States - Virginia - Richmond city,Richmond city,204214,98349,62.46,2.66,59.81,3414.7,1644.5
+0100000US,,United States,1600000US5168000,5168000,United States - Virginia - Roanoke city,Roanoke city,97032,47453,42.90,0.34,42.56,2279.8,1114.9
+0100000US,,United States,1600000US5176432,5176432,United States - Virginia - Suffolk city,Suffolk city,84585,33035,429.09,28.92,400.17,211.4,82.6
+0100000US,,United States,1600000US5182000,5182000,United States - Virginia - Virginia Beach city,Virginia Beach city,437994,177879,497.34,248.32,249.02,1758.9,714.3
+0100000US,,United States,0400000US53,53,United States - Washington,Washington,6724540,2885677,71297.95,4842.43,66455.52,101.2,43.4
+0100000US,,United States,1600000US5303180,5303180,United States - Washington - Auburn city,Auburn city,70180,27834,29.89,0.27,29.62,2369.3,939.7
+0100000US,,United States,1600000US5305210,5305210,United States - Washington - Bellevue city,Bellevue city,122363,55551,36.47,4.50,31.97,3827.7,1737.7
+0100000US,,United States,1600000US5305280,5305280,United States - Washington - Bellingham city,Bellingham city,80885,36760,28.90,1.82,27.08,2987.0,1357.5
+0100000US,,United States,1600000US5322640,5322640,United States - Washington - Everett city,Everett city,103019,44609,48.48,15.03,33.45,3080.0,1333.7
+0100000US,,United States,1600000US5323515,5323515,United States - Washington - Federal Way city,Federal Way city,89306,35444,22.46,0.20,22.26,4011.9,1592.2
+0100000US,,United States,1600000US5335275,5335275,United States - Washington - Kennewick city,Kennewick city,73917,28507,28.36,1.43,26.93,2744.5,1058.4
+0100000US,,United States,1600000US5335415,5335415,United States - Washington - Kent city,Kent city,92411,36424,29.18,0.56,28.63,3228.3,1272.4
+0100000US,,United States,1600000US5338038,5338038,United States - Washington - Lakewood city,Lakewood city,58163,26548,18.95,1.78,17.17,3387.4,1546.2
+0100000US,,United States,1600000US5343955,5343955,United States - Washington - Marysville city,Marysville city,60020,22363,20.94,0.26,20.68,2902.5,1081.4
+0100000US,,United States,1600000US5353545,5353545,United States - Washington - Pasco city,Pasco city,59781,18782,34.07,3.58,30.50,1960.3,615.9
+0100000US,,United States,1600000US5357535,5357535,United States - Washington - Redmond city,Redmond city,54144,24177,16.95,0.66,16.28,3325.1,1484.8
+0100000US,,United States,1600000US5357745,5357745,United States - Washington - Renton city,Renton city,90927,38930,23.54,0.42,23.12,3932.9,1683.9
+0100000US,,United States,1600000US5363000,5363000,United States - Washington - Seattle city,Seattle city,608660,308516,142.65,58.71,83.94,7250.9,3675.3
+0100000US,,United States,1600000US5363960,5363960,United States - Washington - Shoreline city,Shoreline city,53007,22787,11.70,0.02,11.67,4540.6,1951.9
+0100000US,,United States,1600000US5365922,5365922,United States - Washington - South Hill CDP,South Hill CDP,52431,19081,18.44,0.08,18.36,2855.9,1039.3
+0100000US,,United States,1600000US5367000,5367000,United States - Washington - Spokane city,Spokane city,208916,94291,60.02,0.77,59.25,3526.2,1591.5
+0100000US,,United States,1600000US5367167,5367167,United States - Washington - Spokane Valley city,Spokane Valley city,89755,38851,38.06,0.29,37.77,2376.4,1028.6
+0100000US,,United States,1600000US5370000,5370000,United States - Washington - Tacoma city,Tacoma city,198397,85786,62.34,12.62,49.72,3990.2,1725.4
+0100000US,,United States,1600000US5374060,5374060,United States - Washington - Vancouver city,Vancouver city,161791,70005,49.85,3.40,46.46,3482.6,1506.9
+0100000US,,United States,1600000US5380010,5380010,United States - Washington - Yakima city,Yakima city,91067,34829,27.69,0.51,27.18,3350.6,1281.4
+0100000US,,United States,0400000US54,54,United States - West Virginia,West Virginia,1852994,881917,24230.04,191.83,24038.21,77.1,36.7
+0100000US,,United States,1600000US5414600,5414600,United States - West Virginia - Charleston city,Charleston city,51400,26205,32.66,1.14,31.52,1630.7,831.4
+0100000US,,United States,0400000US55,55,United States - Wisconsin,Wisconsin,5686986,2624358,65496.38,11338.57,54157.80,105.0,48.5
+0100000US,,United States,1600000US5502375,5502375,United States - Wisconsin - Appleton city,Appleton city,72623,30348,24.82,0.49,24.33,2985.4,1247.5
+0100000US,,United States,1600000US5522300,5522300,United States - Wisconsin - Eau Claire city,Eau Claire city,65883(r49844),28134,34.15,2.10,32.04,2056.1,878.0
+0100000US,,United States,1600000US5531000,5531000,United States - Wisconsin - Green Bay city,Green Bay city,104057,45241,55.95,10.48,45.47,2288.6,995.0
+0100000US,,United States,1600000US5537825,5537825,United States - Wisconsin - Janesville city,Janesville city,63575,27996,34.45,0.59,33.86,1877.6,826.8
+0100000US,,United States,1600000US5539225,5539225,United States - Wisconsin - Kenosha city,Kenosha city,99218,40643,27.03,0.10,26.93,3684.1,1509.1
+0100000US,,United States,1600000US5540775,5540775,United States - Wisconsin - La Crosse city,La Crosse city,51320,22628,22.54,2.02,20.52,2501.4,1102.9
+0100000US,,United States,1600000US5548000,5548000,United States - Wisconsin - Madison city,Madison city,233209,108843,94.03,17.24,76.79,3037.0,1417.4
+0100000US,,United States,1600000US5553000,5553000,United States - Wisconsin - Milwaukee city,Milwaukee city,594833,255569,96.80,0.68,96.12,6188.3,2658.8
+0100000US,,United States,1600000US5560500,5560500,United States - Wisconsin - Oshkosh city,Oshkosh city,66083,28179,26.61,1.02,25.59,2582.3,1101.1
+0100000US,,United States,1600000US5566000,5566000,United States - Wisconsin - Racine city,Racine city,78860,33887,18.68,3.20,15.48,5093.8,2188.9
+0100000US,,United States,1600000US5584250,5584250,United States - Wisconsin - Waukesha city,Waukesha city,70718,29843,25.06,0.26,24.81,2850.6,1203.0
+0100000US,,United States,1600000US5585300,5585300,United States - Wisconsin - West Allis city,West Allis city,60411,29353,11.41,0.02,11.38,5306.3,2578.2
+0100000US,,United States,0400000US56,56,United States - Wyoming,Wyoming,563626,261868,97813.01,719.87,97093.14,5.8,2.7
+0100000US,,United States,1600000US5613150,5613150,United States - Wyoming - Casper city,Casper city,55316,24536,27.25,0.34,26.90,2056.0,912.0
+0100000US,,United States,1600000US5613900,5613900,United States - Wyoming - Cheyenne city,Cheyenne city,59466,27283,24.63,0.11,24.52,2425.1,1112.6
+0100000US,,United States,0400000US72,72,United States - Puerto Rico,Puerto Rico,3725789(r49850),1636946(r25701),5324.84,1901.07,3423.78,1088.2,478.1
+0100000US,,United States,1600000US7206593,7206593,United States - Puerto Rico - Bayamón zona urbana,Bayamón zona urbana,185996,77646,27.10,0.13,26.97,6896.2,2878.9
+0100000US,,United States,1600000US7210334,7210334,United States - Puerto Rico - Caguas zona urbana,Caguas zona urbana,82243,36008,11.01,0.09,10.92,7534.2,3298.7
+0100000US,,United States,1600000US7214290,7214290,United States - Puerto Rico - Carolina zona urbana,Carolina zona urbana,157832,72549,24.09,3.44,20.65,7642.2,3512.8
+0100000US,,United States,1600000US7232522,7232522,United States - Puerto Rico - Guaynabo zona urbana,Guaynabo zona urbana,75443,32992,12.21,0.17,12.04,6265.3,2739.9
+0100000US,,United States,1600000US7252431,7252431,United States - Puerto Rico - Mayagüez zona urbana,Mayagüez zona urbana,70463,34643,23.15,2.20,20.95,3362.8,1653.3
+0100000US,,United States,1600000US7263820,7263820,United States - Puerto Rico - Ponce zona urbana,Ponce zona urbana,132502,57856,45.75,15.14,30.61,4329.1,1890.3
+0100000US,,United States,1600000US7276770,7276770,United States - Puerto Rico - San Juan zona urbana,San Juan zona urbana,381931,194316,46.42,6.92,39.50,9669.1,4919.4

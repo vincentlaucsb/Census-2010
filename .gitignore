@@ -1,6 +1,13 @@
 # My Own
+data/*.zip
 scratch/
+notes/
 *.html
+postgres_pw.r
+
+# R
+.RData
+.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

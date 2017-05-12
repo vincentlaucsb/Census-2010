@@ -1,0 +1,279 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Occupied housing units; Estimate; Occupied housing units
+HC01_MOE_VC01,Occupied housing units; Margin of Error; Occupied housing units
+HC02_EST_VC01,Owner-occupied housing units; Estimate; Occupied housing units
+HC02_MOE_VC01,Owner-occupied housing units; Margin of Error; Occupied housing units
+HC03_EST_VC01,Renter-occupied housing units; Estimate; Occupied housing units
+HC03_MOE_VC01,Renter-occupied housing units; Margin of Error; Occupied housing units
+HC01_EST_VC03,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC01_MOE_VC03,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC02_EST_VC03,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC02_MOE_VC03,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC03_EST_VC03,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC03_MOE_VC03,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Less than $5,000"
+HC01_EST_VC04,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC01_MOE_VC04,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC02_EST_VC04,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC02_MOE_VC04,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC03_EST_VC04,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC03_MOE_VC04,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $5,000 to $9,999"
+HC01_EST_VC05,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC01_MOE_VC05,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC02_EST_VC05,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC02_MOE_VC05,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC03_EST_VC05,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC03_MOE_VC05,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999"
+HC01_EST_VC06,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC01_MOE_VC06,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC02_EST_VC06,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC02_MOE_VC06,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC03_EST_VC06,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC03_MOE_VC06,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $15,000 to $19,999"
+HC01_EST_VC07,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC01_MOE_VC07,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC02_EST_VC07,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC02_MOE_VC07,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC03_EST_VC07,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC03_MOE_VC07,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $20,000 to $24,999"
+HC01_EST_VC08,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC01_MOE_VC08,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC02_EST_VC08,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC02_MOE_VC08,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC03_EST_VC08,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC03_MOE_VC08,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999"
+HC01_EST_VC09,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC01_MOE_VC09,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC02_EST_VC09,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC02_MOE_VC09,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC03_EST_VC09,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC03_MOE_VC09,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999"
+HC01_EST_VC10,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC01_MOE_VC10,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC02_EST_VC10,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC02_MOE_VC10,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC03_EST_VC10,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC03_MOE_VC10,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC01_EST_VC11,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC01_MOE_VC11,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC02_EST_VC11,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC02_MOE_VC11,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC03_EST_VC11,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC03_MOE_VC11,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC01_EST_VC12,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC01_MOE_VC12,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC02_EST_VC12,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC02_MOE_VC12,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC03_EST_VC12,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC03_MOE_VC12,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999"
+HC01_EST_VC13,"Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC01_MOE_VC13,"Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC02_EST_VC13,"Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC02_MOE_VC13,"Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC03_EST_VC13,"Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC03_MOE_VC13,"Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - $150,000 or more"
+HC01_EST_VC14,Occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC01_MOE_VC14,Occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC02_EST_VC14,Owner-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC02_MOE_VC14,Owner-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC03_EST_VC14,Renter-occupied housing units; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC03_MOE_VC14,Renter-occupied housing units; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median household income (dollars)
+HC01_EST_VC17,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - Less than $300
+HC01_MOE_VC17,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Less than $300
+HC02_EST_VC17,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - Less than $300
+HC02_MOE_VC17,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Less than $300
+HC03_EST_VC17,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - Less than $300
+HC03_MOE_VC17,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Less than $300
+HC01_EST_VC18,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $300 to $499
+HC01_MOE_VC18,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $300 to $499
+HC02_EST_VC18,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $300 to $499
+HC02_MOE_VC18,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $300 to $499
+HC03_EST_VC18,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $300 to $499
+HC03_MOE_VC18,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $300 to $499
+HC01_EST_VC19,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $500 to $799
+HC01_MOE_VC19,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $500 to $799
+HC02_EST_VC19,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $500 to $799
+HC02_MOE_VC19,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $500 to $799
+HC03_EST_VC19,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $500 to $799
+HC03_MOE_VC19,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $500 to $799
+HC01_EST_VC20,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $800 to $999
+HC01_MOE_VC20,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $800 to $999
+HC02_EST_VC20,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $800 to $999
+HC02_MOE_VC20,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $800 to $999
+HC03_EST_VC20,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $800 to $999
+HC03_MOE_VC20,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $800 to $999
+HC01_EST_VC21,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC01_MOE_VC21,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC02_EST_VC21,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC02_MOE_VC21,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC03_EST_VC21,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC03_MOE_VC21,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,000 to $1,499"
+HC01_EST_VC22,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC01_MOE_VC22,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC02_EST_VC22,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC02_MOE_VC22,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC03_EST_VC22,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC03_MOE_VC22,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $1,500 to $1,999"
+HC01_EST_VC23,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC01_MOE_VC23,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC02_EST_VC23,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC02_MOE_VC23,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC03_EST_VC23,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC03_MOE_VC23,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,000 to $2,499"
+HC01_EST_VC24,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC01_MOE_VC24,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC02_EST_VC24,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC02_MOE_VC24,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC03_EST_VC24,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC03_MOE_VC24,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $2,500 to $2,999"
+HC01_EST_VC25,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS - $3,000 or more"
+HC01_MOE_VC25,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $3,000 or more"
+HC02_EST_VC25,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $3,000 or more"
+HC02_MOE_VC25,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $3,000 or more"
+HC03_EST_VC25,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - $3,000 or more"
+HC03_MOE_VC25,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - $3,000 or more"
+HC01_EST_VC26,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - No cash rent
+HC01_MOE_VC26,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - No cash rent
+HC02_EST_VC26,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - No cash rent
+HC02_MOE_VC26,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - No cash rent
+HC03_EST_VC26,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - No cash rent
+HC03_MOE_VC26,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - No cash rent
+HC01_EST_VC27,Occupied housing units; Estimate; MONTHLY HOUSING COSTS - Median (dollars)
+HC01_MOE_VC27,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Median (dollars)
+HC02_EST_VC27,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS - Median (dollars)
+HC02_MOE_VC27,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Median (dollars)
+HC03_EST_VC27,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS - Median (dollars)
+HC03_MOE_VC27,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS - Median (dollars)
+HC01_EST_VC30,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC01_MOE_VC30,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC02_EST_VC30,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC02_MOE_VC30,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC03_EST_VC30,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC03_MOE_VC30,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000"
+HC01_EST_VC31,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC01_MOE_VC31,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC02_EST_VC31,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC02_MOE_VC31,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC03_EST_VC31,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC03_MOE_VC31,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - Less than 20 percent"
+HC01_EST_VC32,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC01_MOE_VC32,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC02_EST_VC32,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC02_MOE_VC32,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC03_EST_VC32,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC03_MOE_VC32,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 20 to 29 percent"
+HC01_EST_VC33,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC01_MOE_VC33,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC02_EST_VC33,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC02_MOE_VC33,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC03_EST_VC33,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC03_MOE_VC33,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than $20,000 - 30 percent or more"
+HC01_EST_VC34,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC01_MOE_VC34,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC02_EST_VC34,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC02_MOE_VC34,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC03_EST_VC34,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC03_MOE_VC34,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999"
+HC01_EST_VC35,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC01_MOE_VC35,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC02_EST_VC35,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC02_MOE_VC35,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC03_EST_VC35,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC03_MOE_VC35,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - Less than 20 percent"
+HC01_EST_VC36,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC01_MOE_VC36,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC02_EST_VC36,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC02_MOE_VC36,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC03_EST_VC36,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC03_MOE_VC36,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 20 to 29 percent"
+HC01_EST_VC37,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC01_MOE_VC37,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC02_EST_VC37,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC02_MOE_VC37,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC03_EST_VC37,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC03_MOE_VC37,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $20,000 to $34,999 - 30 percent or more"
+HC01_EST_VC38,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC01_MOE_VC38,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC02_EST_VC38,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC02_MOE_VC38,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC03_EST_VC38,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC03_MOE_VC38,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999"
+HC01_EST_VC39,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC01_MOE_VC39,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC02_EST_VC39,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC02_MOE_VC39,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC03_EST_VC39,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC03_MOE_VC39,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - Less than 20 percent"
+HC01_EST_VC40,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC01_MOE_VC40,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC02_EST_VC40,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC02_MOE_VC40,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC03_EST_VC40,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC03_MOE_VC40,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 20 to 29 percent"
+HC01_EST_VC41,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC01_MOE_VC41,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC02_EST_VC41,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC02_MOE_VC41,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC03_EST_VC41,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC03_MOE_VC41,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $35,000 to $49,999 - 30 percent or more"
+HC01_EST_VC42,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC01_MOE_VC42,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC02_EST_VC42,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC02_MOE_VC42,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC03_EST_VC42,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC03_MOE_VC42,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999"
+HC01_EST_VC43,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC01_MOE_VC43,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC02_EST_VC43,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC02_MOE_VC43,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC03_EST_VC43,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC03_MOE_VC43,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - Less than 20 percent"
+HC01_EST_VC44,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC01_MOE_VC44,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC02_EST_VC44,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC02_MOE_VC44,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC03_EST_VC44,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC03_MOE_VC44,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 20 to 29 percent"
+HC01_EST_VC45,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC01_MOE_VC45,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC02_EST_VC45,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC02_MOE_VC45,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC03_EST_VC45,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC03_MOE_VC45,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $50,000 to $74,999 - 30 percent or more"
+HC01_EST_VC46,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC01_MOE_VC46,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC02_EST_VC46,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC02_MOE_VC46,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC03_EST_VC46,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC03_MOE_VC46,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more"
+HC01_EST_VC47,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC01_MOE_VC47,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC02_EST_VC47,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC02_MOE_VC47,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC03_EST_VC47,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC03_MOE_VC47,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - Less than 20 percent"
+HC01_EST_VC48,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC01_MOE_VC48,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC02_EST_VC48,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC02_MOE_VC48,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC03_EST_VC48,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC03_MOE_VC48,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 20 to 29 percent"
+HC01_EST_VC49,"Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC01_MOE_VC49,"Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC02_EST_VC49,"Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC02_MOE_VC49,"Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC03_EST_VC49,"Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC03_MOE_VC49,"Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - $75,000 or more - 30 percent or more"
+HC01_EST_VC50,Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC01_MOE_VC50,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC02_EST_VC50,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC02_MOE_VC50,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC03_EST_VC50,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC03_MOE_VC50,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Zero or negative income
+HC01_EST_VC51,Occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent
+HC01_MOE_VC51,Occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent
+HC02_EST_VC51,Owner-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent
+HC02_MOE_VC51,Owner-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent
+HC03_EST_VC51,Renter-occupied housing units; Estimate; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent
+HC03_MOE_VC51,Renter-occupied housing units; Margin of Error; MONTHLY HOUSING COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - No cash rent

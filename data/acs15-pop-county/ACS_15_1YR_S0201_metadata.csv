@@ -1,0 +1,621 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+POPGROUP.id,Id
+POPGROUP.display-label,Population Group
+EST_VC03,Estimate; TOTAL NUMBER OF RACES REPORTED - Total population
+MOE_VC03,Margin of Error; TOTAL NUMBER OF RACES REPORTED - Total population
+EST_VC04,Estimate; TOTAL NUMBER OF RACES REPORTED - Total population - One race
+MOE_VC04,Margin of Error; TOTAL NUMBER OF RACES REPORTED - Total population - One race
+EST_VC05,Estimate; TOTAL NUMBER OF RACES REPORTED - Total population - Two races
+MOE_VC05,Margin of Error; TOTAL NUMBER OF RACES REPORTED - Total population - Two races
+EST_VC06,Estimate; TOTAL NUMBER OF RACES REPORTED - Total population - Three races
+MOE_VC06,Margin of Error; TOTAL NUMBER OF RACES REPORTED - Total population - Three races
+EST_VC07,Estimate; TOTAL NUMBER OF RACES REPORTED - Total population - Four or more races
+MOE_VC07,Margin of Error; TOTAL NUMBER OF RACES REPORTED - Total population - Four or more races
+EST_VC11,Estimate; SEX AND AGE - Total population
+MOE_VC11,Margin of Error; SEX AND AGE - Total population
+EST_VC12,Estimate; SEX AND AGE - Total population - Male
+MOE_VC12,Margin of Error; SEX AND AGE - Total population - Male
+EST_VC13,Estimate; SEX AND AGE - Total population - Female
+MOE_VC13,Margin of Error; SEX AND AGE - Total population - Female
+EST_VC16,Estimate; SEX AND AGE - Under 5 years
+MOE_VC16,Margin of Error; SEX AND AGE - Under 5 years
+EST_VC17,Estimate; SEX AND AGE - 5 to 17 years
+MOE_VC17,Margin of Error; SEX AND AGE - 5 to 17 years
+EST_VC18,Estimate; SEX AND AGE - 18 to 24 years
+MOE_VC18,Margin of Error; SEX AND AGE - 18 to 24 years
+EST_VC19,Estimate; SEX AND AGE - 25 to 34 years
+MOE_VC19,Margin of Error; SEX AND AGE - 25 to 34 years
+EST_VC20,Estimate; SEX AND AGE - 35 to 44 years
+MOE_VC20,Margin of Error; SEX AND AGE - 35 to 44 years
+EST_VC21,Estimate; SEX AND AGE - 45 to 54 years
+MOE_VC21,Margin of Error; SEX AND AGE - 45 to 54 years
+EST_VC22,Estimate; SEX AND AGE - 55 to 64 years
+MOE_VC22,Margin of Error; SEX AND AGE - 55 to 64 years
+EST_VC23,Estimate; SEX AND AGE - 65 to 74 years
+MOE_VC23,Margin of Error; SEX AND AGE - 65 to 74 years
+EST_VC24,Estimate; SEX AND AGE - 75 years and over
+MOE_VC24,Margin of Error; SEX AND AGE - 75 years and over
+EST_VC27,Estimate; SEX AND AGE - Median age (years)
+MOE_VC27,Margin of Error; SEX AND AGE - Median age (years)
+EST_VC30,Estimate; SEX AND AGE - 18 years and over
+MOE_VC30,Margin of Error; SEX AND AGE - 18 years and over
+EST_VC31,Estimate; SEX AND AGE - 21 years and over
+MOE_VC31,Margin of Error; SEX AND AGE - 21 years and over
+EST_VC32,Estimate; SEX AND AGE - 62 years and over
+MOE_VC32,Margin of Error; SEX AND AGE - 62 years and over
+EST_VC33,Estimate; SEX AND AGE - 65 years and over
+MOE_VC33,Margin of Error; SEX AND AGE - 65 years and over
+EST_VC36,Estimate; SEX AND AGE - Under 18 years
+MOE_VC36,Margin of Error; SEX AND AGE - Under 18 years
+EST_VC37,Estimate; SEX AND AGE - Under 18 years - Male
+MOE_VC37,Margin of Error; SEX AND AGE - Under 18 years - Male
+EST_VC38,Estimate; SEX AND AGE - Under 18 years - Female
+MOE_VC38,Margin of Error; SEX AND AGE - Under 18 years - Female
+EST_VC41,Estimate; SEX AND AGE - 18 years and over
+MOE_VC41,Margin of Error; SEX AND AGE - 18 years and over
+EST_VC42,Estimate; SEX AND AGE - 18 years and over - Male
+MOE_VC42,Margin of Error; SEX AND AGE - 18 years and over - Male
+EST_VC43,Estimate; SEX AND AGE - 18 years and over - Female
+MOE_VC43,Margin of Error; SEX AND AGE - 18 years and over - Female
+EST_VC46,Estimate; SEX AND AGE - 18 to 34 years
+MOE_VC46,Margin of Error; SEX AND AGE - 18 to 34 years
+EST_VC47,Estimate; SEX AND AGE - 18 to 34 years - Male
+MOE_VC47,Margin of Error; SEX AND AGE - 18 to 34 years - Male
+EST_VC48,Estimate; SEX AND AGE - 18 to 34 years - Female
+MOE_VC48,Margin of Error; SEX AND AGE - 18 to 34 years - Female
+EST_VC51,Estimate; SEX AND AGE - 35 to 64 years
+MOE_VC51,Margin of Error; SEX AND AGE - 35 to 64 years
+EST_VC52,Estimate; SEX AND AGE - 35 to 64 years - Male
+MOE_VC52,Margin of Error; SEX AND AGE - 35 to 64 years - Male
+EST_VC53,Estimate; SEX AND AGE - 35 to 64 years - Female
+MOE_VC53,Margin of Error; SEX AND AGE - 35 to 64 years - Female
+EST_VC56,Estimate; SEX AND AGE - 65 years and over
+MOE_VC56,Margin of Error; SEX AND AGE - 65 years and over
+EST_VC57,Estimate; SEX AND AGE - 65 years and over - Male
+MOE_VC57,Margin of Error; SEX AND AGE - 65 years and over - Male
+EST_VC58,Estimate; SEX AND AGE - 65 years and over - Female
+MOE_VC58,Margin of Error; SEX AND AGE - 65 years and over - Female
+EST_VC62,Estimate; RELATIONSHIP - Population in households
+MOE_VC62,Margin of Error; RELATIONSHIP - Population in households
+EST_VC63,Estimate; RELATIONSHIP - Population in households - Householder or spouse
+MOE_VC63,Margin of Error; RELATIONSHIP - Population in households - Householder or spouse
+EST_VC64,Estimate; RELATIONSHIP - Population in households - Child
+MOE_VC64,Margin of Error; RELATIONSHIP - Population in households - Child
+EST_VC65,Estimate; RELATIONSHIP - Population in households - Other relatives
+MOE_VC65,Margin of Error; RELATIONSHIP - Population in households - Other relatives
+EST_VC66,Estimate; RELATIONSHIP - Population in households - Nonrelatives
+MOE_VC66,Margin of Error; RELATIONSHIP - Population in households - Nonrelatives
+EST_VC67,Estimate; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+MOE_VC67,Margin of Error; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+EST_VC71,Estimate; HOUSEHOLDS BY TYPE - Households
+MOE_VC71,Margin of Error; HOUSEHOLDS BY TYPE - Households
+EST_VC72,Estimate; HOUSEHOLDS BY TYPE - Households - Family households
+MOE_VC72,Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households
+EST_VC73,Estimate; HOUSEHOLDS BY TYPE - Households - Family households - With own children of the householder under 18 years
+MOE_VC73,Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - With own children of the householder under 18 years
+EST_VC74,Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+MOE_VC74,Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+EST_VC75,Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family - With own children of the householder under 18 years
+MOE_VC75,Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family - With own children of the householder under 18 years
+EST_VC76,"Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+MOE_VC76,"Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+EST_VC77,"Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family - With own children of the householder under 18 years"
+MOE_VC77,"Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family - With own children of the householder under 18 years"
+EST_VC78,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+MOE_VC78,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+EST_VC79,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder
+MOE_VC79,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder
+EST_VC80,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder - Living alone
+MOE_VC80,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder - Living alone
+EST_VC81,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder - Not living alone
+MOE_VC81,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Male householder - Not living alone
+EST_VC82,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder
+MOE_VC82,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder
+EST_VC83,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder - Living alone
+MOE_VC83,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder - Living alone
+EST_VC84,Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder - Not living alone
+MOE_VC84,Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Female householder - Not living alone
+EST_VC87,Estimate; HOUSEHOLDS BY TYPE - Average household size
+MOE_VC87,Margin of Error; HOUSEHOLDS BY TYPE - Average household size
+EST_VC88,Estimate; HOUSEHOLDS BY TYPE - Average family size
+MOE_VC88,Margin of Error; HOUSEHOLDS BY TYPE - Average family size
+EST_VC92,Estimate; MARITAL STATUS - Population 15 years and over
+MOE_VC92,Margin of Error; MARITAL STATUS - Population 15 years and over
+EST_VC93,"Estimate; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+MOE_VC93,"Margin of Error; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+EST_VC94,Estimate; MARITAL STATUS - Population 15 years and over - Widowed
+MOE_VC94,Margin of Error; MARITAL STATUS - Population 15 years and over - Widowed
+EST_VC95,Estimate; MARITAL STATUS - Population 15 years and over - Divorced
+MOE_VC95,Margin of Error; MARITAL STATUS - Population 15 years and over - Divorced
+EST_VC96,Estimate; MARITAL STATUS - Population 15 years and over - Separated
+MOE_VC96,Margin of Error; MARITAL STATUS - Population 15 years and over - Separated
+EST_VC97,Estimate; MARITAL STATUS - Population 15 years and over - Never married
+MOE_VC97,Margin of Error; MARITAL STATUS - Population 15 years and over - Never married
+EST_VC100,Estimate; MARITAL STATUS - Male 15 years and over
+MOE_VC100,Margin of Error; MARITAL STATUS - Male 15 years and over
+EST_VC101,"Estimate; MARITAL STATUS - Male 15 years and over - Now married, except separated"
+MOE_VC101,"Margin of Error; MARITAL STATUS - Male 15 years and over - Now married, except separated"
+EST_VC102,Estimate; MARITAL STATUS - Male 15 years and over - Widowed
+MOE_VC102,Margin of Error; MARITAL STATUS - Male 15 years and over - Widowed
+EST_VC103,Estimate; MARITAL STATUS - Male 15 years and over - Divorced
+MOE_VC103,Margin of Error; MARITAL STATUS - Male 15 years and over - Divorced
+EST_VC104,Estimate; MARITAL STATUS - Male 15 years and over - Separated
+MOE_VC104,Margin of Error; MARITAL STATUS - Male 15 years and over - Separated
+EST_VC105,Estimate; MARITAL STATUS - Male 15 years and over - Never married
+MOE_VC105,Margin of Error; MARITAL STATUS - Male 15 years and over - Never married
+EST_VC108,Estimate; MARITAL STATUS - Female 15 years and over
+MOE_VC108,Margin of Error; MARITAL STATUS - Female 15 years and over
+EST_VC109,"Estimate; MARITAL STATUS - Female 15 years and over - Now married, except separated"
+MOE_VC109,"Margin of Error; MARITAL STATUS - Female 15 years and over - Now married, except separated"
+EST_VC110,Estimate; MARITAL STATUS - Female 15 years and over - Widowed
+MOE_VC110,Margin of Error; MARITAL STATUS - Female 15 years and over - Widowed
+EST_VC111,Estimate; MARITAL STATUS - Female 15 years and over - Divorced
+MOE_VC111,Margin of Error; MARITAL STATUS - Female 15 years and over - Divorced
+EST_VC112,Estimate; MARITAL STATUS - Female 15 years and over - Separated
+MOE_VC112,Margin of Error; MARITAL STATUS - Female 15 years and over - Separated
+EST_VC113,Estimate; MARITAL STATUS - Female 15 years and over - Never married
+MOE_VC113,Margin of Error; MARITAL STATUS - Female 15 years and over - Never married
+EST_VC117,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+MOE_VC117,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+EST_VC118,"Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+MOE_VC118,"Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+EST_VC119,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+MOE_VC119,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+EST_VC120,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+MOE_VC120,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+EST_VC121,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+MOE_VC121,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+EST_VC122,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+MOE_VC122,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+EST_VC125,Estimate; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school
+MOE_VC125,Margin of Error; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school
+EST_VC126,Estimate; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school - Percent enrolled in kindergarten to grade 12
+MOE_VC126,Margin of Error; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school - Percent enrolled in kindergarten to grade 12
+EST_VC127,Estimate; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school - Percent enrolled in college or graduate school
+MOE_VC127,Margin of Error; SCHOOL ENROLLMENT - Male 3 years and over enrolled in school - Percent enrolled in college or graduate school
+EST_VC128,Estimate; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school
+MOE_VC128,Margin of Error; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school
+EST_VC129,Estimate; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school - Percent enrolled in kindergarten to grade 12
+MOE_VC129,Margin of Error; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school - Percent enrolled in kindergarten to grade 12
+EST_VC130,Estimate; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school - Percent enrolled in college or graduate school
+MOE_VC130,Margin of Error; SCHOOL ENROLLMENT - Female 3 years and over enrolled in school - Percent enrolled in college or graduate school
+EST_VC134,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+MOE_VC134,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+EST_VC135,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school diploma
+MOE_VC135,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school diploma
+EST_VC136,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+MOE_VC136,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+EST_VC137,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+MOE_VC137,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+EST_VC138,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+MOE_VC138,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+EST_VC139,Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+MOE_VC139,Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+EST_VC142,Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher
+MOE_VC142,Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher
+EST_VC143,"Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher - Male, high school graduate or higher"
+MOE_VC143,"Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher - Male, high school graduate or higher"
+EST_VC144,"Estimate; EDUCATIONAL ATTAINMENT - High school graduate or higher - Female, high school graduate or higher"
+MOE_VC144,"Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate or higher - Female, high school graduate or higher"
+EST_VC145,Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+MOE_VC145,Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+EST_VC146,"Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Male, bachelor's degree or higher"
+MOE_VC146,"Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Male, bachelor's degree or higher"
+EST_VC147,"Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Female, bachelor's degree or higher"
+MOE_VC147,"Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher - Female, bachelor's degree or higher"
+EST_VC151,Estimate; FERTILITY - Women 15 to 50 years
+MOE_VC151,Margin of Error; FERTILITY - Women 15 to 50 years
+EST_VC152,Estimate; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months
+MOE_VC152,Margin of Error; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months
+EST_VC153,Estimate; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months - Unmarried women 15 to 50 years who had a birth in the past 12 months
+MOE_VC153,Margin of Error; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months - Unmarried women 15 to 50 years who had a birth in the past 12 months
+EST_VC154,Estimate; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months - Unmarried women 15 to 50 years who had a birth in the past 12 months - As a percent of all women with a birth in the past 12 months
+MOE_VC154,Margin of Error; FERTILITY - Women 15 to 50 years - Women 15 to 50 years who had a birth in the past 12 months - Unmarried women 15 to 50 years who had a birth in the past 12 months - As a percent of all women with a birth in the past 12 months
+EST_VC158,Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+MOE_VC158,Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+EST_VC159,Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Grandparents living with grandchild(ren)
+MOE_VC159,Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Grandparents living with grandchild(ren)
+EST_VC160,Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Grandparents living with grandchild(ren) - Grandparents responsible for grandchildren as a percentage of living with grandchildren
+MOE_VC160,Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Grandparents living with grandchild(ren) - Grandparents responsible for grandchildren as a percentage of living with grandchildren
+EST_VC164,Estimate; VETERAN STATUS - Civilian population 18 years and over
+MOE_VC164,Margin of Error; VETERAN STATUS - Civilian population 18 years and over
+EST_VC165,Estimate; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+MOE_VC165,Margin of Error; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+EST_VC169,Estimate; DISABILITY STATUS - Total civilian noninstitutionalized population
+MOE_VC169,Margin of Error; DISABILITY STATUS - Total civilian noninstitutionalized population
+EST_VC170,Estimate; DISABILITY STATUS - Total civilian noninstitutionalized population - With a disability
+MOE_VC170,Margin of Error; DISABILITY STATUS - Total civilian noninstitutionalized population - With a disability
+EST_VC173,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population under 18 years
+MOE_VC173,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population under 18 years
+EST_VC174,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population under 18 years - With a disability
+MOE_VC174,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population under 18 years - With a disability
+EST_VC177,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population 18 to 64 years
+MOE_VC177,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population 18 to 64 years
+EST_VC178,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population 18 to 64 years - With a disability
+MOE_VC178,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population 18 to 64 years - With a disability
+EST_VC181,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population 65 years and older
+MOE_VC181,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population 65 years and older
+EST_VC182,Estimate; DISABILITY STATUS - Civilian noninstitutionalized population 65 years and older - With a disability
+MOE_VC182,Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population 65 years and older - With a disability
+EST_VC186,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over
+MOE_VC186,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over
+EST_VC187,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+MOE_VC187,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+EST_VC188,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.
+MOE_VC188,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.
+EST_VC189,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county
+MOE_VC189,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county
+EST_VC190,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county
+MOE_VC190,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county
+EST_VC191,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Same state
+MOE_VC191,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Same state
+EST_VC192,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Different state
+MOE_VC192,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Different state
+EST_VC193,Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+MOE_VC193,Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+EST_VC197,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native"
+MOE_VC197,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native"
+EST_VC198,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native - Male"
+MOE_VC198,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native - Male"
+EST_VC199,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native - Female"
+MOE_VC199,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Native - Female"
+EST_VC201,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born"
+MOE_VC201,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born"
+EST_VC202,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born - Male"
+MOE_VC202,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born - Male"
+EST_VC203,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born - Female"
+MOE_VC203,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born - Female"
+EST_VC206,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen"
+MOE_VC206,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen"
+EST_VC207,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen - Male"
+MOE_VC207,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen - Male"
+EST_VC208,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen - Female"
+MOE_VC208,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; naturalized U.S. citizen - Female"
+EST_VC211,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen"
+MOE_VC211,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen"
+EST_VC212,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen - Male"
+MOE_VC212,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen - Male"
+EST_VC213,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen - Female"
+MOE_VC213,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Foreign born; not a U.S. citizen - Female"
+EST_VC215,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States"
+MOE_VC215,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States"
+EST_VC216,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered 2010 or later"
+MOE_VC216,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered 2010 or later"
+EST_VC217,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered 2000 to 2009"
+MOE_VC217,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered 2000 to 2009"
+EST_VC218,"Estimate; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered before 2000"
+MOE_VC218,"Margin of Error; PLACE OF BIRTH, CITIZENSHIP STATUS AND YEAR OF ENTRY - Population born outside the United States - Entered before 2000"
+EST_VC222,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea
+MOE_VC222,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea
+EST_VC223,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Europe
+MOE_VC223,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Europe
+EST_VC224,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Asia
+MOE_VC224,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Asia
+EST_VC225,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Africa
+MOE_VC225,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Africa
+EST_VC226,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Oceania
+MOE_VC226,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Oceania
+EST_VC227,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Latin America
+MOE_VC227,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Latin America
+EST_VC228,Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Northern America
+MOE_VC228,Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population excluding population born at sea - Northern America
+EST_VC232,Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+MOE_VC232,Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+EST_VC233,Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+MOE_VC233,Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+EST_VC234,Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+MOE_VC234,Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+EST_VC235,"Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+MOE_VC235,"Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+EST_VC239,Estimate; EMPLOYMENT STATUS - Population 16 years and over
+MOE_VC239,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+EST_VC240,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+MOE_VC240,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+EST_VC241,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+MOE_VC241,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+EST_VC242,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+MOE_VC242,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+EST_VC243,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+MOE_VC243,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+EST_VC244,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed - Unemployment Rate
+MOE_VC244,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed - Unemployment Rate
+EST_VC245,Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+MOE_VC245,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+EST_VC246,Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+MOE_VC246,Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+EST_VC248,Estimate; EMPLOYMENT STATUS - Females 16 years and over
+MOE_VC248,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+EST_VC249,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+MOE_VC249,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+EST_VC250,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+MOE_VC250,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+EST_VC251,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+MOE_VC251,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+EST_VC252,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Unemployed
+MOE_VC252,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Unemployed
+EST_VC253,Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Unemployed - Unemployment Rate
+MOE_VC253,Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Unemployed - Unemployment Rate
+EST_VC257,Estimate; COMMUTING TO WORK - Workers 16 years and over
+MOE_VC257,Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+EST_VC258,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van - drove alone"
+MOE_VC258,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van - drove alone"
+EST_VC259,"Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van - carpooled"
+MOE_VC259,"Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van - carpooled"
+EST_VC260,Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+MOE_VC260,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+EST_VC261,Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked
+MOE_VC261,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+EST_VC262,Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means
+MOE_VC262,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+EST_VC263,Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+MOE_VC263,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+EST_VC264,Estimate; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+MOE_VC264,Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+EST_VC268,Estimate; OCCUPATION - Civilian employed population 16 years and over
+MOE_VC268,Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+EST_VC269,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+MOE_VC269,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations"
+EST_VC270,Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+MOE_VC270,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+EST_VC271,Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+MOE_VC271,Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+EST_VC272,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+MOE_VC272,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+EST_VC273,"Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+MOE_VC273,"Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+EST_VC276,Estimate; OCCUPATION - Male civilian employed population 16 years and over
+MOE_VC276,Margin of Error; OCCUPATION - Male civilian employed population 16 years and over
+EST_VC277,"Estimate; OCCUPATION - Male civilian employed population 16 years and over - Management, business, science, and arts occupations"
+MOE_VC277,"Margin of Error; OCCUPATION - Male civilian employed population 16 years and over - Management, business, science, and arts occupations"
+EST_VC278,Estimate; OCCUPATION - Male civilian employed population 16 years and over - Service occupations
+MOE_VC278,Margin of Error; OCCUPATION - Male civilian employed population 16 years and over - Service occupations
+EST_VC279,Estimate; OCCUPATION - Male civilian employed population 16 years and over - Sales and office occupations
+MOE_VC279,Margin of Error; OCCUPATION - Male civilian employed population 16 years and over - Sales and office occupations
+EST_VC280,"Estimate; OCCUPATION - Male civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+MOE_VC280,"Margin of Error; OCCUPATION - Male civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+EST_VC281,"Estimate; OCCUPATION - Male civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+MOE_VC281,"Margin of Error; OCCUPATION - Male civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+EST_VC284,Estimate; OCCUPATION - Female civilian employed population 16 years and over
+MOE_VC284,Margin of Error; OCCUPATION - Female civilian employed population 16 years and over
+EST_VC285,"Estimate; OCCUPATION - Female civilian employed population 16 years and over - Management, business, science, and arts occupations"
+MOE_VC285,"Margin of Error; OCCUPATION - Female civilian employed population 16 years and over - Management, business, science, and arts occupations"
+EST_VC286,Estimate; OCCUPATION - Female civilian employed population 16 years and over - Service occupations
+MOE_VC286,Margin of Error; OCCUPATION - Female civilian employed population 16 years and over - Service occupations
+EST_VC287,Estimate; OCCUPATION - Female civilian employed population 16 years and over - Sales and office occupations
+MOE_VC287,Margin of Error; OCCUPATION - Female civilian employed population 16 years and over - Sales and office occupations
+EST_VC288,"Estimate; OCCUPATION - Female civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+MOE_VC288,"Margin of Error; OCCUPATION - Female civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations"
+EST_VC289,"Estimate; OCCUPATION - Female civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+MOE_VC289,"Margin of Error; OCCUPATION - Female civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+EST_VC293,Estimate; INDUSTRY - Civilian employed population 16 years and over
+MOE_VC293,Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+EST_VC294,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+MOE_VC294,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+EST_VC295,Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+MOE_VC295,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+EST_VC296,Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+MOE_VC296,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+EST_VC297,Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+MOE_VC297,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+EST_VC298,Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+MOE_VC298,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+EST_VC299,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+MOE_VC299,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+EST_VC300,Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+MOE_VC300,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+EST_VC301,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+MOE_VC301,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+EST_VC302,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+MOE_VC302,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+EST_VC303,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+MOE_VC303,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+EST_VC304,"Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+MOE_VC304,"Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+EST_VC305,Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services (except public administration)
+MOE_VC305,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services (except public administration)
+EST_VC306,Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+MOE_VC306,Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+EST_VC310,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over
+MOE_VC310,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+EST_VC311,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+MOE_VC311,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+EST_VC312,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+MOE_VC312,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+EST_VC313,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed workers in own not incorporated business
+MOE_VC313,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed workers in own not incorporated business
+EST_VC314,Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+MOE_VC314,Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+EST_VC318,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Households
+MOE_VC318,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Households
+EST_VC319,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Households - Median household income (dollars)
+MOE_VC319,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Households - Median household income (dollars)
+EST_VC322,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings
+MOE_VC322,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings
+EST_VC323,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+MOE_VC323,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+EST_VC324,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Social Security income
+MOE_VC324,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Social Security income
+EST_VC325,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Social Security income - Mean Social Security income (dollars)
+MOE_VC325,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Social Security income - Mean Social Security income (dollars)
+EST_VC326,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+MOE_VC326,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income
+EST_VC327,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+MOE_VC327,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+EST_VC328,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+MOE_VC328,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income
+EST_VC329,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+MOE_VC329,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income - Mean cash public assistance income (dollars)
+EST_VC330,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With retirement income
+MOE_VC330,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With retirement income
+EST_VC331,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+MOE_VC331,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+EST_VC332,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits
+MOE_VC332,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits
+EST_VC334,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families
+MOE_VC334,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families
+EST_VC335,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+MOE_VC335,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+EST_VC336,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars) - Married-couple family
+MOE_VC336,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars) - Married-couple family
+EST_VC337,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+MOE_VC337,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+EST_VC338,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars) - Male householder, no spouse present, family"
+MOE_VC338,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars) - Male householder, no spouse present, family"
+EST_VC339,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+MOE_VC339,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+EST_VC340,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars) - Female householder, no husband present, family"
+MOE_VC340,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars) - Female householder, no husband present, family"
+EST_VC341,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+MOE_VC341,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Families - Median income (dollars)
+EST_VC343,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Individuals
+MOE_VC343,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Individuals
+EST_VC344,Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Individuals - Per capita income (dollars)
+MOE_VC344,Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Individuals - Per capita income (dollars)
+EST_VC348,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings for full-time, year-round workers: - Male"
+MOE_VC348,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings for full-time, year-round workers: - Male"
+EST_VC349,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings for full-time, year-round workers: - Female"
+MOE_VC349,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - With earnings for full-time, year-round workers: - Female"
+EST_VC351,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Mean earnings (dollars) for full-time, year-round workers: - Male"
+MOE_VC351,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Mean earnings (dollars) for full-time, year-round workers: - Male"
+EST_VC352,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Mean earnings (dollars) for full-time, year-round workers: - Female"
+MOE_VC352,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Mean earnings (dollars) for full-time, year-round workers: - Female"
+EST_VC354,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median earnings (dollars) full-time, year-round workers: - Male"
+MOE_VC354,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median earnings (dollars) full-time, year-round workers: - Male"
+EST_VC355,"Estimate; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median earnings (dollars) full-time, year-round workers: - Female"
+MOE_VC355,"Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) - Median earnings (dollars) full-time, year-round workers: - Female"
+EST_VC359,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+MOE_VC359,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population
+EST_VC360,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With private health insurance
+MOE_VC360,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With private health insurance
+EST_VC361,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With public coverage
+MOE_VC361,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With public coverage
+EST_VC362,Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+MOE_VC362,Margin of Error; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+EST_VC366,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families
+MOE_VC366,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families
+EST_VC367,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - With related children of the householder under 18 years
+MOE_VC367,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - With related children of the householder under 18 years
+EST_VC368,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+MOE_VC368,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - With related children of the householder under 18 years - With related children of the householder under 5 years only
+EST_VC369,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family
+MOE_VC369,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family
+EST_VC370,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family - With related children of the householder under 18 years
+MOE_VC370,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family - With related children of the householder under 18 years
+EST_VC371,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family - With related children of the householder under 18 years - With related children of the householder under 5 years only
+MOE_VC371,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Married-couple family - With related children of the householder under 18 years - With related children of the householder under 5 years only
+EST_VC372,"Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family"
+MOE_VC372,"Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family"
+EST_VC373,"Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family - With related children of the householder under 18 years"
+MOE_VC373,"Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family - With related children of the householder under 18 years"
+EST_VC374,"Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+MOE_VC374,"Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All families - Female householder, no husband present, family - With related children of the householder under 18 years - With related children of the householder under 5 years only"
+EST_VC376,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people
+MOE_VC376,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people
+EST_VC377,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years
+MOE_VC377,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years
+EST_VC378,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years
+MOE_VC378,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years
+EST_VC379,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+MOE_VC379,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder under 5 years
+EST_VC380,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+MOE_VC380,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Under 18 years - Related children of the householder under 18 years - Related children of the householder 5 to 17 years
+EST_VC381,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 18 years and over
+MOE_VC381,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 18 years and over
+EST_VC382,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 18 to 64 years
+MOE_VC382,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 18 to 64 years
+EST_VC383,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 65 years and over
+MOE_VC383,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - 65 years and over
+EST_VC384,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - People in families
+MOE_VC384,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - People in families
+EST_VC385,Estimate; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Unrelated individuals 15 years and over
+MOE_VC385,Margin of Error; POVERTY RATES FOR FAMILIES AND PEOPLE FOR WHOM POVERTY STATUS IS DETERMINED - All people - Unrelated individuals 15 years and over
+EST_VC389,Estimate; HOUSING TENURE - Occupied housing units
+MOE_VC389,Margin of Error; HOUSING TENURE - Occupied housing units
+EST_VC390,Estimate; HOUSING TENURE - Occupied housing units - Owner-occupied housing units
+MOE_VC390,Margin of Error; HOUSING TENURE - Occupied housing units - Owner-occupied housing units
+EST_VC391,Estimate; HOUSING TENURE - Occupied housing units - Renter-occupied housing units
+MOE_VC391,Margin of Error; HOUSING TENURE - Occupied housing units - Renter-occupied housing units
+EST_VC394,Estimate; HOUSING TENURE - Average household size of owner-occupied unit
+MOE_VC394,Margin of Error; HOUSING TENURE - Average household size of owner-occupied unit
+EST_VC395,Estimate; HOUSING TENURE - Average household size of renter-occupied unit
+MOE_VC395,Margin of Error; HOUSING TENURE - Average household size of renter-occupied unit
+EST_VC399,Estimate; UNITS IN STRUCTURE - Occupied housing units
+MOE_VC399,Margin of Error; UNITS IN STRUCTURE - Occupied housing units
+EST_VC400,"Estimate; UNITS IN STRUCTURE - Occupied housing units - 1-unit, detached or attached"
+MOE_VC400,"Margin of Error; UNITS IN STRUCTURE - Occupied housing units - 1-unit, detached or attached"
+EST_VC401,Estimate; UNITS IN STRUCTURE - Occupied housing units - 2 to 4 units
+MOE_VC401,Margin of Error; UNITS IN STRUCTURE - Occupied housing units - 2 to 4 units
+EST_VC402,Estimate; UNITS IN STRUCTURE - Occupied housing units - 5 or more units
+MOE_VC402,Margin of Error; UNITS IN STRUCTURE - Occupied housing units - 5 or more units
+EST_VC403,"Estimate; UNITS IN STRUCTURE - Occupied housing units - Mobile home, boat, RV, van, etc."
+MOE_VC403,"Margin of Error; UNITS IN STRUCTURE - Occupied housing units - Mobile home, boat, RV, van, etc."
+EST_VC407,Estimate; YEAR STRUCTURE BUILT - Occupied housing units
+MOE_VC407,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units
+EST_VC408,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 2014 or later
+MOE_VC408,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 2014 or later
+EST_VC409,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 2010 to 2013
+MOE_VC409,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 2010 to 2013
+EST_VC410,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 2000 to 2009
+MOE_VC410,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 2000 to 2009
+EST_VC411,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 1980 to 1999
+MOE_VC411,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 1980 to 1999
+EST_VC412,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 1960 to 1979
+MOE_VC412,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 1960 to 1979
+EST_VC413,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 1940 to 1959
+MOE_VC413,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 1940 to 1959
+EST_VC414,Estimate; YEAR STRUCTURE BUILT - Occupied housing units - Built 1939 or earlier
+MOE_VC414,Margin of Error; YEAR STRUCTURE BUILT - Occupied housing units - Built 1939 or earlier
+EST_VC418,Estimate; VEHICLES AVAILABLE - Occupied housing units
+MOE_VC418,Margin of Error; VEHICLES AVAILABLE - Occupied housing units
+EST_VC419,Estimate; VEHICLES AVAILABLE - Occupied housing units - None
+MOE_VC419,Margin of Error; VEHICLES AVAILABLE - Occupied housing units - None
+EST_VC420,Estimate; VEHICLES AVAILABLE - Occupied housing units - 1 or more
+MOE_VC420,Margin of Error; VEHICLES AVAILABLE - Occupied housing units - 1 or more
+EST_VC424,Estimate; HOUSE HEATING FUEL - Occupied housing units
+MOE_VC424,Margin of Error; HOUSE HEATING FUEL - Occupied housing units
+EST_VC425,Estimate; HOUSE HEATING FUEL - Occupied housing units - Gas
+MOE_VC425,Margin of Error; HOUSE HEATING FUEL - Occupied housing units - Gas
+EST_VC426,Estimate; HOUSE HEATING FUEL - Occupied housing units - Electricity
+MOE_VC426,Margin of Error; HOUSE HEATING FUEL - Occupied housing units - Electricity
+EST_VC427,Estimate; HOUSE HEATING FUEL - Occupied housing units - All other fuels
+MOE_VC427,Margin of Error; HOUSE HEATING FUEL - Occupied housing units - All other fuels
+EST_VC428,Estimate; HOUSE HEATING FUEL - Occupied housing units - No fuel used
+MOE_VC428,Margin of Error; HOUSE HEATING FUEL - Occupied housing units - No fuel used
+EST_VC432,Estimate; SELECTED CHARACTERISTICS - Occupied housing units
+MOE_VC432,Margin of Error; SELECTED CHARACTERISTICS - Occupied housing units
+EST_VC433,Estimate; SELECTED CHARACTERISTICS - Occupied housing units - No telephone service available
+MOE_VC433,Margin of Error; SELECTED CHARACTERISTICS - Occupied housing units - No telephone service available
+EST_VC434,Estimate; SELECTED CHARACTERISTICS - Occupied housing units - 1.01 or more occupants per room
+MOE_VC434,Margin of Error; SELECTED CHARACTERISTICS - Occupied housing units - 1.01 or more occupants per room
+EST_VC438,Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed)
+MOE_VC438,Margin of Error; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed)
+EST_VC439,Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed) - Less than 30 percent
+MOE_VC439,Margin of Error; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed) - Less than 30 percent
+EST_VC440,Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed) - 30 percent or more
+MOE_VC440,Margin of Error; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Housing units with a mortgage (excluding units where SMOC cannot be computed) - 30 percent or more
+EST_VC444,Estimate; OWNER CHARACTERISTICS - Owner-occupied housing units
+MOE_VC444,Margin of Error; OWNER CHARACTERISTICS - Owner-occupied housing units
+EST_VC445,Estimate; OWNER CHARACTERISTICS - Owner-occupied housing units - Median value (dollars)
+MOE_VC445,Margin of Error; OWNER CHARACTERISTICS - Owner-occupied housing units - Median value (dollars)
+EST_VC446,Estimate; OWNER CHARACTERISTICS - Owner-occupied housing units - Median selected monthly owner costs with a mortgage (dollars)
+MOE_VC446,Margin of Error; OWNER CHARACTERISTICS - Owner-occupied housing units - Median selected monthly owner costs with a mortgage (dollars)
+EST_VC447,Estimate; OWNER CHARACTERISTICS - Owner-occupied housing units - Median selected monthly owner costs without a mortgage (dollars)
+MOE_VC447,Margin of Error; OWNER CHARACTERISTICS - Owner-occupied housing units - Median selected monthly owner costs without a mortgage (dollars)
+EST_VC451,Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed)
+MOE_VC451,Margin of Error; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed)
+EST_VC452,Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed) - Less than 30 percent
+MOE_VC452,Margin of Error; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed) - Less than 30 percent
+EST_VC453,Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 30 percent or more
+MOE_VC453,Margin of Error; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 30 percent or more
+EST_VC457,Estimate; GROSS RENT - Occupied units paying rent
+MOE_VC457,Margin of Error; GROSS RENT - Occupied units paying rent
+EST_VC458,Estimate; GROSS RENT - Occupied units paying rent - Median gross rent (dollars)
+MOE_VC458,Margin of Error; GROSS RENT - Occupied units paying rent - Median gross rent (dollars)
+EST_VC462,Estimate; COMPUTERS AND INTERNET USE - Total households
+MOE_VC462,Margin of Error; COMPUTERS AND INTERNET USE - Total households
+EST_VC463,Estimate; COMPUTERS AND INTERNET USE - Total households - With a computer
+MOE_VC463,Margin of Error; COMPUTERS AND INTERNET USE - Total households - With a computer
+EST_VC464,Estimate; COMPUTERS AND INTERNET USE - Total households - With a broadband Internet subscription
+MOE_VC464,Margin of Error; COMPUTERS AND INTERNET USE - Total households - With a broadband Internet subscription
