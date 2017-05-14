@@ -67,8 +67,6 @@ geog_demo_data <- geog_demo_data %>%
   mutate(black_percent = black_pop/hd01_vd01)
 
 pal = colorQuantile(
-  # palette=c("#f7fcfd", "#e0ecf4", "#bfd3e6", "#9ebcda",
-  #          "#8c96c6", "#8c6bb1", "#88419d", "#6e016b"),
   palette=c("#ffffd9", "#edf8b1", "#c7e9b4", "#7fcdbb",
             "#41b6c4", "#1d91c0", "#225ea8", "#0c2c84"),
   domain=as.numeric(geog_demo_data$black_percent),

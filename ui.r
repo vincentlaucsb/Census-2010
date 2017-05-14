@@ -11,23 +11,23 @@ shinyUI(fluidPage(
   ),
   
   fluidRow(
-    plotOutput("mmhi_biggest_cities")
+    plotOutput("mhhi_biggest_cities")
   ),
   
   # Map
   fluidRow(
-    leafletOutput("mmhi_map")
+    leafletOutput("mhhi_map")
   ),
   
   # Median Income Table Options
   fluidRow(
-    selectInput("mmhi_table",
+    selectInput("mhhi_table",
                 "Geographic Level",
-                c("All", "Towns", "States"))
+                c("All", "Towns", "Counties"))
   ),
   
   # Median Income Table Output
   fluidRow(
-    dataTableOutput("mmhi_table")
+    dataTableOutput("mhhi_table")
   )
 ))
