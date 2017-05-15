@@ -1,6 +1,5 @@
 # My Own
 scratch/
-notes/
 *.html
 postgres_pw.r
 /*.sql

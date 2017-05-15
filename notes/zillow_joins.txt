@@ -1,0 +1,25 @@
+Join Zillow Home Prices with Median Household Income
+=======================================================
+
+SQL:
+-----
+SELECT
+	city, harambe.state, hc01,
+	CAST(_2015_07 as float8), CAST(_2015_08 as float8),
+    CAST(_2015_09 as float8), CAST(_2015_10 as float8),
+    CAST(_2015_11 as float8), CAST(_2015_12 as float8),
+    CAST(_2016_01 as float8), CAST(_2016_02 as float8),
+    CAST(_2016_03 as float8), CAST(_2016_04 as float8),
+    CAST(_2016_05 as float8), CAST(_2016_06 as float8)
+FROM city_median_soldpricepersqft_singlefamily RIGHT JOIN
+	(SELECT
+		population.geoid, city, abbreviation as state,
+        CAST(hd01_s001 AS integer) as population,
+        CAST(hc01 AS integer)
+	FROM median_household_income LEFT JOIN population
+		ON population.geoid = median_household_income.geoid
+	JOIN clean_place_names
+		ON population.geoid = clean_place_names.geoid
+	ORDER BY population DESC
+	LIMIT 25) as harambe
+ON (harambe.city || harambe.state) = (regionname || city_median_soldpricepersqft_singlefamily.state)

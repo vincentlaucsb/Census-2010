@@ -1,0 +1,92 @@
+Cast as integer
+================
+
+SQL
+-----
+SELECT CAST(hd01_s001 AS INTEGER) FROM population
+
+Print non-numeric values
+=========================
+
+SQL
+----
+SELECT get_nonnumeric(hd01_s098) FROM population WHERE get_nonnumeric(hd01_s098) IS NOT NULL
+
+Remove place types from geographic display label
+==================================================
+See: https://www.census.gov/geo/reference/gtc/gtc_place.html
+
+SQL
+----
+SELECT
+	multi_replace(
+        geo_display_label,
+        array['city', 'town', 'village', 'borough',
+              'CDP', '(balance)' ]
+    )
+
+FROM population;
+
+Remove place types + split state from geographic display label
+
+SQL 
+----
+SELECT
+	btrim( split_part(
+        multi_replace(
+            geo_display_label,
+            array['city', 'town', 'village', 'borough',
+                  'CDP', '(balance)']),
+         ',', 1) )
+        AS city,
+     
+    btrim( split_part(geo_display_label, ',', 2) ) AS state
+
+FROM population;
+
+SQL: Creating a table
+----------------------
+CREATE TABLE clean_place_names AS
+    SELECT
+        btrim( split_part(
+            multi_replace(
+                geo_display_label,
+                array['city', 'town', 'village', 'borough',
+                      'CDP', '(balance)']),
+             ',', 1) )
+            AS city,
+         
+        btrim( split_part(geo_display_label, ',', 2) ) AS state
+
+    FROM population;
+
+SQL: Adding in abbreviations
+-------------------------------
+SELECT geoid, geo_id, city, harambe.state, abbreviation FROM
+	(SELECT
+     	geoid, geo_id,
+        btrim( split_part(
+            multi_replace(
+                geo_display_label,
+                array['city', 'town', 'village', 'borough',
+                      'CDP', '(balance)']),
+             ',', 1) )
+            AS city,
+         
+        btrim( split_part(geo_display_label, ',', 2) ) AS state
+    FROM population) as harambe
+LEFT JOIN state_abbrev on harambe.state = state_abbrev.state
+    
+Remove revised counts from population column
+===================================================
+
+SQL
+----
+UPDATE population
+    SET hd01_s001 = split_part(hd01_s001, '(', 1)
+    WHERE isnumeric(hd01_s001) IS FALSE
+    
+Result
+-------
+UPDATE 318
+Query returned successfully in 4 secs.
