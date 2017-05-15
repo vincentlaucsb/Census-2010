@@ -33,3 +33,10 @@ password <- '**********'
 ## Plotly
 The previous version of this project was created with Python, Plotly, and SQLite.
 See the plotly/ subdirectory for the .zip file containing the original files.
+
+## Data Sources
+I would like to thank these people and organizations for providing the data which made this project possible:
+* United States Census Bureau
+  * Census 2010
+  * American Community Survey
+* [Zillow](https://www.zillow.com/research/data/)
