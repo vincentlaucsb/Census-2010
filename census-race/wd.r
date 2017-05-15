@@ -1,0 +1,1 @@
+working_dir <- 'C:/Users/Vincent/Dropbox/My Projects/Census 2010/'

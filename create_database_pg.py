@@ -60,14 +60,32 @@ import sqlify
     # engine='postgres')
 
 # Load county detailed financial data
+# sqlify.csv_to_sql(
+    # 'data/acs15-finance-county/ACS_15_5YR_S2503_with_ann.csv',
+    # database='census2010',
+    # delimiter=',',
+    # name="acs15_finance_county",
+    # col_rename={'GEO.id2': 'GEOID'},
+    # header=0,
+    # skip_lines=2,
+    # p_key=1,
+    # na_values="(X)",
+    # engine='postgres')
+    
+# Load Zillow Data
+# sqlify.csv_to_sql(
+    # 'data/zillow/City_MedianSoldPricePerSqft_SingleFamilyResidence.csv',
+    # database='census2010',
+    # name='city_median_soldpricepersqft_singlefamily',
+    # p_key=0,
+    # header=0,
+    # engine='postgres')
+    
+# State abbreviations
 sqlify.csv_to_sql(
-    'data/acs15-finance-county/ACS_15_5YR_S2503_with_ann.csv',
+    'data/geography/states.csv',
     database='census2010',
-    delimiter=',',
-    name="acs15_finance_county",
-    col_rename={'GEO.id2': 'GEOID'},
+    name='state_abbrev',
     header=0,
-    skip_lines=2,
-    p_key=1,
-    na_values="(X)",
-    engine='postgres')
+    engine='postgres'
+)
