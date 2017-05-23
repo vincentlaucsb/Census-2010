@@ -5,6 +5,10 @@ library(ggplot2)
 library(dplyr)
 library(reshape2)
 
+# Get app specific helpers
+source('data.r')
+source('map.r')
+
 # Get working directory
 source('wd.r')
 setwd(working_dir)
@@ -20,7 +24,20 @@ census2010_db <- src_postgres("census2010",
                               password=password,
                               host="localhost")
 
-# ==== Household Income by City ====
+# ==== Globals ====
+ACS_1YR_RANGE = as.character(seq(2015, 2005))
+ACS_1YR_FINANCE_COUNTY <- new('IncomeData',
+                              counties=COUNTIES_GEO,
+                              sql_conn=census2010_db,
+                              query=get_mhhi_ts_query)
+
+ACS_5YR_RANGE = c("2015", "2010")
+ACS_5YR_FINANCE_COUNTY <- new('IncomeData',
+                              counties=COUNTIES_GEO,
+                              sql_conn=census2010_db,
+                              query=get_mhhi_acs5)
+
+# ==== Household Income by City (ACS 15 5-YR Estimate) ====
 med_hh_income.sql <- tbl(census2010_db, sql("
   SELECT
     population.geoid,
@@ -53,48 +70,6 @@ names(med_hh_income) = c("geoid", "Population", "City",
 med_hh_income_big25 <- arrange(med_hh_income,
   desc(Population))[1:25, ]
 
-# ==== Household income data by county ====
-# hc01_est_vc14 = Median Household Income (in the past 12 months)
-# hd01_vd01 = Total population
-
-med_hh_income.county <- collect(
-  tbl(census2010_db, sql(
-        "SELECT acs15_finance_county.geo_id,
-            acs15_finance_county.geo_display_label,
-            hc01_est_vc14, hd01_vd01
-         FROM acs15_finance_county JOIN acs15_race_county
-            ON acs15_finance_county.geo_id = acs15_race_county.geo_id
-         WHERE (hc01_est_vc14 IS NOT NULL)
-         AND (hc01_est_vc14 NOT LIKE '%(X)%')"))) %>%
-  mutate(hc01_est_vc14 = as.numeric(hc01_est_vc14))
-
-names(med_hh_income.county)[1] = "geo_id"
-names(med_hh_income.county)[3] = "Median Household Income"
-
-# Get 10 richest counties and their geographic coordinates
-# WHERE hc01_est_vc14 NOT LIKE '%(X)%' is temporary
-
-med_hh_income.county.rich <- collect(tbl(census2010_db,
-   sql("SELECT geo_display_label as county,
-          hc01_est_vc14 as median_household_income,
-          geography_county.geoid as geoid,
-          CAST(intptlat AS float8) as lat,
-          CAST(intptlong AS float8) as long
-        FROM geography_county JOIN acs15_finance_county
-          ON geography_county.geoid = acs15_finance_county.geoid
-        WHERE hc01_est_vc14 NOT LIKE '%(X)%'
-          ORDER BY hc01_est_vc14 DESC
-          LIMIT 25")))
-
-# ==== US County Map Data ====
-counties <- geojsonio::geojson_read("data/geography/gz_2010_us_050_00_20m.json",
-                                    what = "sp")
-
-# Lowercase names
-names(counties@data) = tolower(names(counties@data))
-
-county_mhhi <- left_join(counties@data, med_hh_income.county, by='geo_id')
-
 # ==== Zillow Home Prices Data (joined with biggest 25 cities) ====
 zillow <- collect(
   tbl(census2010_db, sql(
@@ -124,23 +99,17 @@ zillow <- collect(
 
 # ==== ggplots ====
 # ==== ggplot: Median Household Income ====
-
-# hist(med_hh_income$`Median Household Income`, breaks=50,
-#     main="Distribution of US Median Household Income by Town")
-
 mhhi_hist <- ggplot(med_hh_income,
   aes(`Median Household Income`)) +
   labs(y = 'Number of Towns') +
   geom_histogram()
 
-mhhi_hist.county <- ggplot(med_hh_income.county,
-  aes(`Median Household Income`)) +
+mhhi_hist.county <- ggplot(ACS_5YR_FINANCE_COUNTY$county_data,
+  aes(mhhi_15)) +
   labs(y = 'Number of Counties') +
   geom_histogram()
 
 # ==== ggplot: Median Income of 25 Most Populous Cities ====
-# hist(med_hh_income_big25$`Median Household Income`, breaks=50)
-
 top_25_bar <- ggplot(med_hh_income_big25) + 
   geom_col(aes(x=City, y=`Median Household Income`)) +
   ggtitle("Median Household Income -- 25 Most Populous US Cities") + 
@@ -197,7 +166,8 @@ top_25_bar.sf_vs_home <- ggplot(
   top_25_bar.sf_vs_home.df,
   aes(x=city, y=value)) +
   geom_bar(aes(fill = variable), position="dodge", stat="identity") +
-  labs(x = "City",
+  labs(title = "What Can The Median Annual San Francisco Household Income Buy?",
+       x = "City",
        y = "Size of Affordable Home (sq ft)") +
   
   # Angle text a bit to avoid crowding
@@ -205,64 +175,7 @@ top_25_bar.sf_vs_home <- ggplot(
 
 top_25_bar.sf_vs_home
 
-# Not a very useful visualization
-#
-# # Standardize rows and convert to long format
-# top_25_bar.df <- melt(
-#   zillow %>%
-#     # Remove NAs with zero
-#     mutate(yr_avg = ifelse(is.na(yr_avg), 0, yr_avg)) %>%
-#     
-#     # Standardize
-#     mutate_each_(funs(scale(.) %>% as.vector), 
-#                  vars=c("hc01","yr_avg")) %>%
-#     select(city, hc01, yr_avg),
-#   vars = city)
-# 
-# # Reference for grouped bar chart:
-# # http://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2/
-# # Standardizing bars
-# # http://stackoverflow.com/questions/15215457/standardize-data-columns-in-r
-# top_25_bar.std <- ggplot(top_25_bar.df, aes(city, value)) + 
-#   geom_bar(aes(fill = variable), position="dodge", stat="identity") + 
-#   ggtitle("Median Household Income -- 25 Most Populous US Cities") + 
-#   theme(axis.text.x = element_text(angle = 75, hjust = 1))
-
 # ==== Leaflet Map ====
-# mhhi_pal <- c("#a50026", "#d73027", "#f46d43", "#fdae61", "#fee090",
-#               "#e0f3f8", "#abd9e9", "#74add1", "#4575b4", "#313695")
-
-mhhi_pal <- c("#67001f", "#b2182b", "#d6604d", "#f4a582", "#fddbc7",
-              "#d1e5f0", "#92c5de", "#4393c3", "#2166ac", "#053061")
-
-pal = colorQuantile(
-  palette = mhhi_pal,
-  n = 10,
-  domain = county_mhhi$`Median Household Income`)
-
+# Load a blank map
 mhhi_map <- leaflet(counties) %>%
-  # Color
-  addPolygons(
-    color = ~pal(county_mhhi$`Median Household Income`),
-    weight = 1,
-    opacity = 1,
-    fillOpacity = 0.6
-  ) %>%
-  
-  addLegend(
-    title = "Median Household Income",
-    colors = mhhi_pal,
-    labels = get_label(data=county_mhhi$`Median Household Income`, n=10,
-                       transform=c("as.money")),
-    opacity = 1) %>%
-  
-  addTiles() %>%
-  
-  # Richest US counties
-  addMarkers(
-    ~med_hh_income.county.rich$long,
-    ~med_hh_income.county.rich$lat,
-    popup = paste("<b>", med_hh_income.county.rich$county, "</b><br />",
-                  "Median Household Income:",
-                  " $", med_hh_income.county.rich$median_household_income,
-                  sep=""))
+  addTiles()

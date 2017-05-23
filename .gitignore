@@ -5,6 +5,7 @@ postgres_pw.r
 /*.sql
 
 # Data Files
+data/
 data/*.zip
 
 # R

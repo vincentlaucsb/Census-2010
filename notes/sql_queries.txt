@@ -90,3 +90,33 @@ Result
 -------
 UPDATE 318
 Query returned successfully in 4 secs.
+
+Join median household income data (county)
+===============================================
+SELECT acs13_3yr_finance_county.geo_id,
+    acs13_3yr_finance_county.geo_display_label,
+    acs13_3yr_finance_county.hc01_est_vc14 as mhhi_13,
+    acs12_3yr_finance_county.hc01_est_vc14 as mhhi_12,
+    acs11_3yr_finance_county.hc01_est_vc14 as mhhi_11,
+    acs10_3yr_finance_county.hc01_est_vc14 as mhhi_10,
+    acs09_3yr_finance_county.hc01_est_vc14 as mhhi_09,
+    acs08_3yr_finance_county.hc01_est_vc14 as mhhi_08,
+    acs07_3yr_finance_county.hc01_est_vc14 as mhhi_07,
+    acs06_finance_county.hc01_est_vc14 as mhhi_06,
+    acs05_finance_county.hc01_est_vc14 as mhhi_05
+FROM acs13_3yr_finance_county JOIN acs12_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs12_3yr_finance_county.geo_id
+JOIN acs11_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs11_3yr_finance_county.geo_id
+JOIN acs10_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs10_3yr_finance_county.geo_id
+JOIN acs09_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs09_3yr_finance_county.geo_id
+JOIN acs08_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs08_3yr_finance_county.geo_id
+JOIN acs07_3yr_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs07_3yr_finance_county.geo_id
+JOIN acs06_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs06_finance_county.geo_id
+JOIN acs05_finance_county
+    ON acs13_3yr_finance_county.geo_id = acs05_finance_county.geo_id;

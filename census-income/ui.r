@@ -59,16 +59,25 @@ shinyUI(fluidPage(
     )
   ),
   
-  # Map
+  # ==== Map ====
   fluidRow(
     h2("Map"),
     p("The blue markers represented the 25 richest counties in the United States when
       ranked by median household income. As we can see, a large number of those are clustered
       around our nation's capital. Furthermore, the only markers on the West Coast all 
       belong counties in the San Francisco Bay Area."),
+    
+    # Dataset
+    selectInput("map_dataset", "Dataset",
+                c("ACS 5-Year Estimates",  # <-- Default
+                  "ACS 1-Year Estimates")),
+    
+    # Option to change year: Default ACS 5-Year
+    selectInput("map_year", "Year", ACS_5YR_RANGE),
+    
+    # Map
     leafletOutput("mhhi_map")
   ),
-  
   
   # Median Income Table Output
   fluidRow(
@@ -76,12 +85,25 @@ shinyUI(fluidPage(
     p("Do you have any more lingering questions about the distribution of income
       in the United States? Want to find out how rich your home town is? This data
       explorer has access to the median household income of every US town and county
-      (sans a few missing values)."),
+      (when viewing ACS 5-Year Estimates)."),
+    h3("Comparing Change Between Years"),
+    p("You may have noticed that the years for which data is available is spaced out.
+      This is because consecutive ACS surveys contain overlapping samples,
+      making comparisons unreliable."),
+    h3("Notes"),
+    p(HTML("<ul>
+              <li>MoE = 'Margin of Error'</li>
+              <li>All figures are in 2016 inflation-adjusted dollars using annual average
+                  values of the CPI for all urban consumers</li>
+            </ul>")),
     
     # Median Income Table Options
     selectInput("mhhi_table",
-                "Geographic Level",
-                c("Towns", "Counties")),
+                "Data Set",
+                c("Towns (ACS 2015 5-Year Estimates)",
+                  "Counties (ACS 1-Year Estimates)",
+                  "Counties (ACS 5-Year Estimates)")
+                ),
     
     dataTableOutput("mhhi_table")
   )
